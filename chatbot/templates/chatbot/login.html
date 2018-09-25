@@ -1,0 +1,45 @@
+
+{% load staticfiles %}
+{% load mathfilters %}
+<!-- {% extends 'chatbot.home.html' % } -->
+<html>
+
+    <head>
+        <title> client Page </title>
+
+        <link rel="stylesheet" href=" {% static 'css/index.css' %} ">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+        <script src="{% static 'js/index.js' %}" ></script>
+
+    </head>
+
+    <body>
+
+        <div class="header">  
+          <!-- <br> <br> -->
+          <div id="logo">
+            <a>
+              <img src="../static/img/logo.png" alt="logo"  />
+              <div class="caption">Plato eLearning</div>
+            </a>
+          </div>
+          <!-- <img src="static/img/logo.png" alt="logo" /> -->
+          <h1><I> Welcome to Search-Bot  </I></h1>
+        </div>
+
+
+        <div class="login">
+x
+          <center><h2>Form</h2></center>
+          <center><form method="post">
+            {% csrf_token %}
+              {{form.as_p}}</center>
+            <center><button type="submit" class="btn btn-primary">LOGIN</button></center>
+          </form>
+            
+          </center>
+        </div>
+    </body>
+
+</html>

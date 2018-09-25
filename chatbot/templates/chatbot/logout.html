@@ -1,0 +1,43 @@
+
+{% load staticfiles %}
+{% load mathfilters %}
+
+<html>
+
+    <head>
+        <title> client Page </title>
+
+        <link rel="stylesheet" href=" {% static 'css/index.css' %} ">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+        <script src="{% static 'js/index.js' %}" ></script>
+
+    </head>
+
+    <body>
+
+        <div class="header">  
+          <!-- <br> <br> -->
+          <div id="logo">
+            <a>
+              <img src="../static/img/logo.png" alt="logo"  />
+              <div class="caption">Plato eLearning</div>
+            </a>
+          </div>
+          <!-- <img src="static/img/logo.png" alt="logo" /> -->
+          <h1><I> Thank you for using Search-Bot  </I></h1>
+        </div>
+
+        <div class="home_middle">
+          <center>
+          <br><br>
+          <br><br>
+          <br><br>
+          <center> <p><a href="{% url 'login' %}"><b>Log IN</b></a><br><br>again</p></center>
+          </center>
+        </div>
+
+
+        </div>
+      </body>
+  </html>

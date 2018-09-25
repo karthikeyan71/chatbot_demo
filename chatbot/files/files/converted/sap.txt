@@ -1,0 +1,860 @@
+0,510.319793,750.243934108,9.029127834,
+0,78.854953,677.690792511,10.336820887,SAP Tutorial
+0,79.285341,648.451592987,10.180203179,SAP - Home
+0,79.285341,619.185149987,10.180203179,SAP - Evolution of SAP
+0,79.285341,589.918706987,10.180203179,SAP - Introduction To ERP
+0,79.285341,560.652263987,10.180203179,SAP - Modules
+0,79.285341,531.385820987,10.180203179,SAP - Architecture
+0,79.285341,502.119377987,10.180203179,SAP - GUI Installation
+0,79.285341,472.852933987,10.180203179,SAP - Net Weaver
+0,79.285341,443.586490987,10.180203179,SAP - Logging onto SAP System
+0,79.285341,414.320047987,10.180203179,SAP - GUI Customization
+0,79.285341,385.053578987,10.180203179,SAP - End-User Customization
+0,79.285341,355.787135987,10.180203179,SAP - GUI Navigation
+0,79.285341,326.520692987,10.180203179,SAP - Programming Language (ABAP)
+0,79.285341,297.254249987,10.180203179,SAP - SAP Security
+0,79.285341,267.987806987,10.180203179,SAP - SAP Basis
+0,79.285341,238.721363987,10.180203179,SAP - Transaction Codes
+0,79.285341,209.454920987,10.180203179,SAP - Project Lifecycle
+0,79.285341,180.188477987,10.180203179,SAP - Career In SAP
+0,78.854953,141.512345511,10.336820887,SAP Useful Resources
+0,79.285341,112.273145987,10.180203179,SAP - Quick Guide
+1,79.285341,768.444003987,10.180203179,SAP - Useful Resources
+1,79.285341,739.177560987,10.180203179,SAP - Discussion
+1,225.316279,704.037387948,21.926590716,SAP - Quick Guide
+1,269.58179,677.280539974,10.963295358,Advertisements
+1,251.301007,651.238475952,12.777460584,Ad closed by
+1,227.898612,634.192489268,10.689213156,Stop seeing this ad Why this ad?
+1,82.082869,606.544450668,11.372402214,
+1,91.831174,607.031802386,11.511459762,Previous Page
+1,453.54072,607.031802386,11.511459762,Next Page
+1,500.517676,605.898867668,11.372402214,
+1,208.832391,573.156130948,21.926590716,SAP - Evolution of SAP
+1,71.107953,504.98877475,58.22838675,SAP is the world leader in enterprise applications in terms of software and software-related service revenue. Based on market capitalization, it is the world’s third largest independent software manufacturer supporting all sizes of industries helping them to operate profitability, grow sustainably and stay ahead of the competition in the market.
+1,69.171203,476.557189687,18.637603079,SAP at a Glance
+1,71.107953,437.46075075,27.24038775,SAP is known worldwide for its unique innovations that help the customers run their business with high efficiency. Some of its facts and figures stand as follows −
+1,109.197368,412.92858575,11.74638875,More than 263,000 customers in 188 countries.
+1,109.197368,391.62433675,11.74638875,More than 68,800 employees in more than 130 countries.
+1,109.197368,370.32008775,11.74638875,Annual revenue (IFRS) of €1682 billion.
+1,109.197368,333.52183975,27.24038775,Listed   under   the   symbol   "SAP"   on   stock   exchanges,   including   the   Frankfurt   Exchange   and NYSE.
+1,69.171203,306.627796024,14.252284208,ISO Certificates
+1,107.260618,282.893711974,10.963295358,SAP Development: ISO 9001:2008 certificate
+1,107.260618,264.171795974,10.963295358,SAP Active Global Support: ISO 9001:2008 certificate
+1,107.260618,245.449879974,10.963295358,SAP Active Global Support: ISO 27001:2005 certificate
+1,69.171203,213.223771687,18.637603079,Industries & Solution
+1,90.690646,179.707980974,12.074989776,Industries
+1,345.394773,179.707980974,12.074989776,Line of Business
+1,113.286062,139.531189974,10.963295358,Aerospace & Defense
+1,113.286062,120.809273974,10.963295358,Automotive
+1,113.286062,102.087358974,10.963295358,Banking
+1,367.990189,139.531189974,10.963295358,Asset Management
+1,367.990189,120.809273974,10.963295358,Sustainability
+1,367.990189,102.087358974,10.963295358,Finance
+2,113.286062,768.307785974,10.963295358,Chemicals
+2,113.286062,749.585869974,10.963295358,Consumer Products
+2,113.286062,730.863953974,10.963295358,Defense & Security
+2,113.286062,712.142037974,10.963295358,Engineering, Construction & Operations
+2,113.286062,693.420122974,10.963295358,Healthcare
+2,113.286062,674.698206974,10.963295358,Higher Education & Research
+2,113.286062,655.976290974,10.963295358,High Tech
+2,367.990189,768.307785974,10.963295358,Human Resources
+2,367.990189,749.585869974,10.963295358,Information Technology
+2,367.990189,730.863953974,10.963295358,Manufacturing
+2,367.990189,712.142037974,10.963295358,Marketing
+2,367.990189,693.420122974,10.963295358,R&D, Engineering
+2,367.990189,674.698206974,10.963295358,Sales
+2,367.990189,655.976290974,10.963295358,Service
+2,113.286062,637.254374974,10.963295358,Industrial Machinery, Components
+2,367.990189,637.254374974,10.963295358,Sourcing and Procurement
+2,113.286062,618.532459974,10.963295358,Insurance
+2,113.286062,599.810543974,10.963295358,Life Sciences
+2,113.286062,581.088627974,10.963295358,Media
+2,113.286062,562.366711974,10.963295358,Mill Products
+2,113.286062,543.644796974,10.963295358,Mining
+2,113.286062,524.922880974,10.963295358,Oil & Gas
+2,113.286062,506.200964974,10.963295358,Professional Services
+2,113.286062,487.479048974,10.963295358,Public Sector
+2,113.286062,468.757133974,10.963295358,Retail
+2,113.286062,450.035217974,10.963295358,Sports & Entertainment
+2,113.286062,431.313301974,10.963295358,Telecommunications
+2,113.286062,412.591385974,10.963295358,Travel & Transportation
+2,113.286062,393.869470974,10.963295358,Utilities
+2,113.286062,375.147554974,10.963295358,Wholesale Distribution
+2,367.990189,618.532459974,10.963295358,Supply Chain
+2,346.040356,592.687612974,12.074989776,Featured Solutions
+2,368.635772,564.949045974,10.963295358,Big Data
+2,368.635772,546.227129974,10.963295358,Customer Engagement
+2,368.635772,527.505213974,10.963295358,Internet of Things
+2,368.635772,508.783297974,10.963295358,Rapid Deployment Solutions
+2,368.635772,490.061382974,10.963295358,Security
+2,368.635772,471.339466974,10.963295358,Small & Medium Enterprises
+2,368.635772,452.617550974,10.963295358,User Experience
+2,69.171203,325.705891687,18.637603079,Products
+2,90.690646,292.190100974,12.074989776,Business Applications
+2,298.245678,292.190100974,12.074989776,Database & Technology
+2,113.286062,252.013309974,10.963295358,Business Suite
+2,113.286062,233.291394974,10.963295358,CRM
+2,320.841094,252.013309974,10.963295358,Application Foundation
+2,320.841094,233.291394974,10.963295358,Business Process Management and Integration
+2,113.286062,214.569478974,10.963295358,Enterprise Asset Management
+2,320.841094,214.569478974,10.963295358,Cloud Computing
+2,113.286062,195.847562974,10.963295358,Enterprise Resource Planning
+2,320.841094,195.847562974,10.963295358,Content and Collaboration
+2,113.286062,177.125646974,10.963295358,Financial Management
+2,113.286062,158.403731974,10.963295358,Human Capital Management
+2,113.286062,139.681815974,10.963295358,Procurement
+2,320.841094,177.125646974,10.963295358,Database
+2,320.841094,158.403731974,10.963295358,Data Management
+2,320.841094,139.681815974,10.963295358,Data Warehousing
+2,113.286062,120.959899974,10.963295358,Product Lifecycle Management
+2,320.841094,120.959899974,10.963295358,Enterprise Information Management
+2,113.286062,102.237983974,10.963295358,Supply Chain Management
+2,320.841094,102.237983974,10.963295358,In-Memory Computing (SAP HANA)
+3,113.286062,768.307785974,10.963295358,Sustainability
+3,320.841094,768.307785974,10.963295358,Mobile
+3,320.841094,749.585869974,10.963295358,Security
+3,90.690646,710.269843974,12.074989776,Analytics
+3,298.245678,710.269843974,12.074989776,Mobile
+3,113.286062,670.093040974,10.963295358,Applied Analytics
+3,113.286062,651.371124974,10.963295358,Business Intelligence
+3,113.286062,632.649208974,10.963295358,Data Warehousing
+3,113.286062,613.927293974,10.963295358,Enterprise Performance Management
+3,113.286062,595.205377974,10.963295358,Governance, Risk, Compliance
+3,113.286062,576.483461974,10.963295358,Predictive Analytics
+3,320.841094,670.093040974,10.963295358,Mobile Apps
+3,320.841094,651.371124974,10.963295358,Managed Mobility
+3,320.841094,632.649208974,10.963295358,Mobile Platform
+3,320.841094,613.927293974,10.963295358,Mobile Secure
+3,320.841094,595.205377974,10.963295358,Mobile Services
+3,90.690646,536.306671974,12.074989776,Cloud
+3,113.286062,496.129854974,10.963295358,Applications
+3,113.286062,477.407938974,10.963295358,Business Networks
+3,113.286062,458.686023974,10.963295358,Infrastructure
+3,113.286062,439.964107974,10.963295358,Platform
+3,113.286062,421.242191974,10.963295358,Social Collaboration
+3,69.171203,370.939750687,18.637603079,SAP Partners
+3,71.107953,316.34931275,42.73438775,SAP partners play an important  role  in  helping  organizations to  buy, build, implement, service,  and support the SAP solution that best fits their unique needs. They help organizations to achieve business goals quickly with better results. Broadly, SAP partners help in −
+3,107.260618,292.383754974,10.963295358,Solving small and midsize business needs
+3,107.260618,273.661838974,10.963295358,Extending SAP solution with custom apps
+3,107.260618,254.939922974,10.963295358,Managing country and language rollouts
+3,107.260618,236.218006974,10.963295358,Buying SAP solutions
+3,69.171203,203.991950687,18.637603079,SAP Support & Services
+3,71.107953,164.89551275,27.24038775,SAP offers a wide range of services to its customers with the help of its 15000+ trained and certified consultants with their unparalleled knowledge across 25 distinct industries.
+3,71.107953,143.59126375,11.74638875,SAP provides the following supports and services through its portal −
+3,107.260618,119.625704974,10.963295358,Download SAP software
+3,107.260618,100.903788974,10.963295358,SAP Notes (Support Patches & Upgrades)
+3,107.260618,82.181873974,10.963295358,Knowledge-based articles
+4,107.260618,774.333229974,10.963295358,Request a Developer
+4,107.260618,755.611313974,10.963295358,Edit system
+4,107.260618,736.889397974,10.963295358,Managing remote connections
+4,107.260618,718.167482974,10.963295358,Reporting and tracking a support incident, etc.
+4,71.107953,693.06870975,11.74638875,You can access the SAP support portal at −
+4,71.107953,671.76446075,11.74638875,https://support.sap.com/home.html
+4,71.107953,650.46021175,12.93749,Log in using your “S-User ID” and “password” and access the support offered by SAP.
+4,197.254933,622.435655948,21.926590716,SAP - Introduction To ERP
+4,71.107953,569.76229975,43.925488,SAP is a market leader in providing ERP (Enterprise Resource and Planning) solutions and services. In this chapter, we will try to understand more on ERP and where it should be used. In addition, we will learn the implementation techniques of ERP along with the ERP packages available in the market.
+4,69.171203,541.330713687,18.637603079,What is ERP?
+4,71.107953,502.23427575,27.24038775,Enterprise Resource Planning (ERP) is a software that is built to organizations belonging to different industrial sectors, regardless of their size and strength.
+4,71.107953,449.94202775,42.73438775,The ERP package is designed to support and integrate almost every functional area of a business process such as procurement of goods and services, sale and distribution, finance, accountings, human resource, manufacturing, production planning, logistics & warehouse management.
+4,69.171203,183.440882687,18.637603079,Business Process Integration
+4,71.107953,113.35644575,58.22838575,Every   business,   regardless   of   the   industry   they   belong   to,   require   connected   systems   with   efficient information flow from one business process to another. Business Process Integration (BPI) plays an important   role   in   overcoming   integrating   challenges   that   allows   organizations   to   connect   systems internally and externally.
+4,71.107953,92.05219675,11.74638875,Business Process Integration (BPI) allows −
+5,107.260618,774.333229974,10.963295358,automation of business processes,
+5,107.260618,755.611313974,10.963295358,integration of systems and services,
+5,107.260618,736.889397974,10.963295358,secure sharing of data across numerous applications, and
+5,107.260618,718.167482974,10.963295358,automation of management, operational, and supporting process.
+5,71.107953,677.57471075,27.24038775,The following illustration shows an overview of various business processes running in an enterprise and how they are integrated.
+5,69.171203,391.060456687,18.637603079,Evolution of ERP
+5,71.107953,351.96399175,27.24038775,During early phases of development, integrated solutions were designed for particular process areas such as −
+5,107.260618,327.998432974,10.963295358,Material Management − the integrated system was known as Material Requirement Planning (MRP)
+5,107.260618,309.276517974,10.963295358,Manufacturing − the integrated system was known as Manufacturing Resource Planning
+5,71.107953,253.18974675,42.73438675,However none of the integrated systems came with a complete solution for an organization covering major business process areas. In early 1990’s, the Gartner Group first used the acronym  ERP.   By mid–1990’s, ERP systems addressed all the core enterprise functions.
+5,71.107953,200.89749875,43.74149775,In the early stages, most of the ERP solutions were focused on automating back office functions that were not directly affecting customers or general public. Later, front office functions such as customer relationship management and e–business
+5,264.69686,200.89749875,11.74638875,systems were integrated.
+5,69.171203,172.465966687,18.637603079,Functions of ERP
+5,71.107953,148.86352675,11.74638875,An ERP system typically performs the following functions −
+5,109.197368,124.33136175,11.74638875,Supports the integrated business process inside the organization.
+5,109.197368,103.02711275,11.74638875,Improves capital planning and helps in executing organizational plans and strategies.
+5,109.197368,81.72286375,11.74638875,Helps speed up the decision-making process over the analysis of accurate data.
+6,109.197368,758.27262375,27.24038775,Helps extend the business network to wider domains, expanding the products and services to reach more customers, suppliers, and partners.
+6,109.197368,736.96837475,11.74638875,Identifies operational risks to improve governance.
+6,109.197368,700.17012675,27.24038775,Provides protection against organizational data breaches and security threats to leakage of information.
+6,109.197368,663.37187775,27.24038875,Makes the organization adaptable to the rapid changes in the business process according to the needs.
+6,109.197368,642.06762875,11.74638875,Gives long-term profit by providing means to increase the customer base.
+6,69.171203,610.408140687,18.637603079,Functional Areas
+6,71.107953,571.31168875,27.24038775,ERP is a business management software is usually a suite of integrated applications that a company can use to collect, store, manage, and interpret data from many functional areas including −
+6,109.197368,546.77952375,12.93749,Financial Accounting − Deals with financial transactions and data.
+6,109.197368,525.47527475,12.93749,Human Resource − Deals with information related to employee of an organization.
+6,109.197368,488.67702575,28.43149,Customer   Relationship   Management   −   Deals   with   capturing   and   managing   customer’s relationship, facilitating the use of customer experience to evaluate the knowledge database.
+6,109.197368,467.37277675,12.93749,Sales and Distribution − Deals with order placement, delivery, shipment and invoicing.
+6,109.197368,446.06852775,12.93749,Logistics and Warehouse Management − Deals with storage of products and shipment.
+6,109.197368,409.27027975,28.43149,Manufacturing and Material Management − Deals with the production and production planning activities.
+6,109.197368,372.47203175,28.431489,Supply Change Management − Deals with the movement of products, storing, managing, and controlling supplies.
+6,109.197368,351.16778275,12.93749,Business Intelligence − Analyzes data and converts the same to information.
+6,69.171203,319.508280687,18.637603079,Advantages of ERP
+6,71.107953,295.90584175,11.74638875,By integrating the business processes, the ERP offers the following advantages −
+6,109.197368,271.37367675,11.74638875,Saves time and expenses.
+6,109.197368,234.57542775,27.24038875,Allows   faster   decision-making   by   the   management,   utilizing   the   data   and   reporting   tools designed in the systems.
+6,109.197368,213.27117875,11.74638875,Single data source and sharing of data among all the units of an organization.
+6,109.197368,191.96692975,11.74638875,Helps in tracking every transaction that takes place in an organization, from starting till end.
+6,109.197368,170.66268075,11.74638875,Supplies real-time information whenever required.
+6,109.197368,133.86443275,27.24038775,Provides synchronized information transfer in between different functional areas such as sales, marketing, finance, manufacturing, human resource, logistics, etc.
+6,69.171203,102.204983687,18.637603079,Disadvantages of ERP
+6,71.107953,78.60254475,11.74638875,It is not always easy to incorporate ERP in an organization. ERP suffers from the following drawbacks −
+7,109.197368,758.27262375,27.24038775,Sometimes business processes critical to an organization are to be re-engineered to align them with an ERP solution.
+7,109.197368,736.96837475,11.74638875,Cost of complex integration can be very high.
+7,109.197368,715.66412575,11.74638875,Switching from one ERP solution to another increases the implementation cost even further.
+7,109.197368,694.35987675,11.74638875,End-users are to be trained for their daily operations.
+7,109.197368,673.05562775,11.74638875,Customization is not preferred.
+7,69.171203,641.396138687,18.637603079,ERP Packages
+7,71.107953,602.29968775,27.24040075,Many   companies   develop   and   implement   various   ERP   packages   according   to   their   budget   and requirements to help them meet their business needs and run their business efficiently.
+7,71.107953,565.50143875,27.24038875,The following link takes you to a page from Wikipedia where you can find a list of almost all the ERP packages designed worldwide.
+7,71.107953,544.19718975,11.74638875,http://en.wikipedia.org/wiki/List_of_ERP_software_packages
+7,239.605195,516.172633948,21.926590716,SAP - Modules
+7,71.107953,478.99327675,27.24038775,SAP   solutions   include   a   number   of   functional   modules,   which   support   transactions   to   execute   key business processes, such as −
+7,107.260618,455.027717974,10.963295358,Financial Accounting (FI)
+7,107.260618,436.305802974,10.963295358,Financial Supply Chain Management (FSCM)
+7,107.260618,417.583886974,10.963295358,Controlling (CO)
+7,107.260618,398.861970974,10.963295358,Materials Management (MM)
+7,107.260618,380.140054974,10.963295358,Sales and Distribution (SD)
+7,107.260618,361.418139974,10.963295358,Logistics Execution (LE)
+7,107.260618,342.696223974,10.963295358,Production Planning (PP)
+7,107.260618,323.974307974,10.963295358,Quality Management (QM)
+7,107.260618,305.252391974,10.963295358,Plant Maintenance (PM)
+7,107.260618,286.530475974,10.963295358,Project System (PS)
+7,107.260618,267.808560974,10.963295358,Human Resources (HR)
+8,69.171203,716.606593687,18.637603079,Finance and Controlling (FICO)
+8,71.107953,677.51015475,27.24038875,SAP FICO is a combination of two ERP modules, i.e., Finance Accounting (FI) and Controlling (CO). Under Finance in SAP and at an enterprise level, the following modules take part −
+8,107.260618,653.544596974,10.963295358,FI − Finance
+8,107.260618,634.822680974,10.963295358,CO − Controlling
+8,107.260618,616.100764974,10.963295358,IM − Investment Management
+8,107.260618,597.378835974,10.963295358,TR − Treasury
+8,107.260618,578.656920974,10.963295358,EC − Enterprise Controlling
+8,71.107953,522.57014975,43.925488,SAP   FI   (Financial   Accounting)   is   accountable   for   tracking   the   flow   of   financial   data   across   the organization in a controlled manner and integrating all the information for effective strategic decision- making.
+8,69.171203,494.138590687,18.637603079,Activities Involved in SAP FI
+8,109.197368,453.68641675,27.24038775,Creation   of   Organizational   Structure   (Defining   Company,   Company   Codes,   business   Areas, Functional Areas, Credit Control, Assignment of Company Codes to Credit Controls)
+8,109.197368,416.88816775,27.24038875,Financial Accounting Global Settings (Maintenance of Fiscal Year, Posting Periods, defining Document types, posting keys, Number ranges for documents)
+8,109.197368,380.08994675,27.24036175,General   Ledger   Accounting   (Creation   of   Chart   of   Accounts,   Account   groups,   defining   data transfer rules, creation of General Ledger Account)
+8,109.197368,358.78569775,11.74638875,Tax Configuration & Creation and Maintenance of House of Banks
+8,109.197368,321.98744875,27.24038875,Account Payables (Creation of Vendor Master data and vendor-related finance attributes like account groups and payment terms)
+8,109.197368,285.18920075,27.24038775,Account Receivables (Creation of Customer Master data and customer-related finance attributes like account groups and payment terms
+8,109.197368,263.88495175,11.74638875,Asset Accounting
+8,109.197368,242.58070275,11.74638875,Integration with SD and MM
+8,71.107953,187.06053875,43.925489,SAP CO (Controlling) module facilitates coordinating, monitoring, and optimizing all the processes in an organization. It controls the business flow in an organization. This module helps in analyzing the actual figures with the planned data and in planning business strategies.
+8,71.107953,165.75628975,11.74638875,Two kinds of elements are managed in CO −
+8,107.260618,141.790731974,10.963295358,Cost elements
+8,107.260618,123.068815974,10.963295358,Revenue elements
+8,71.107953,97.97004375,11.74638875,These elements are stored in the FI module.
+9,69.171203,766.639299687,18.637603079,Activities Involved in SAP CO
+9,109.197368,741.68113175,11.74638875,Cost Element Accounting (Overview of the costs and revenues that occur in an organization)
+9,109.197368,720.37688875,11.74638875,Cost Center Accounting
+9,109.197368,699.07263975,11.74638875,Activity-Based-Accounting (Analyzes cross-departmental business processes)
+9,109.197368,677.76839075,11.74638875,Internal Orders
+9,109.197368,640.97014275,27.24038775,Product Cost Controlling (Calculates the costs that occur during the manufacture of a product or provision of a service)
+9,109.197368,604.17189475,27.24038775,Profitability   Analysis   (Analyzes   the   profit   or   loss   of   an   organization   by   individual   market segments)
+9,109.197368,567.37364675,27.24038775,Profit Center Accounting (Evaluates the profit or loss of individual, independent areas within an organization)
+9,69.171203,345.417722687,18.637603079,Sales & Distribution Management (SD)
+9,71.107953,290.82728475,42.73438675,SAP SD is one of the most important modules in SAP. It has a high level of integration complexity. SAP SD is used by organizations to support sales and distribution activities of products and services, starting from enquiry to order and then ending with delivery.
+9,71.107953,238.53503675,42.73438775,SAP SD can monitor a plethora of activities that take place in an organization such as products enquires, quotation   (pre-sales   activities),   placing   order,   pricing,   scheduling   deliveries   (sales   activity),   picking, packing, goods issue, shipment of products to customers, delivery of products and billings.
+9,71.107953,186.24278975,42.73438675,In all these processes, multiple modules are involved such as FI (Finance Accounting), CO (Controlling), MM (Material Management), PP (Production Planning), LE (Logistics Execution), etc., which shows the complexity of the integration involved.
+9,69.171203,157.811204687,18.637603079,Activities Involved in SAP SD
+9,109.197368,101.86503075,42.73438775,Setting   up   Organization   Structure   (creation   of   new   company,   company   codes,   sales organization,   distribution   channels,   divisions,   business   area,   plants,   sales   area,   maintaining sales offices, storage location)
+9,109.197368,80.56078175,11.74638875,Assigning   Organizational   Units   (Assignment   of   individual   components   created   in   the   above
+10,109.197368,758.27262375,27.24038775,activities with each other according to design like company code to company, sales organization to company code, distribution channel to sales organization, etc.)
+10,109.197368,736.96837475,11.74638875,Defining Pricing Components (Defining condition tables, condition types, condition sequences)
+10,109.197368,715.66412575,11.74638875,Setting up sales document types, billing types, and tax-related components
+10,109.197368,694.35987675,11.74638875,Setting up Customer master data records and configuration
+10,69.171203,662.700387687,18.637603079,Material Management (MM)
+10,71.107953,623.60394975,27.24038775,Material Management deals with movement of materials via other modules like logistics, supply chain management, sales and delivery, warehouse management, production and planning.
+10,69.171203,413.914094687,18.637603079,Logistic Execution (LE)
+10,71.107953,359.32368375,42.73438675,Logistic   Execution   can   be   divided   into   two   sub-modules,   i.e.,   shipment   of   goods   (purchase   to procurement   process)   and   warehouse   management   (storage   of   goods).   These   two   modules   are integrated with sale and distribution, material management, and production and planning.
+10,69.171203,144.469149687,18.637603079,Supplier Relationship Management (SRM)
+10,71.107953,89.87871175,42.73438675,As the name SRM suggests, this module deals with the effective and efficient transition of products and services   between   an   organization   and   its   suppliers.   The   main   process   covered   in   this   section   is procurement of products like direct materials, indirect materials, and services. This module can effectively
+11,71.107953,773.76662275,11.74638875,integrate with planning, accounting, and inventory system.
+11,71.107953,542.64780075,12.93749,End-to-End Procurement Cycle
+11,71.107953,521.34355175,12.93749,Procurement process with SAP Enterprise Buyer comprises of the following major steps −
+11,107.260618,497.377992974,10.963295358,Shopping Carts
+11,107.260618,478.656077974,10.963295358,Approval of Shopping Cart
+11,107.260618,459.934161974,10.963295358,Sourcing of Requirements
+11,107.260618,441.212245974,10.963295358,Purchase Orders
+11,107.260618,422.490329974,10.963295358,Purchase Order Approval
+11,107.260618,403.768414974,10.963295358,Confirm Goods/Services
+11,107.260618,385.046498974,10.963295358,Confirmation Approval
+11,107.260618,366.324582974,10.963295358,Process Invoice
+11,107.260618,347.602666974,10.963295358,Invoice Approval
+11,69.171203,315.376558687,18.637603079,Customer Relationship Management (CRM)
+11,71.107953,276.28011975,27.24038775,CRM deals with end-to-end customer related processes. CRM is designed to centralize the data related to all the customers associated with an organization. It helps an organization −
+11,109.197368,236.25395475,27.24038875,Maintain its sales, services, and build marketing strategies according the market demand and customer data analysis.
+11,109.197368,199.45570675,27.24038775,Remain focused on its customers and via information analysis, help the business to know more about its customers.
+11,109.197368,178.15145775,11.74638875,Improve sales and services and building better relationships with customers.
+12,69.171203,654.630596687,18.637603079,Human Resource (HR)
+12,71.107953,615.53415775,27.24038875,The most important objective of master data administration in Human Resources is to enter employee- related data for administrative, time-recording, and payroll purposes.
+12,71.107953,563.24189775,42.73438675,A new employee can be hired without using Recruitment. Instead you can hire someone by running a personnel action in Personnel Administration, thereby creating the necessary data for the employee to be hired.
+12,71.107953,526.44364975,27.24038775,Employee data must be kept current. After an employee is hired, circumstances can always arise which necessitate either the entry of new data or the correction of current data. For instance −
+12,109.197368,501.91148375,11.74638875,An employee moves to his or her new address must be stored in the system.
+12,109.197368,465.11323575,27.24038775,An employee gets a pay hike at the start of the year. The new salary must be stored for the relevant date.
+12,109.197368,428.31498775,27.24038775,An   employee   changes   jobs   within   the   organization.   His   or   her   organizational   assignment, working time, and salary also change.
+12,109.197368,407.01073875,11.74638875,Data can be stored for the past, present, or future.
+12,71.107953,382.47857275,12.93749,Note − Entering payroll-relevant data in the past triggers retroactive accounting.
+12,71.107953,131.34666875,27.24038775,The HR module is comprised of major areas of functionality known as sub-modules. The HR module is a true demonstration of the strength of the SAP product in Enterprise Resource Planning.
+12,71.107953,79.05442075,42.73438775,The HR system has very strong integration points (where data is passed back and forth without human intervention) with just about all of the other SAP modules. In addition, there is very tight integration amongst the HR sub-modules.
+13,71.107953,773.76662275,11.74638875,The above illustration highlights some of the basic SAP HR terms as listed below.
+13,107.260618,749.801063974,10.963295358,Business trip management
+13,107.260618,731.079148974,10.963295358,Recruitment
+13,107.260618,712.357232974,10.963295358,Payroll
+13,107.260618,693.635316974,10.963295358,Personal development
+13,107.260618,674.913400974,10.963295358,Organizational Management
+13,107.260618,656.191485974,10.963295358,Time Management
+13,107.260618,637.469569974,10.963295358,Workforce Planning
+13,107.260618,618.747653974,10.963295358,ESS
+13,107.260618,600.025737974,10.963295358,MSS
+13,107.260618,581.303822974,10.963295358,Training and event management
+13,107.260618,562.581906974,10.963295358,CATS
+13,107.260618,543.859990974,10.963295358,Benefits
+13,107.260618,525.138074974,10.963295358,Compensation management
+13,107.260618,506.416159974,10.963295358,Personal Administration
+13,141.132227,474.597079948,21.926590716,SAP - Architecture & Installation SAP GUI
+13,71.107953,437.41772275,27.24038775,This chapter throws light on the architecture of R/3 and explains how to install the SAP GUI on your system.
+13,69.171203,408.986137687,18.637603079,SAP : Three-Tier Architecture
+13,71.107953,369.88969875,27.24038775,With SAP R/3, SAP ushers in a new generation of enterprise software — from mainframe computing (client-server architecture) to the three-tier architecture of database, application, and user interface.
+13,71.107953,129.73271075,12.93749,Three-Tier Architecture of SAP R/3
+13,69.171203,88.45840775,31.860460482,Presentation Servers Presentation servers contain systems capable of providing a graphical interface.
+14,107.260618,774.333229974,10.963295358,Presentation Layer is also known as client Layer
+14,107.260618,755.611313974,10.963295358,Presentation Layer is a user interaction
+14,107.260618,736.889397974,10.963295358,In SAP-User interaction purpose we use GUI
+14,107.260618,718.167482974,10.963295358,GUI stands for Graphical user interface
+14,107.260618,699.445566974,10.963295358,Example − Desktop, Mobile Devices, laptops
+14,69.171203,589.40956175,31.860434482,Application Servers Application servers include specialized systems with multiple CPUs and a vast amount of RAM.
+14,109.197368,564.87739575,11.74638875,Application Layer is also known as Kernel Layer and Basic Layer.
+14,109.197368,543.57314775,11.74638875,SAP application programs are executed in Application Layer.
+14,109.197368,506.77489875,27.24038875,Application Layer serves as a purpose of a communicator between Presentation and Database Layer.
+14,109.197368,469.97665075,27.24038775,Application   server   is   where   the   dispatcher   distributes   the   work   load   to   the   different   work processes makes the job done.
+14,69.171203,357.92491975,31.860408482,Database Servers Database servers contain specialized systems with fast and large hard-drives.
+14,107.260618,333.959360974,10.963295358,Database layer stores the data
+14,107.260618,315.237445974,10.963295358,Data store can be Business data, SAP system data, SAP tables, Programs.
+14,107.260618,296.515529974,10.963295358,Examples − Oracle, Microsoft SQL Server, IBM DB/2, Siebel, Sybase, etc.
+15,71.107953,610.26188175,12.93749,Three-Tier Architecture
+15,69.171203,581.830322687,18.637603079,What is a Client?
+15,71.107953,542.73388375,27.24038775,A client is a logical portion of an SAP R/3 physical database. From a business standpoint, a client can be interpreted as a logical group of companies.
+15,69.171203,397.934805024,14.252284208,Points to Remember −
+15,109.197368,358.14011375,27.24038875,All customizing (configuration) and development (ABAP) work in SAP R/3 is performed in a client.
+15,109.197368,305.84786675,42.73438675,However,   the   data   from   both   customizing   and   development   work   may   be   stored   within   an individual client (client dependent data) or among all clients (client independent data) in the system.
+15,69.171203,274.188364687,18.637603079,Client-Dependent vs. Client-Independent
+15,71.107953,235.09192575,27.24038875,The data in each client may be separate from that of the other clients. There are basically two types of data in an SAP R/3 system − Client-dependent and Client-independent data.
+15,109.197368,179.57176275,43.925488,Client-dependent data is defined as data specific to an individual client. Examples of client- dependent data include number ranges, ABAP variants, and user masters as well as the data that is created or updated through SAP R/3 transactions.
+15,109.197368,127.27951475,43.925489,Client-independent data can be defined as data contained across all clients in the system. Examples   of   client-independent   data   include   data   dictionary   objects   (tables,   views),   ABAP source code, screens, and menus.
+16,109.197368,555.86074375,58.22838675,Data   resides   in   tables.   To   determine   if   a   particular   table   is   client-dependent   or   client- independent, the table structure needs to be reviewed. The table structure can be viewed by the data dictionary (SE11). If MANDT (client in German) is the first key field of the table, then the table is client-dependent; otherwise, the table is client-independent.
+16,109.197368,519.06249575,27.24038775,For   example,   the   TSTC   table   is   client-independent;   however,   the   USR01   table   is   client- dependent.
+16,69.171203,487.402994687,18.637603079,SAP R/3 Delivered Clients
+16,71.107953,448.30655575,27.24038775,Every SAP R/3 system contains the three clients 000, 001, and 066. Let’s review these clients and examine what they contain.
+16,71.107953,427.00230675,11.74638875,These clients provide different features and must not be deleted.
+16,109.197368,386.97616775,28.431463,Client 000 performs special functions. In particular, it is given extended functionality during upgrades.
+16,109.197368,365.67191875,12.93749,Client 001 is basically a copy of 000 and can be used as a basis for a new customizing client.
+16,109.197368,328.87367075,28.43149,Client 066 is a special client which is provided for operational system monitoring. It is used by SAP R/3’s Early Watch Service to provide performance recommendations.
+16,71.107953,86.77993275,27.24038775,In releases prior to 3.0, client 000 contained a model company. As of Release 4.0 clients, 000 and 001 are identical. Client 000 no longer contains a model company. Either client can be used as the basis for
+17,71.107953,758.27262375,27.24038775,configuration through a client copy. Typically, most projects start with a copy of client 000 to begin building configuration. Customer work should never take place in the three delivered clients.
+17,69.171203,729.841051687,18.637603079,Minimum System Requirements
+17,71.107953,690.74461275,27.24038775,To install the latest SAP GUI 730 version, MSU machines must meet the following minimum system requirements −
+17,109.197368,666.21244775,12.93749,Windows-based PC running Windows 7, Vista, or Windows XP with Service Pack 3
+17,109.197368,629.41419875,28.43149,Apple Mac   with   Virtual   Machine   software   (VMWare,   Fusion,   Parallels)   running   Windows   7, Vista, or XP (Service Pack 3)
+17,71.107953,604.88202075,12.93749,System Memory (RAM)
+17,109.197368,580.34985475,12.93749,Windows XP − Minimum of 1 GB; 2 GB recommended
+17,109.197368,559.04560575,12.93749,Windows 7 − Minimum of 2 GB; 4 GB recommended
+17,109.197368,537.74135675,12.93749,Mac with Virtual Windows Environment − Minimum of 2 GB; 4 GB recommended
+17,71.107953,513.20919175,12.93749,Disk Space
+17,109.197368,488.67702575,11.74638875,145 MB of available disk space for the SAP GUI installer program
+17,109.197368,467.37277675,11.74638875,250 MB of available disk space for the fully-installed application
+17,69.171203,435.713301687,18.637603079,Required Software Downloads
+17,109.197368,410.75512675,11.74638875,Download Java Platform, Enterprise Edition 7 SDK License Agreement
+17,109.197368,389.45090375,11.74638875,SAP GUI 7.30
+17,109.197368,368.14665475,11.74638875,SAP IDES 4.7 Installation files
+17,109.197368,346.84240675,11.74638875,MS Loopback Network Adaptor
+17,69.171203,315.182904687,18.637603079,Preliminary Installation Activities
+17,69.171203,256.11641175,47.354460482,Increase Virtual Memory My computer (Right click) → Properties → Advanced System settings → Performance → Setting → Advanced → Virtual Memory → Change
+17,71.107953,234.81216275,11.74638875,The following screenshot shows the steps.
+18,227.177716,608.512586948,21.926590716,SAP - Net Weaver
+18,71.107953,571.33322875,27.24038875,NetWeaver is a combination of the underlying SAP Kernel (also known as the SAP OS layer, basically the WEB AS) and any SAP software tool for business enablement.
+18,69.171203,542.901643687,18.637603079,NetWeaver at a Glance
+18,71.107953,488.31120575,42.73438775,SAP   NetWeaver   describes   all   the   software   and   services   used   for   'Business   Enablement'.   The   SAP Business suite, such as ECC or SRM, contains the software components for that specific business solution.
+18,109.197368,432.79104175,42.73438775,SAP NetWeaver is an open technology platform that offers a comprehensive set of technologies for   running   mission-critical   business   applications   and   integrating   people,   processes,   and information.
+18,109.197368,365.00479575,58.22838575,SAP   NetWeaver   is   a   web-based,   open   integration,   application   platform   that   serves   as   the foundation   for   enterprise   service-oriented   architecture   (enterprise   SOA)   and   allows   the integration and alignment of people, information, and business processes across business and technology boundaries.
+18,109.197368,328.20654775,27.24038775,It utilizes open standards to enable integration with information and applications from almost any source or technology.
+18,109.197368,291.40829875,27.24038875,SAP NetWeaver is the foundation of SAP Business Suite and SAP Business by Design. It also powers partner solutions and customer custom-built applications.
+18,69.171203,102.377097687,18.637603079,SAP NetWeaver Components
+18,71.107953,78.77465775,11.74638875,SAP NetWeaver includes a comprehensive set of components, applications, and tools.
+19,69.171203,738.30258275,47.354433482,SAP NetWeaver Application Server It   supports   platform-independent   web   services,   business   applications,   and   standards-based development, enabling you to leverage existing technology assets for Web-services-oriented solutions.
+19,69.171203,681.53429375,47.354433482,SAP NetWeaver Business Warehouse It enables you to integrate data from across the enterprise and transform it into practical, timely business information to drive sound decision making.
+19,69.171203,624.76599175,47.354446482,SAP NetWeaver Gateway It   enables   developers   to   create   applications   that   link   business   users   to   SAP   software   from   any environment and through any device.
+19,69.171203,567.99771575,47.354433482,SAP NetWeaver Master Data Management It ensures cross-system data consistency and helps integrate business processes across the extended value chain.
+19,69.171203,495.73541375,62.848433482,SAP NetWeaver Process Orchestration It helps improve processes, from simple workflows to integrated processes that span applications and organizational   boundaries.   It   includes   capabilities   for   business   process   management,   business   rules management, and process integration.
+19,69.171203,438.96711175,47.354460482,SAP NetWeaver Portal It unifies critical information and applications to give users role-based views that span the enterprise, enabling you to take full advantage of your information resources.
+19,69.171203,382.19880975,47.354460482,SAP Auto-ID Infrastructure It gives you all the capabilities you need to integrate all automated sensing devices including RFID readers and printers, Bluetooth devices, embedded systems, and barcode devices.
+19,69.171203,325.43055975,47.354407482,SAP NetWeaver Identity Management It addresses access and provisioning issues facing a typical enterprise. It creates a new opportunity for integrating business processes, and helps you to integrate systems in a heterogeneous IT environment.
+19,69.171203,268.66225775,47.354407482,SAP NetWeaver Information Lifecycle Management It allows you to archive data in a readily accessible format according to regulatory retention rules that you define.
+19,69.171203,240.230672687,18.637603079,SAP NetWeaver Tools
+19,71.107953,216.62823375,11.74638875,SAP NetWeaver includes the following tools −
+19,69.171203,175.35393075,31.860460482,Adaptive Computing Controller It provides a central point of control for assigning computing resources and optimizing their use.
+19,69.171203,118.58562775,47.354460482,SAP NetWeaver Composition Environment It provides a robust environment for design, deployment, and running of composite applications that comply with a service-oriented architecture.
+19,69.171203,94.919502024,14.252284208,SAP NetWeaver Developer Studio
+20,71.107953,773.76662275,11.74638875,It offers a convenient user interface and rich functionality for developing J2EE applications.
+20,69.171203,716.99833375,47.354433482,SAP NetWeaver Visual Composer It simplifies the creation of portal content and analytics applications, enabling business analysts to build or customize applications using a visual user interface rather than manual coding.
+20,69.171203,660.23004475,47.354433482,SAP Solution Manager It facilitates technical support for distributed systems with functionality that covers all key aspects of solution deployment, operation, and continuous improvement.
+20,69.171203,631.798459687,18.637603079,SAP NetWeaver Applications
+20,71.107953,608.19601975,11.74638875,SAP NetWeaver includes the following applications −
+20,69.171203,566.92174375,31.860434482,SAP NetWeaver Enterprise Search It provides a simple and secure gateway to enterprise objects and transactions.
+20,69.171203,510.15344075,47.354434482,SAP NetWeaver Single Sign-On It offers a comprehensive single sign-on solution, enabling reuse of a person's initial authentication for subsequent log-ins to all applications.
+20,154.61415,482.128884948,21.926590716,SAP - Logging On To An SAP System
+20,71.107953,460.44352675,11.74638875,In this chapter, we will go through following topics −
+20,107.260618,436.477968974,10.963295358,SAP logon
+20,107.260618,417.756052974,10.963295358,Adding a new application server
+20,107.260618,399.034136974,10.963295358,Logging In and Out of SAP
+20,107.260618,380.312220974,10.963295358,Creating a new password or changing an old password
+20,69.171203,348.086112687,18.637603079,SAP Logon
+20,71.107953,293.49567475,42.73438675,SAP logon is used to create icons to logon to SAP R/3. However, the icons created with SAP logon are not placed in the SAP R/3 Windows group; they are instead shown via the SAP logon menu. The SAP logon pad is available once the SAP GUI is installed at the workstation.
+20,71.107953,272.19142575,12.93749,SAP Logon Icon
+20,71.107953,94.65601775,12.93749,SAP logon Pad
+21,109.197368,505.16094075,27.24038775,The SAP logon menu can be thought of as a one-stop shopping store, where end-users can choose from logon icons, logon groups, or create new logon icons.
+21,109.197368,452.86869375,42.73438675,Logon icons will log a user onto one specific application server. A logon group will log the user onto one of several applications servers depending on which one has the best performance statistics.
+21,69.171203,421.209191687,18.637603079,Adding a New SAP Application Server
+21,71.107953,397.60675175,11.74638875,To create a shortcut for connecting to a new SAP application server, follow the procedure below −
+21,109.197368,357.58058775,27.24038775,Click on the shortcut icon SAP Logon from the desktop and the Logon pad will open as shown in the following screenshot. Click the ‘New’ button.
+22,109.197368,773.76662275,11.74638875,Click on the “Next” button as shown here.
+22,109.197368,714.37295875,11.74638875,Fill in the following details in the “System Entry Properties” screen.
+22,109.197368,677.57471075,28.431489,Description − Provide a meaningful short text for identifying the server. The server will be available in the SAP Logon pad with this name.
+22,109.197368,640.77646275,28.431489,Application server − Provide the IP/Address of the application server, provided by the basis administrator.
+22,109.197368,603.97821475,28.431489,System number and System ID − Give the system number provided by the basis administrator. It should be kept as 00, if nothing is specified.
+22,109.197368,567.17996575,28.43149,SAP router string − Provide the SAP Router String, if provided by the basis administrator. Sometimes it may be left blank.
+22,109.197368,159.81690275,27.24038775,Click on Finish to complete the configuration. The newly created SAP application server will now be available in the SAP logon pad.
+23,69.171203,595.624280687,18.637603079,Logging onto SAP R/3
+23,71.107953,556.52784175,27.24038775,SAP Logon pad is used to configure the SAP server. The SAP GUI is used to connect the computer to the SAP system.
+23,69.171203,528.096256687,18.637603079,SAP GUI Types
+23,71.107953,504.49381675,11.74638875,A SAP GUI can be of the following three categories −
+23,107.260618,480.528258974,10.963295358,SAP GUI for Windows environment
+23,107.260618,461.806342974,10.963295358,SAP GUI for Java environment
+23,107.260618,443.084426974,10.963295358,SAP GUI for HTML
+23,71.107953,417.98565475,11.74638875,Follow the procedure given below to log onto the SAP server −
+23,109.197368,393.45348875,11.74638875,Launch the SAP logon pad.
+23,109.197368,356.65524075,27.24038775,Double-click on the Application Server (which you need to connect), from the SAP logon pad. The SAP logon screen appears.
+23,109.197368,335.35099175,11.74638875,On the SAP logon screen,
+23,147.286783,298.55274375,27.24038775,The value of the default client appears automatically. If you want to logon to a different client, then change it with the new client number.
+23,147.286783,277.24849475,11.74638875,Next, enter the User ID and password assigned to you.
+23,147.286783,209.46224775,58.22838675,Enter ‘EN’ in language to logon to English settings. Generally the language is defaulted to ‘EN’ or any other language depending on the country/users and installed languages. So, for English as the logon language, you need not have to enter it in the SAP logon screen, as it takes its values from the default settings.
+23,147.286783,188.15799875,11.74638875,After filling up the four fields, press the Enter button to logon to the SAP system.
+23,71.107953,148.13183475,28.431489,NOTE − During the first logon to the system with your ID, you will be prompted to change your initial password.
+24,69.171203,544.558630687,18.637603079,Creating a New Password
+24,71.107953,520.95619075,12.93749,To change your password, click the “New Password” button and set the password.
+24,109.197368,480.93002675,27.24038775,Select a new password and then confirm it by typing it again. The asterisk will remain in the password field.
+24,109.197368,457.61371475,11.74638875,Click on the
+24,178.640614,457.61371475,11.74638875,icon once you are satisfied with your password selection.
+24,69.171203,134.376551687,18.637603079,First Logon to SAP
+24,71.107953,95.28011275,27.24038775,The following screen appears once you log in. The screen has many standard screen attributes and navigation options to different application. We will discuss all these in subsequent chapters.
+25,69.171203,533.024214687,18.637603079,Logging Off from SAP
+25,109.197368,508.06606575,11.74638875,Click on System (from Menu Bar) and choose “Logoff”.
+25,109.197368,221.42707975,11.74638875,You can also logoff by clicking the
+25,269.689387,221.42707975,11.74638875,button at the upper-right corner of the screen.
+25,71.107953,180.50782675,27.24038775,When you log off, a message pops up stating, “Unsaved data will be lost. Do you want to log off?” Click “Yes” if you have already safely posted (or saved) the transactions you were working on.
+26,152.946394,618.121010948,21.926590716,SAP - Personalizing The SAP Window
+26,71.107953,580.94163975,27.24038775,In this chapter, we will check how to customize the SAP layout based on user preferences and local requirements. You can customize the following settings based on our preference −
+26,109.197368,556.40947375,11.74638875,Visual Settings like SAP Theme, Color, Fonts and size, etc.
+26,109.197368,535.10522575,11.74638875,Interaction Design like Keyboard settings, Sound and Control setting, etc.
+26,71.107953,510.57305975,11.74638875,In addition, you can customize various other attributes which will directly affect your interaction with SAP.
+26,71.107953,473.77481175,27.24038775,The Layout Customize option can be accessed either through the application toolbar or through the SAP logon pad.
+26,69.171203,445.343252687,18.637603079,Customizing through the Application Toolbar
+26,71.107953,421.34270875,11.74638875,Click the “Customize Local Layout” Button
+26,274.348326,421.34270875,11.74638875,on the application toolbar, a drop-down menu will open.
+26,71.107953,403.66448075,11.74638875,Click the menu “Options”, it will take you to the Local layout optimization screen.
+26,71.107953,382.36020575,11.74638875,On the SAP GUI, you can make the following adjustments −
+26,107.260618,358.394646974,10.963295358,Options
+26,107.260618,339.672730974,10.963295358,New Visual Design
+26,107.260618,320.950815974,10.963295358,General Settings under Customizing Local Layout
+26,107.260618,302.228899974,10.963295358,Other General Settings under Customizing Local Layout
+26,107.260618,283.506983974,10.963295358,Internationalization Settings under Customizing Local Layout
+26,107.260618,264.785067974,10.963295358,Switching the Visual Design
+27,69.171203,654.835033687,18.637603079,Customizing through the Logon Pad
+27,71.107953,598.30784675,44.59581075,You can customize the Local Layout by accessing the option from the SAP Logon Pad. Click the Icon  at the extreme top left-hand side corner. A drop-down menu will appear. Select “Options” from the menu item and it will take you to the SAP GUI customization screen shown in the next screenshot.
+28,71.107953,751.22500575,28.431489,[Note − Client-specific settings are not supported by this SAP system and change takes effect for new sessions.]
+28,181.158392,723.200449948,21.926590716,SAP - End User Customization
+28,71.107953,686.02109275,27.24038775,This chapter explains how to modify the user parameters such as personal data to communication data, time zone, date and time field format, attributes for printing, etc.
+28,69.171203,657.589520687,18.637603079,Maintain User Profile
+28,71.107953,618.49308175,27.24038775,Click   “System”   on   the   menu   bar.   Select   “User   Profile”   →   “Own   Data”   as   specified   in   the   following screenshot.
+28,71.107953,289.24558475,11.74638875,The following screen appears with options to change the following properties −
+28,107.260618,265.280025974,10.963295358,Date format
+28,107.260618,246.558109974,10.963295358,Decimal Notation
+28,107.260618,227.836194974,10.963295358,Logon Language − Use this option if we want to open SAP in a different language other than English
+28,107.260618,209.114278974,10.963295358,Time zone
+28,107.260618,174.898363974,26.457294358,Spool control − This option will setup the default printer on which your documents will be printed until and unless the printer is changed at runtime or programmatically.
+28,71.107953,149.79959175,11.74638875,These options are already defaulted by SAP which the users can customize as per their preference.
+29,71.107953,478.96101875,42.73438675,In addition, SAP also provides options to change your Personal Information such as first name, last name, email id, and mobile number of the specified user ID. These fields can be maintained in the Address tab.
+29,154.452755,114.845784948,21.926590716,SAP - Navigating In The SAP Window
+29,71.107953,93.16042675,11.74638875,This   chapter   explains   basic   SAP   navigations   including   the   screens,   menus,   transaction   codes,   and
+30,71.107953,773.76662275,11.74638875,buttons that you will use frequently. The first step to learn SAP is to become familiar with SAP navigation.
+30,69.171203,492.417034687,18.637603079,Standard Toolbar
+30,71.107953,453.32059675,27.24038775,Standard Toolbar is located second from the top and directly below the Menu bar. It contains Command field/Bar and other Standard Toolbar buttons.
+30,71.107953,432.01634775,11.74638875,Standard toolbar buttons provide quick access to SAP functions as specified below.
+30,75.196647,406.544427974,12.074989776,ICON
+30,134.482714,406.544427974,12.074989776,Descriptions
+30,293.393033,406.544427974,12.074989776,ICON
+30,352.6791,406.544427974,12.074989776,Descriptions
+30,134.482714,382.442624974,10.963295358,Enter/Continue
+30,352.6791,382.442624974,10.963295358,Help
+30,134.482714,353.176181974,10.963295358,Save
+30,134.482714,322.618572974,10.963295358,Back
+30,352.6791,353.176181974,10.963295358,Customize local layout
+30,352.6791,322.618572974,10.963295358,Find
+30,134.482714,293.997712974,10.963295358,Exit system task
+30,352.6791,293.997712974,10.963295358,Advanced Search
+30,134.482714,266.022435974,10.963295358,Cancel
+30,134.482714,238.692742974,10.963295358,Print
+30,134.482714,210.071883974,10.963295358,Create new session
+30,134.482714,180.159856974,10.963295358,Create Shortcut
+30,352.6791,266.022435974,10.963295358,First page
+30,352.6791,238.692742974,10.963295358,Previous page
+30,352.6791,210.071883974,10.963295358,Next page
+30,352.6791,180.159856974,10.963295358,Last page
+30,71.107953,140.64305775,12.93749,Note − Toolbar button is gray; it is not available for use on that particular screen.
+30,69.171203,112.211524687,18.637603079,Command Field
+30,71.107953,88.60908575,11.74638875,Command field is used to enter the Transaction codes that direct to a system task or application without
+31,71.107953,756.58334575,28.92966575,using Menu paths. Command field can be opened and closed by using the icon on the right of the Command Bar i.e.
+31,71.107953,731.80370775,12.93749,You can execute the following commands in this field with Enter −
+31,109.197368,707.27154275,11.74638875,To call a transaction in the same session (window)
+31,109.197368,685.96729375,12.93749,Enter − /nxxxx (xxxx = transaction code)
+31,109.197368,664.66304475,11.74638875,To call a transaction in the same session (window), whereby the initial screen is skipped
+31,109.197368,643.35879575,12.93749,Enter − /*xxxx (xxxx = transaction code)
+31,109.197368,622.05454675,11.74638875,To call a transaction in an additional session
+31,109.197368,600.75029775,12.93749,Enter − /oxxxx (xxxx = transaction code)
+31,109.197368,579.44604875,11.74638875,To end the current transaction
+31,109.197368,558.14179975,12.93749,Enter − /n
+31,109.197368,536.83755075,11.74638875,Caution − Unsaved changes are lost without warning
+31,109.197368,515.53330175,11.74638875,To delete the current session
+31,109.197368,494.22905275,12.93749,Enter − /i
+31,109.197368,472.92480375,11.74638875,To generate a session list
+31,109.197368,451.62055475,12.93749,Enter − /o
+31,109.197368,430.31630575,11.74638875,To end the current transaction and return to the starting menu
+31,109.197368,409.01205675,12.93749,Enter − /ns000
+31,109.197368,387.70780775,11.74638875,To log off from the system
+31,109.197368,366.40355975,12.93749,Enter − /nend
+31,109.197368,345.09931075,11.74638875,To log off from the system without a confirmation prompt
+31,109.197368,323.79506175,12.93749,Enter − /nex
+31,109.197368,302.49081275,11.74638875,Caution − Changes that were not saved are lost without warning.
+31,69.171203,270.831310687,18.637603079,Title Bar
+31,71.107953,216.24087275,42.73438775,In between the Standard Toolbar and the Application Toolbar lies the Title Bar. It is used to display the name of the screen or application you are accessing. Title Bar is dynamic and changes from application to application.
+31,69.171203,187.809287687,18.637603079,Application Toolbar
+31,71.107953,133.21884975,42.73438675,The   Application   Toolbar   is   located   directly   below   the   screen   title.   It   contains   buttons   that   duplicate functions available from the menu bar, but provides quicker access to some of the most commonly used functions for the current screen and system task.
+31,71.107953,96.42060175,27.24038775,The   buttons   available   in   the   Application   Toolbar   changes   from   application   to   application   as   per   the design. So they are not constant.
+32,71.107953,758.27262375,27.24038775,As highlighted in the following screenshot, the buttons Help and Layout Menu are always available on every screen in the Application Toolbar.
+32,69.171203,702.231607687,18.637603079,Status Bar
+32,71.107953,663.13516975,27.24038775,The Status Bar is located at the bottom of the SAP screen. It displays important system messages such as errors and completion of transactions. It also displays other session information such as:
+32,107.260618,639.169610974,10.963295358,System − Server in which you have logged in (in Screenshot: AU1)
+32,107.260618,620.447694974,10.963295358,Client − The client database you are accessing (in Screenshot: 130)
+32,107.260618,601.725779974,10.963295358,User − User ID with which you have logged in (in Screenshot: SWIN1-83)
+32,71.107953,407.88228675,11.74638875,Of the five types of messages, only three are displayed in the Status Bar.
+32,69.171203,384.216160024,14.252284208,Success Message
+32,69.171203,340.994337024,14.252284208,Error Message
+32,69.171203,297.772566024,14.252284208,Warning Message
+32,69.171203,251.237846687,18.637603079,Menu Bar
+32,71.107953,196.64740875,42.73438775,Once you have logged onto the application, the initial menu screen appears. All the menus are displayed in the menu bar. The menus that appear in the menu bar vary according to the task you are doing in the R/3 System. Therefore, you will see different menus as you work on different tasks.
+32,71.107953,175.34315975,12.93749,System and Help menus are always available on every screen in the R/3 system −
+32,109.197368,110.47280875,28.431489,System Menu − It contains functions that affect the system as a whole, such as Create Session, End Session, User Profile, or Log Off options.
+32,109.197368,89.16855975,12.93749,Help Menu − It contains functions for accessing various forms of online support.
+33,71.107953,742.77862375,43.925489,Note − In order to determine what function an icon represents on the toolbar, place the cursor on the icon (if it is enabled) and a floating box will appear with text and a unique Function key used to identify the icon.
+33,69.171203,714.347051687,18.637603079,Navigation Area
+33,71.107953,659.75661375,42.73438775,Navigation Area is referred as the area in the SAP menu where User Menu and Favorites folders and their subfolders are located. Under Navigation Area, you will find three folders: Favorites, User Menu, and SAP Menu.
+33,109.197368,603.02060975,45.141329,Favorites   ( )   Favorites   are   created   by   the   users   according   to   their   preferences.   All   the transaction codes which the users have access to and used in regular day-to-day activities are usually added to this folder.
+33,109.197368,580.34985475,12.93749,SAP User Menu (
+33,205.884224,580.34985475,11.74638875,) Content or the transaction codes in this menu are derived according to
+33,109.197368,546.20927875,27.24038875,the roles and authorization given to a particular user. All the transaction codes specified in a particular role given to a user will appear in the User Menu.
+33,109.197368,524.82969075,12.93749,SAP Standard Menu (
+33,221.883938,524.82969075,11.74638875,) This is a standard SAP menu derived via roles and authorizations.
+33,152.806525,491.715807948,21.926590716,SAP - Programming Language(ABAP)
+33,71.107953,454.53644975,27.24038875,This chapter provides an overview of ABAP − the programming language used in SAP for developing business application support and development.
+33,69.171203,426.104864687,18.637603079,ABAP (Advanced Business Application Programming)
+33,71.107953,387.00842675,27.24038775,ABAP is a programming language that runs in the SAP ABAP runtime environment, created and used by SAP for the development of application programs including −
+33,107.260618,363.042867974,10.963295358,Reports
+33,107.260618,344.320951974,10.963295358,Module Pool Programming
+33,107.260618,325.599035974,10.963295358,Interfaces
+33,107.260618,306.877120974,10.963295358,Forms
+33,107.260618,288.155204974,10.963295358,Data conversions
+33,107.260618,269.433288974,10.963295358,User Exits & BADI
+33,71.107953,244.33451675,11.74638875,All of R/3’s applications and even parts of its basis system were developed in ABAP.
+33,71.107953,207.53626875,27.24038775,ABAP is an event-driven programming language. User actions and system events control the execution of an application.
+33,71.107953,186.23201975,11.74638875,ABAP is also called ABAP/4. The “4” in ABAP/4 stands for “Fourth Generation Language” or 4GL.
+33,69.171203,157.800434687,18.637603079,ABAP Workbench
+33,71.107953,118.70399575,27.24038775,The ABAP Workbench is used by SAP for the development of standard and custom application software. The ABAP Workbench is also used to create dictionary objects. It consists of the following components −
+33,109.197368,94.17182975,12.93749,ABAP Editor is used to maintain programs.
+34,109.197368,773.76662275,12.93749,ABAP Dictionary is used to maintain Dictionary objects.
+34,109.197368,752.46237375,12.93749,Repository Browser is used to display a hierarchical structure of the components in a package.
+34,109.197368,731.15812475,12.93749,Menu Painter is used to develop graphical user interfaces including menu bars and toolbars.
+34,109.197368,709.85387575,12.93749,Screen Painter is used to maintain screen components for online programs.
+34,109.197368,673.05562775,28.431489,Repository Information System contains information about development and runtime objects, such as data models, dictionary types and table structures, programs, and functions.
+34,109.197368,651.75137875,12.93749,Test and Analysis Tools, such as the Syntax Check and the Debugger.
+34,109.197368,630.44712975,12.93749,Function Builder, which allows to create and maintain function groups and function modules.
+34,109.197368,609.14288075,12.93749,Data Modeler, a tool which supports graphical modeling.
+34,109.197368,572.34463275,28.431489,Workbench   Organizer,   which   maintains   multiple   development   projects   and   manages   their distribution.
+34,71.107953,390.29014175,12.93749,Note − The ABAP Workbench used to be known as the ABAP/4 Development Workbench.
+34,69.171203,361.858556687,18.637603079,Reporting
+34,71.107953,338.25611675,11.74638875,Report programs produce lists and can be divided into classical reports and interactive reports.
+34,109.197368,298.22995175,28.43149,Classical   reports   do   not   allow   interaction   by   the   user;   therefore,   the   basic   list   contains extensive information that the user must often sort through to find relevant data.
+34,109.197368,261.43170375,28.431489,Interactive reports allow interaction by the user; therefore, the user can produce secondary, detailed lists of the basic list by choosing the relevant data and requesting more information.
+34,109.197368,178.15145775,74.913487,SAP Query or Ad-hoc Query or InfoSet Query is a tool that allows the end-user to design different queries based on different input and output parameters in the SAP system according to the requirement. This is one of the reporting tools majorly used in the HR Module to pull data from relational databases. InfoSet Query is suitable for reporting in all areas of the SAP R/3 system.
+34,71.107953,153.61929275,11.74638875,Ad-Hoc query provides three different kinds of reports −
+34,109.197368,129.08712675,12.93749,Basic List − Simple reports.
+34,109.197368,107.78287775,12.93749,Statistics − Reports with statistical functions such as average, percentage, etc.
+34,109.197368,86.47862875,12.93749,Ranked List − For analytical reports.
+35,71.107953,773.76662275,11.74638875,Transaction code used to access ad-hoc Queries −
+35,109.197368,749.23445675,12.93749,SQ01 − Maintain Queries
+35,109.197368,727.93020875,12.93749,SQ02 − Display InfoSet
+35,109.197368,706.62595975,12.93749,SQ03 − Maintain User Groups
+35,69.171203,674.966470687,18.637603079,Data Entry
+35,71.107953,620.37603275,42.73438775,The SAP database has to be filled before the end-users can start working over the business process for analyzing and reporting purpose. Various methods are used to transfer data into the system at various stages depending upon the complexity and data volume to be transferred.
+35,71.107953,583.57777175,27.24038775,Data can be transferred from SAP to SAP or SAP to non-SAP systems (legacy system). Data can also be transferred through manual entries. The tools used for data transfer are as follows −
+35,107.260618,559.612212974,10.963295358,BDC (Batch Data Communication)
+35,107.260618,540.890296974,10.963295358,IDOC (Intermediate Document)
+35,107.260618,522.168381974,10.963295358,LSMW (Legacy System Migration Workbench)
+35,107.260618,503.446465974,10.963295358,Interfaces through upload of .txt or Excel files holding data
+35,107.260618,484.724549974,10.963295358,Manual data entry using transaction codes
+35,69.171203,452.498467687,18.637603079,Printing
+35,71.107953,397.90802975,42.73438675,SAP generates a variety of documents such as purchase orders, sales orders, invoices, pay-slips, etc. You can take a print of these documents whenever required. The following illustration shows how the printing process works in a SAP system.
+35,71.107953,376.60375475,11.74638875,Different kinds of print methods are needed in a SAP system, such as −
+35,107.260618,352.638195974,10.963295358,Local printing
+35,107.260618,333.916279974,10.963295358,Remote printing (network)
+35,107.260618,315.194364974,10.963295358,Front-end printing (SAP GUI for Windows)
+35,107.260618,296.472448974,10.963295358,Front-end printing (SAP GUI for HTML)
+36,71.107953,641.20685175,27.24038775,After the user triggers the print process, the print requests are sent to the spool server, which contains the dialog and spool work processes required for the processing.
+36,69.171203,612.775279687,18.637603079,General Programming
+36,71.107953,573.67882775,27.24038775,Programs can be written interactively using the capabilities of the R/3 system. Programs can be executed both online and in the background. Background jobs can also be scheduled to run at specific intervals.
+36,109.197368,291.55892475,42.73438675,Module pool programming (or online programming) involves the creation of a module pool (a collection of ABAP modules) and one or more screens. The modules are called by the screen processor during program execution.
+36,109.197368,239.26667675,42.73438775,Batch input processing is used to ensure the safe transfer of data into the SAP system. This process is an automatic, protected data transfer to the SAP system which uses SAP transactions to validate data as it populates the SAP database.
+36,109.197368,202.46842875,27.24038875,ABAP   contains   statements   that   conform   to   CPI-C   standards   (Common   Program   Interface   - Communications). These are used for programming communications programs.
+36,109.197368,181.16417975,11.74638875,ABAP can read and write sequential datasets.
+36,71.107953,128.22634975,43.611948914,SAP - Security There are three points to look after in order to ensure security −
+36,109.197368,103.69418375,12.93749,Confidentiality − Unauthorized disclosure of data
+36,109.197368,82.38993475,12.93749,Integrity − Unauthorized modification of data
+37,109.197368,773.76662275,12.93749,Availability − Denial of service (a lack of availability of computing resources)
+37,71.107953,702.75245975,58.22838575,In SAP runtime environment, both application security and unauthorized system access to SAP have to be controlled. The user accounts defined for users in the SAP runtime environment are secured by roles that grant authorizations to them. SAP authorizations control access to transactions (Business Process Activities), or what can be performed within a specific business process step by −
+37,107.260618,678.786900974,10.963295358,Keeping unauthorized persons out of the system
+37,107.260618,660.064984974,10.963295358,Keeping people out of places where they should not be
+37,107.260618,641.343069974,10.963295358,Safeguarding the data from damage or loss
+37,69.171203,609.116960687,18.637603079,Safeguards
+37,71.107953,570.02052175,27.24038875,In order to avoid threats, a sound and robust system implements safeguards such as access control, firewall, encryption, O/S hardening, digital certificate, security monitor, and antivirus.
+37,69.171203,346.773457687,18.637603079,Classification of Security
+37,71.107953,323.17101875,11.74638875,Security can be classified into three different categories −
+37,107.260618,299.205459974,10.963295358,Organizational Security − Related to organization
+37,107.260618,280.483543974,10.963295358,Physical − Related to the physical assets
+37,107.260618,261.761628974,10.963295358,Technical − Related to technical threats. This is again dived into four types −
+37,145.350033,246.267628974,10.963295358,Program-level security
+37,145.350033,227.545713974,10.963295358,O/S-level security
+37,145.350033,208.823797974,10.963295358,Database security
+37,145.350033,190.101881974,10.963295358,Network security
+38,69.171203,599.519294687,18.637603079,Different Layers of Security
+38,71.107953,575.91685475,11.74638875,We can help multiple layers of security in a SAP R/3 system.
+38,109.197368,551.38468975,12.93749,Authentication − Only legitimate users should be able to access the system.
+38,109.197368,530.08044075,12.93749,Authorization − Users should only be able to perform their designated tasks.
+38,109.197368,508.77619175,12.93749,Integrity − Data integrity needs to be granted at all time.
+38,109.197368,487.47194275,12.93749,Privacy − Protection of data against unauthorized access.
+38,109.197368,450.67369475,28.431489,Obligation   −   Ensuring   liability   and   legal   obligation   towards   stakeholders   and   shareholders including validation.
+38,251.0105,244.726395948,21.926590716,SAP - Basis
+38,71.107953,223.04103775,11.74638875,This chapter explains the following topics −
+38,107.260618,199.075479974,10.963295358,the role of a BASIS Administrator,
+38,107.260618,180.353563974,10.963295358,tasks related to SAP BASIS Administration, and
+38,107.260618,161.631647974,10.963295358,categorization of SAP Administrative tasks.
+38,71.107953,136.53287575,11.74638875,We can subdivide the roles of a SAP BASIS Consultant into the following categories −
+38,69.171203,112.866749024,14.252284208,Server Administrator
+38,107.260618,89.132611974,10.963295358,Interface Analyst
+39,107.260618,774.333229974,10.963295358,Solution Specialist
+39,107.260618,755.611313974,10.963295358,System Architect
+39,69.171203,728.150651024,14.252284208,Network Administrator
+39,107.260618,704.416552974,10.963295358,Transport Administrator
+39,107.260618,685.694636974,10.963295358,Batch Administrator
+39,69.171203,658.233987024,14.252284208,Database Administrator
+39,107.260618,634.499888974,10.963295358,Security Specialist
+39,107.260618,615.777973974,10.963295358,ABAP Specialist
+39,107.260618,597.056044974,10.963295358,DDIC Manager
+39,69.171203,569.595395024,14.252284208,OS Administrator
+39,107.260618,545.861309974,10.963295358,SAP DBA
+39,107.260618,527.139393974,10.963295358,System Administrator
+39,69.171203,494.913285687,18.637603079,Roles of a SAP BASIS Consultant
+39,71.107953,471.31084575,11.74638875,The following illustration depicts the typical roles performed by a SAP BASIS Consultant −
+39,69.171203,188.024481687,18.637603079,Tasks Performed under Different Roles
+39,71.107953,164.42204275,11.74638875,We can further categorize the tasks performed under different roles −
+39,69.171203,140.755916024,14.252284208,System Architect
+39,107.260618,117.021830974,10.963295358,Sizing SAP systems
+39,107.260618,98.299915974,10.963295358,Design SAP landscape
+40,69.171203,771.404732024,14.252284208,Transport Administrator
+40,107.260618,747.670640974,10.963295358,Change control across SAP landscape
+40,69.171203,720.209984024,14.252284208,Batch Administrator
+40,107.260618,696.475885974,10.963295358,Create and manage batch jobs across landscape
+40,69.171203,669.015223024,14.252284208,Security Specialist
+40,107.260618,645.281124974,10.963295358,Design, monitor, and manage access to SAP landscape
+40,69.171203,617.820462024,14.252284208,ABAP Specialist
+40,107.260618,594.086376974,10.963295358,Troubleshoot and tune ABAP programs
+40,107.260618,575.364460974,10.963295358,Apply correction to program
+40,69.171203,547.903785024,14.252284208,DDIC Manager
+40,107.260618,524.169699974,10.963295358,Manage changes to SAP data dictionary
+40,69.171203,496.709050024,14.252284208,SAP DBA
+40,107.260618,472.974938974,10.963295358,Manage integrity of SAP database objects
+40,107.260618,454.253023974,10.963295358,Manage backups and restore
+40,69.171203,426.792374024,14.252284208,System Administrator
+40,107.260618,403.058261974,10.963295358,Maintain system health
+40,107.260618,384.336346974,10.963295358,Monitor and tune system performance
+40,69.171203,356.875697024,14.252284208,Interface Analyst
+40,107.260618,333.141611974,10.963295358,Analyze and Monitor
+40,107.260618,314.419695974,10.963295358,Interfaces within SAP landscape
+40,69.171203,286.959046024,14.252284208,Solutions Specialist
+40,107.260618,263.224908974,10.963295358,Installation of AP / Add-On
+40,107.260618,244.502992974,10.963295358,Migrate OS / DB
+40,107.260618,225.781076974,10.963295358,Upgrade SAP version
+40,107.260618,207.059161974,10.963295358,Archiving of SAP Data
+40,69.171203,174.833105687,18.637603079,SAP BASIS Administration Tasks
+40,71.107953,151.23066575,11.74638875,SAP BASIS administration tasks can be further categorized as follows −
+40,69.171203,127.564487024,14.252284208,SAP Administration
+40,107.260618,103.830401974,10.963295358,Starting and stopping SAP instance(s)
+40,107.260618,85.108485974,10.963295358,User administration – setup and maintenance
+41,107.260618,774.333229974,10.963295358,Authorization / Role / Profiles – setup and maintenance
+41,107.260618,755.611313974,10.963295358,Setup SAP security
+41,107.260618,736.889397974,10.963295358,Maintenance of system’s health
+41,107.260618,718.167482974,10.963295358,Monitor system performance and logs
+41,107.260618,699.445566974,10.963295358,Spool and print administration
+41,107.260618,680.723650974,10.963295358,Maintain system landscape
+41,107.260618,662.001734974,10.963295358,Transport management systems
+41,107.260618,643.279819974,10.963295358,Manage change requests
+41,107.260618,624.557903974,10.963295358,Create / Manage batch jobs
+41,107.260618,605.835987974,10.963295358,Backup schedule, run, and monitor backup of SAP
+41,107.260618,587.114071974,10.963295358,Apply patches, kernel, and OSS notes
+41,69.171203,559.653422024,14.252284208,Database Administration
+41,107.260618,535.919310974,10.963295358,Database Space Management
+41,107.260618,517.197394974,10.963295358,Database Backup
+41,107.260618,498.475479974,10.963295358,Database Recovery
+41,107.260618,479.753563974,10.963295358,Database log (Redo log, Archive Log) management
+41,107.260618,461.031647974,10.963295358,Database Performance Tunings
+41,69.171203,433.570998024,14.252284208,Operation System Administration
+41,107.260618,409.836886974,10.963295358,Operation system security
+41,107.260618,391.114970974,10.963295358,Operation system performance tuning
+41,107.260618,372.393055974,10.963295358,OS space management
+41,107.260618,353.671139974,10.963295358,OS level background job management
+41,107.260618,334.949223974,10.963295358,OS level backup and recovery
+41,69.171203,307.488574024,14.252284208,Overall System Monitoring
+41,107.260618,283.754488974,10.963295358,Monitoring R/3 servers and instances
+41,107.260618,265.032573974,10.963295358,Monitoring users and authorizations
+41,107.260618,246.310657974,10.963295358,Monitoring security part
+41,107.260618,227.588741974,10.963295358,Monitoring workload analysis
+41,107.260618,208.866825974,10.963295358,Monitoring processes
+41,107.260618,190.144910974,10.963295358,Monitoring buffers
+41,107.260618,171.422994974,10.963295358,Monitoring operating system
+41,107.260618,152.701078974,10.963295358,Monitoring database
+41,107.260618,133.979162974,10.963295358,Monitoring backups
+41,69.171203,101.753054687,18.637603079,SAP Administrator's Frequently Used Transactions
+42,109.197368,773.76662275,12.93749,SM04/AL08 − User List
+42,109.197368,752.46237375,12.93749,SM51 − Display Application Server
+42,109.197368,731.15812475,12.93749,SM37 − Background Job Overview
+42,109.197368,709.85387575,12.93749,SM50/SM66 − Manage Work Processes
+42,109.197368,688.54962675,12.93749,SM12 − Mange Lock Entries
+42,109.197368,667.24537775,12.93749,PFCG − Maintain Roles
+42,109.197368,645.94112875,12.93749,SM13 − Manage Update Records
+42,109.197368,624.63687975,12.93749,SM21 − Analyze System Log
+42,109.197368,603.33263075,12.93749,SM02 − Send System Messages
+42,201.472738,572.080158948,21.926590716,SAP - Transaction Codes
+42,71.107953,503.91280275,58.22838675,Transaction   codes   are   used   in   SAP   for   getting   an   easy   access   to   custom   applications   or   to   call predefined   processes.   Transaction   codes   are   a   kind   of   shortcuts   for   different   applications.   Various categories of transaction codes are defined according to application area and modules. Some common and most widely used transaction codes are defined below.
+42,69.171203,475.481217687,18.637603079,ABAP / Tables / Data Dictionary
+42,109.197368,450.52306875,12.93749,SE11 − Dictionary definitions
+42,109.197368,429.21881975,12.93749,SE14 − Database utility
+42,109.197368,407.91457075,12.93749,SE16 − Data Browser (display only)
+42,109.197368,386.61029575,12.93749,SE16n − Modify: “&sap_edit” (uase16n)
+42,109.197368,365.30604675,12.93749,SD11 − Data model
+42,109.197368,344.00179775,12.93749,SM30/SM31 − SAP Table view maintenance
+42,109.197368,322.69754875,12.93749,SE54 (SOBJ) − Table / View Cluster
+42,109.197368,301.39329975,12.93749,SE37 − Function module editor
+42,109.197368,280.08905075,12.93749,SE38 / SE39 - Program editor / split screen
+42,109.197368,258.78480175,12.93749,SA38 − Program execution
+42,109.197368,237.48055275,12.93749,SE80 − ABAP development workbench
+42,109.197368,216.17630375,12.93749,SE84 − Object navigator
+42,109.197368,194.87205475,12.93749,SE18 − BAdI definitions
+42,109.197368,173.56780575,12.93749,SE19 − BAdI implementations
+42,109.197368,152.26355675,12.93749,SE24 − Class builder
+42,109.197368,130.95930775,12.93749,SWO1/2 − Business object builder / browser
+42,109.197368,109.65505875,12.93749,SMARTFORMS − Smart forms administration
+42,109.197368,88.35080975,12.93749,SE71 − SAP script (Form painter)
+43,109.197368,773.76662275,12.93749,SE43 − Area menu maintenance
+43,109.197368,752.46237375,12.93749,SE91 − Message maintenance
+43,109.197368,731.15812475,12.93749,SE93 − Transaction maintenance
+43,69.171203,699.498636687,18.637603079,Runtime / Logs / Database
+43,109.197368,674.54047475,12.93749,SM21 − System log sm13 Update requests
+43,109.197368,653.23622575,12.93749,ST22 − ABAP Runtime Error (Dump)
+43,109.197368,631.93197675,12.93749,SM12 − Table look entries
+43,109.197368,610.62772775,12.93749,SM56 − Number range buffers
+43,109.197368,589.32347875,12.93749,SNRO − Number ranges
+43,109.197368,568.01922975,12.93749,SE30 − Runtime analysis
+43,109.197368,546.71498075,12.93749,ST01 − System trace
+43,109.197368,525.41073175,12.93749,ST05 − SQL Trace
+43,109.197368,504.10648275,12.93749,DB02, ST04 − Database tools / performance
+43,109.197368,482.80223375,12.93749,ST02, ST06 − Database tune summary
+43,109.197368,461.49798475,12.93749,SCU3 − Table logging (see V_DDAT_54)
+43,69.171203,429.838483687,18.637603079,Jobs / Batches / Events
+43,109.197368,404.88033475,12.93749,SM36 − Job definition
+43,109.197368,383.57608575,12.93749,SM37 /SMX − Job overview
+43,109.197368,362.27183675,12.93749,SM50 − Process overview
+43,109.197368,340.96758775,12.93749,SM34 − View cluster maintenance
+43,109.197368,319.66333875,12.93749,SM49/SM69 − External commands
+43,109.197368,298.35908975,12.93749,SM66 − Process overview
+43,109.197368,277.05484075,12.93749,SM62/SM64 − Event overview / administration
+43,109.197368,255.75059175,12.93749,STVARV(C) − Selection fields variables
+43,69.171203,224.091089687,18.637603079,User Administration
+43,109.197368,199.13291575,12.93749,SM04 − User overview
+43,109.197368,177.82866675,12.93749,SU53 − Check authorization data for user
+43,109.197368,156.52441775,12.93749,SUIM − User information / authorization
+43,109.197368,135.22016875,12.93749,SU20 / SU21 − Authorization object and class / field
+43,109.197368,113.91591975,12.93749,SU01 − User maintenance PFCG roles
+43,109.197368,92.61167075,12.93749,SU03 − Authorization Archive Development Kit (ADK)
+44,69.171203,766.639299687,18.637603079,Batch Input
+44,109.197368,741.68113175,12.93749,SM35 − Batch Input: session overview
+44,109.197368,720.37688875,12.93749,SHDB − Batch input recorder
+44,69.171203,688.717387687,18.637603079,Paths & Connections
+44,109.197368,663.75922575,12.93749,AL11 − SAP file directory
+44,109.197368,642.45497675,12.93749,FILE − Logical file path
+44,109.197368,621.15072775,12.93749,SM58 − Transactional RFC
+44,109.197368,599.84649175,12.93749,SM59 − RFC connections
+44,69.171203,568.186989687,18.637603079,Spool (Print Output)
+44,109.197368,543.22881475,12.93749,SP01 − Spool request selection
+44,109.197368,521.92456575,12.93749,SP02 − List of own spool requests
+44,109.197368,500.62031675,12.93749,SPAD − Spool administration
+44,211.188772,469.367844948,21.926590716,SAP - Project Lifecycle
+44,71.107953,432.18848675,27.24038875,In this chapter, we will understand the different phases of a SAP Project Lifecycle. A SAP project lifecycle consists of various stages, starting from evaluation to the project’s subsequent support.
+44,69.171203,403.756928687,18.637603079,SAP Project Lifecycle
+45,69.171203,766.639299687,18.637603079,Stages of SAP Project Lifecycle
+45,71.107953,743.03685975,11.74638875,A typical SAP project undergoes the following stages in its lifecycle −
+45,69.171203,686.26857075,47.354434482,Evaluation Evaluation may be a decision to choose between different software vendors or selection of products from a single vendor.
+45,69.171203,614.00626975,62.848446482,Project Preparation Since a SAP implementation intends to map the organization processes to the ones defined by SAP, the implementation needs to have on-board people with complete knowledge of the organization business processes. The project preparation phase, amongst other things, aims to identify this team.
+45,69.171203,557.23799375,47.354433482,Business Blueprint A business blueprint includes what modules of a SAP product would be used and the mapping of the existing business processes to the processes provided by SAP.
+45,69.171203,484.97569275,62.848432482,Realization The actual work of customizing the SAP software to be in sync with the organizations business processes is done in this phase. It includes customization of existing SAP package and solution along with the development of new objects based on requirement.
+45,69.171203,428.20738975,47.354460482,Testing The changes made in the realization phase need to be tested in isolation as well as in a consolidated manner using real-time data. This is done in the testing phase.
+45,69.171203,355.94508875,62.848459482,Final Preparation The production system is prepared using the changes from the realization and testing phases. Certain activities need to be done directly in the production system as well. These activities take place during the final preparation phase.
+45,69.171203,299.17683875,47.354407482,Go-live In this stage, the final product is released to the end-users. The go-live may be done in a Big Bang (all modules at one go) or in a phase-by-phase manner.
+45,69.171203,214.383980948,75.378963284,Sustain / Support The project now moves into the “sustain and support” phase where the end-users’ issues would be resolved and ongoing maintenance of the system would be taken care of. SAP - Career In SAP
+45,71.107953,192.69862275,11.74638875,Advancing your career in SAP, you can move into different roles such as −
+45,107.260618,168.733063974,10.963295358,SAP ABAP Application Developer (design SAP Application)
+45,107.260618,150.011148974,10.963295358,SAP Functional Consultant (in different modules)
+45,107.260618,131.289232974,10.963295358,SAP Technical Architect
+45,107.260618,112.567316974,10.963295358,SAP Solution Architect
+45,107.260618,93.845400974,10.963295358,SAP Portal Consultant
+46,107.260618,774.333229974,10.963295358,SAP Portal Developer
+46,71.107953,749.23445675,11.74638875,You can look for the above opportunities in companies such as −
+46,107.260618,725.268898974,10.963295358,SAP Labs
+46,107.260618,706.546982974,10.963295358,Accenture
+46,107.260618,687.825066974,10.963295358,Tata Consultancy Services
+46,107.260618,669.103151974,10.963295358,Cognizant
+46,107.260618,650.381235974,10.963295358,IBM Global Business Services
+46,107.260618,631.659319974,10.963295358,Wipro
+46,107.260618,612.937403974,10.963295358,Tech Mahindra
+46,107.260618,594.215488974,10.963295358,L & T InfoTech
+46,107.260618,575.493572974,10.963295358,Delloite
+46,107.260618,556.771656974,10.963295358,KPMG
+46,82.082869,526.922510668,11.372402214,
+46,91.831174,527.409861386,11.511459762,Previous Page
+46,266.353873,506.631353974,10.963295358,Advertisements
+46,453.54072,527.409861386,11.511459762,Next Page
+46,500.517676,526.276927668,11.372402214,
+47,148.846942,770.301777,9.397111,Tutorials Point (India) Pvt. Ltd.
+47,167.461261,752.08557,9.397111,YouTube
+47,207.132349,752.146468224,8.614017608,150K
+47,152.236255,612.312049292,13.630845327,FAQ's Cookies Policy Contact
+47,152.236255,576.913425528,10.601768718,© Copyright 2018. All Rights Reserved.
+47,84.051897,548.380246608,12.886197948,Enter email for newslettergo

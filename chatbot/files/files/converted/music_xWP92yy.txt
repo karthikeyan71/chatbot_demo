@@ -1,0 +1,981 @@
+1,15.0,726.832,9.52,
+1,17.0,727.551,8.092,
+1,19.0,726.832,9.52,
+1,21.0,727.551,8.092,
+1,23.0,726.832,9.52,
+1,25.0,727.551,8.092,
+1,27.0,726.832,9.52,
+1,29.0,727.551,8.092,
+1,31.0,726.832,9.52,
+1,33.0,727.551,8.092,
+1,35.0,726.832,9.52,
+1,37.0,727.551,8.092,
+1,39.0,726.832,9.76,
+1,43.0,727.551,8.092,
+1,45.0,726.832,9.52,
+1,47.0,727.551,8.092,
+1,45.4025,638.3295,16.515,Precautions
+1,59.5752,603.1841,27.1343,Location Using the unit in the following locations can result in a mal- function.
+1,68.0795,556.1847,44.0916,• In direct sunlight • Locations of extreme temperature or humidity • Excessively dusty or dirty locations • Locations of excessive vibration • Close to magnetic ﬁelds
+1,59.5747,513.1844,36.134,Power supply  Please connect the designated AC adapter to an AC outlet  of the correct voltage. Do not connect it to an AC outlet of  voltage other than that for which your unit is intended.
+1,59.5749,470.1841,36.1343,Interference with other electrical devices Radios and televisions placed nearby may experience  reception interference. Operate this unit at a suitable dis- tance from radios and televisions.
+1,59.5751,436.1844,27.134,Handling To avoid breakage, do not apply excessive force to the  switches or controls.
+1,59.5752,393.1841,36.1343,Care If the exterior becomes dirty, wipe it with a clean, dry cloth.  Do not use liquid cleaners such as benzene or thinner, or  cleaning compounds or flammable polishes.
+1,59.5748,359.1844,27.134,Keep this manual After reading this manual, please keep it for later refer- ence.
+1,59.575,271.1846,81.1338,Keeping foreign matter out of your equipment Never set any container with liquid in it near this equip- ment. If liquid gets into the equipment, it could cause a  breakdown, fire, or electrical shock. Be careful not to let metal objects get into the equipment. If  something does slip into the equipment, unplug the AC  adapter from the wall outlet. Then contact your nearest  Korg dealer or the store where the equipment was pur- chased.
+1,269.6691,499.2712,155.1328,THE FCC REGULATION WARNING (for U.S.A.) This equipment has been tested and found to comply with  the limits for a Class B digital device, pursuant to Part 15 of  the FCC Rules. These limits are designed to provide rea- sonable protection against harmful interference in a resi- dential installation. This equipment generates, uses, and  can radiate radio frequency energy and, if not installed and  used in accordance with the instructions, may cause harm- ful interference to radio communications. However, there is  no guarantee that interference will not occur in a particular  installation. If this equipment does cause harmful interfer- ence to radio or television reception, which can be deter- mined by turning the equipment off and on, the user is  encouraged to try to correct the interference by one or more  of the following measures: • Reorient or relocate the receiving antenna. • Increase the separation between the equipment and
+1,278.1734,490.2713,8.092,receiver.
+1,272.5041,481.2714,8.092,• Connect the equipment into an outlet on a circuit differ-
+1,278.1734,472.2715,8.092,ent from that to which the receiver is connected.
+1,272.5041,463.2716,8.092,• Consult the dealer or an experienced radio/TV technician
+1,278.1734,454.2717,8.092,for help.
+1,269.6691,436.2719,17.0919,Unauthorized changes or modiﬁcation to this system can  void the user’s authority to operate this equipment.
+1,269.6693,300.2724,119.1324,CE mark for European Harmonized Standards CE mark which is attached to our company’s products of  AC mains operated apparatus until December 31, 1996  means it conforms to EMC Directive (89/336/EEC) and CE  mark Directive (93/68/EEC). And, CE mark which is attached after January 1, 1997  means it conforms to EMC Directive (89/336/EEC), CE  mark Directive (93/68/EEC) and Low Voltage Directive (73/ 23/EEC). Also, CE mark which is attached to our company’s products  of Battery operated apparatus means it conforms to EMC  Directive (89/336/EEC) and CE mark Directive (93/68/ EEC).
+1,263.669,115.580544,27.674752,• Apple, Mac and Audio Units are trademarks of Apple  Computer, Inc., registered in the US. and other coun- tries.
+1,263.669,106.08048,8.674624,• Windows XP is a registered trademark of Microsoft Cor-
+1,272.1732832,96.580416,8.674624,poration in the U.S. and other counties.
+1,263.669,87.080352,8.674624,• VST is a trademark of Steinberg Media Technologies
+1,272.1732832,77.580288,8.674624,GmbH.
+1,263.669,68.080224,8.674624,• RTAS is a registered trademark of Avid Technology, Inc.,
+1,272.1732832,58.58016,8.674624,or its subsidiaries or divisions.
+1,263.669,49.080096,8.674624,• All other product and company names are trademarks or
+2,69.0,726.624,13.212,
+2,74.0,726.471,10.89,
+2,83.0002,726.471,12.462,
+2,91.9997,726.471,12.473,
+2,103.0,726.471,10.8904,
+2,63.8257,632.6059,21.8898,Thank you for purchasing the Korg X50 Music Synthesizer. To help you get the most out of your new  instrument, please read this manual carefully.
+2,56.74,584.844,21.4695,About this manual
+2,56.74,482.2131328,80.5760672,The owner’s manuals and how to use  them The X50 come with the following owner’s manu- als. • Operation Guide • Parameter Guide (included in the CD-ROM)
+2,56.7396,355.4244,113.9283,Operation Guide Please read this ﬁrst. It explains the names and  functions of each part of the X50, how to make  connections, basic operation, an overview of each  mode, and how to edit sounds. This guide also  explains the arpeggiator function, effects, and  drum kits. The Operation Guide also contains troubleshoot- ing information, and supplemental information  such as specifications.
+2,56.74,217.8254,124.7281,Parameter Guide The Parameter Guide contains explanations and  other information regarding the operations of the  parameters and settings on the X50. The explanations are organized by mode, and  page. Explanations and other information on the  effects and their parameters are also provided for  teach effect. Refer to this guide when an unfamiliar parame- ter appears in the display, or when you need to  know more about a particular function.
+2,275.0076,549.5772,13.212,Conventions in this manual
+2,275.008,475.9137,59.6381,Abbreviations for the manuals   OG, PG In the documentation, references to the manuals  are abbreviated as follows. OG: PG:
+2,290.2504,475.8237,21.8907,Operation Guide  Parameter Guide
+2,275.0082,438.8238,24.1291,Procedure steps 1. 2. 3. … This indicates the steps of a procedure.
+2,333.926,413.8423,12.111,,
+2,356.0327,413.8423,12.111,,
+2,275.0078,390.8241,35.1292,Symbols  These symbols respectively indicate a caution, a  MIDI-related explanation, a supplementary note.
+2,360.5328,413.8423,12.122,Note
+2,275.0084,309.825,68.1276,Example screen displays The values of the parameters shown in the exam- ple screens of this manual are only for explana- tory purposes, and may not necessary match the  values that appear in the LCD display of your  instrument.
+2,292.092,273.012638,10.65042,is an abbreviation for Control Change Num-
+2,275.0071,226.2244,70.7286,MIDI-related explanations CC# ber. In explanations of MIDI messages,  square brackets [  ] numbers.
+2,414.4612,248.314,10.71,numbers in
+3,122.0,726.471,13.365,
+3,131.0,726.471,13.365,
+3,142.0,726.471,13.365,
+3,153.0,726.471,13.365,
+3,164.0,726.471,13.365,
+3,179.0,726.471,11.559,
+3,151.7318,650.077,28.626,Table of Contents
+3,45.4019,607.3371,10.89,Precautions............................................................... ii
+3,45.402,584.219,11.01,About this manual ....................................... iii
+3,45.402,510.336,59.3664,Quick Start.........................................1 Setup ......................................................................1 Playing programs and combinations ................2 Listening to the demo songs...............................8
+3,45.4016,483.4896,13.212,Introduction ......................................9
+3,45.402,459.219,11.01,Main features ................................................ 9
+3,45.402,389.3364,56.8926,Front and rear panel ................................... 11 Front panel ..........................................................11 Rear panel............................................................14 Objects in the Display and their functions .....15
+3,45.402,335.3364,41.8926,Basic Information........................................ 17 About the X50’ modes .......................................17 Basic operations..................................................19
+3,45.4024,308.49,13.212,Setup................................................23
+3,45.402,238.3362,56.8928,Turning the power on/off........................... 23 Connecting the AC adapter ..............................23 Turning the power on........................................23 Turning the power off .......................................24
+3,45.402,143.3367,82.8933,Connections................................................. 25 Basic connections................................................25 Connecting a damper pedal, foot switch,  or foot pedal........................................................26 Connecting a computer .....................................27 Connecting MIDI devices .................................34
+3,45.402,116.49,13.212,Playing and Editing Programs .......37
+3,45.402,61.3368,41.8932,Playing programs........................................ 37 Selecting programs ............................................37 Using Controllers ...............................................40
+3,45.402,20.8728,13.212,iv
+3,263.669,550.3365,67.8925,Simple program editing ............................. 43 Performance Edit................................................43 REALTIME CONTROLS [1], [2], [3], [4],  [SELECT] .............................................................43 Saving your edits................................................45
+3,263.669,406.3347,131.8943,Detailed Editing with Programs ................ 46 Before you begin editing ...................................46 Basic oscillator settings......................................47 Using LFOs and Envelopes (EGs)....................50 Using Alternate Modulation ............................51 Controlling Pitch ................................................51 Using Filters ........................................................52 Using the Amp section ......................................55 Effects...................................................................56
+3,263.669,379.49,13.212,Playing and Editing Combinations.57
+3,263.669,324.3366,41.8924,Playing combinations................................. 57 Selecting combinations......................................57 Using Controllers ...............................................59
+3,263.669,301.219,11.01,Simple combination editing ...................... 60
+4,197.0,726.471,13.365,
+4,204.0,726.471,13.365,
+4,211.0,726.471,13.365,
+4,220.0,726.471,11.559,
+4,56.74,648.01,13.212,Using and Editing Multi sets.......... 69
+4,283.512,649.8567,10.89,Synchronizing the arpeggiator.......................105
+4,56.74,450.855,183.894,MIDI considerations ................................... 69 Selecting a multi set ...........................................69 Assigning a program to a track, and setting  the volume and pan ...........................................70 Copying the settings of a combination to a  multi set ...............................................................72 What you can do in Multi mode......................73 Using Controllers ...............................................74 Altering Programs to fit within a Multi set....74 Layers, Splits, and Velocity Switches..............75 Effects...................................................................75 Saving your edits................................................75 Control via MIDI................................................76
+4,56.74,306.8566,130.3658,Effects settings ............................... 79 Effects in each mode ..........................................79 Effect types..........................................................79 Effect settings for a program ............................81 Effect settings in combination, and Multi.......84 Dynamic modulation and BPM/MIDI Sync. ..85 Saving edited effect settings .............................86 Bypassing the insert effect or the master  effects ...................................................................86
+4,56.7404,151.8552,141.3672,Global Mode ................................... 87 How Global mode is structured.......................87 System setup   0: System ...................................87 MIDI-related settings   1: MIDI ........................89 Creating user scales   2: User Scale ..................89 Setting category names    3: Category Name ..............................................90 Saving the global settings .................................90 Drum kit   4: DKit, Arpeggiator   5: Arp.Pattern settings ..............90
+4,56.74,125.01,13.212,Arpeggiator settings...................... 91
+4,65.244,41.8563,77.8905,Arpeggiator features in  Program mode....................................................91 The arpeggiator in Combination and Multi  modes...................................................................95 Creating a user arpeggio pattern .....................99 Saving a user arpeggio ....................................104
+4,275.0076,561.8565,74.3655,Using Drum Kits............................ 107 What is a Drum Kit? ........................................107 Before you start editing…...............................107 Editing Drum Kits............................................108 Saving a drum kit.............................................110
+4,275.008,535.0104,13.212,Other functions ............................ 111
+4,283.5119,406.856,122.8912,Restoring the factory settings (Loading the  preloaded data) ................................................111 Assigning a name (Rename)...........................112 Setting the functions of [SW1] and [SW2] .....113 Assigning functions to REALTIME  CONTROLS B-mode knobs [1]–[4]................113 Adjusting the display contrast .......................114 Tap tempo control............................................114 Shortcuts............................................................114
+4,275.0076,380.01,13.212,Appendices ................................... 115
+4,275.008,324.8568,41.8922,Saving data ............................................... 115 Types of data that can be saved .....................115 About the Edit Buffer ......................................116
+4,275.008,301.739,11.01,Troubleshooting....................................... 117
+4,275.008,220.8564,67.8926,Specifications and options ...................... 120 Specifications ....................................................120 Operating requirements for connection to a  computer ...........................................................121 Options ..............................................................121
+4,275.008,197.739,11.01,MIDI Implementation Chart..................... 122
+6,228.0,726.624,13.212,
+6,248.0,726.471,10.89,
+6,199.0362,650.077,28.626,Quick Start
+6,99.26,547.526805,70.649253,This Quick Start is provided for those who just want to get started trying out the sounds right  away. It explains how to set up the X50, how to select programs and control the sound, and how to lis- ten to the demo songs. After you’ve ﬁnished reading this Quick Start section, please also take a look at the full explana- tions that follow.
+6,99.2595,507.0105,16.515,Setup
+6,116.268,479.784,21.506058,Make all your connections with the power off (on all units!). If you don’t, you may damage  your speaker system or damage your X50 and/or other equipment. Please use caution.
+6,99.26,466.127658,10.47438,1.
+6,99.26,416.927658,10.47438,2.
+6,110.598,281.240427,195.449631,Connect the included AC adapter. Use only the AC adapter included with  the X50. Do not use any other AC  adapter. Connect the X50 to your audio  monitoring system. Using standard audio cables with 1/4"  phone plugs, connect the X50’ (MAIN  OUTPUT) L/MONO and R output jacks  to the input jacks of your mixer,  ampliﬁed monitor speakers, or audio  recording device. If you’re listening through headphones,  connect them to the headphone jack  located on the left front of the X50. The headphones produce the same signal  as the (MAIN OUTPUT) L/MONO and R jacks.
+6,285.5551,425.4975,7.707,4 Cable hook
+6,290.054,381.499,7.567,AC adapter
+6,290.054,340.4986,15.5673,Plug into an AC  outlet
+6,300.0542,313.9987,7.707,3 Power cable
+6,283.914,449.634,8.808,Connecting the AC adapter
+6,425.5544,422.9985,7.567,Power switch
+6,401.5542,396.9984,7.707,1 Power connector
+6,403.5548,341.9973,47.5685,Be careful not to  bend this portion  excessively when you  wrap the cable  through the cable  hook.
+6,352.5549,357.9972,7.707,2
+6,105.988,257.229,8.808,Audio output device connections
+6,166.886,242.479,8.648,Powered monitors
+6,153.009,201.76,18.808,Adjust the  [VOLUME] slider
+6,224.41685303,218.0259,8.3237,INPUT
+6,279.8081,218.0259,8.3237,INPUT
+6,217.44855326,190.9835,8.3237,L/MONO
+6,265.4528,190.9835,8.3237,R
+6,401.886,202.979,8.648,Power switch
+6,84.136,153.979,8.648,Headphones
+6,147.4892,88.4009,8.3237,PHONES
+6,463.9392,20.8728,13.212,1
+6,492.9227,671.5823,1.5453,
+6,492.9227,651.9524,38.02356,t r a t S k c i u Q
+6,492.9227,600.43155,40.9275,n o i t c u d o r t n
+6,492.9227,598.2513,2.18025,I
+6,492.9227,558.6121,20.0736,p u t e S
+6,492.9227,502.6981,29.58255,m a r g o r P
+6,492.9227,445.4055,41.854425,n o i t a n b m o C
+6,492.9227,464.255525,1.97965,i
+6,492.9227,406.2065,17.93925,i t l u M
+6,492.9227,354.206,19.62225,t c e f f E
+6,492.9227,301.6306,22.4604,l a b o G
+6,492.9227,306.87085,2.0961,l
+6,492.9227,240.8893,41.62365,r o t a i g g e p r A
+6,492.9227,214.5961,1.5453,
+6,492.9227,195.3334,30.42405,t i K m u r D
+6,492.9227,178.9146,1.6303,l
+6,492.9227,138.2285,40.6861,o r t n o c   l a n r e t x E
+7,282.0,726.471,10.89,
+7,291.0,726.03,16.515,
+7,301.0,726.471,13.365,
+7,308.0,726.471,10.89,
+7,316.0,726.471,10.89,
+7,321.0,726.471,10.89,
+7,329.0,726.471,10.89,
+7,334.0,726.471,10.89,
+7,87.921,650.133658,10.47438,3.
+7,87.921,608.733658,24.27448,4. 5.
+7,99.26,608.645638,52.05042,Lower the X50’s [VOLUME] slider. Turn on your audio monitor system and set the volume to a normal level. Turn on the X50 by pressing the power switch located on the rear panel. Slowly raise the X50’s [VOLUME] slider to an appropriate volume.
+7,87.9208804,437.75953,146.88497,Playing programs and combinations By default, Combination mode will be selected when you turn on the power. Play the keyboard, and you will hear the sound of bank A combination number 000. A combination consists of up to eight programs that are split, zoned, layered or velocity- switched across the keyboard. A combination can also use up to two Arpeggiators simulta- neously (a program can use only one Arpeggiator), letting you produce far more complex  sounds than a single program. Although you could simply continue selecting and playing different combinations, let’s start by  selecting and listening to the “basic” sounds of the X50 – programs. If you don’t hear any sound when you play the keyboard: Check the connections once  Note:  again. Also make sure that the X50’s VOLUME and the volume of your powered speakers or  stereo amp are turned up appropriately.
+7,87.9204,406.6716,13.212,Selecting programs by bank and number
+7,130.7292,379.2773396,12.3309798,1
+7,285.4464,376.4110396,12.3309798,3 5
+7,332.5824,376.4110396,12.3309798,2
+7,361.7101,376.4110396,12.3309798,4
+7,87.921,266.654658,10.47438,1.
+7,99.26,241.9668084,35.2502496,Press the [PROG] button. (The button will light.) This is the Program mode. Notice that the upper line of the display indicates “PROG 0: Play”  (mode name, page number and name).
+7,118.967,228.959,7.567,Mode name
+7,167.9789,228.959,7.567,Page number and name
+7,286.9673,228.959,7.567,Parameter name
+7,196.4663,210.4587,15.5673,Category number  and name
+7,253.467,211.786,7.567,Tab name
+7,324.467,213.286,7.567,Tempo
+7,93.9661,146.457,57.5687,Bank  number Program  Select  (program  number  and name)
+7,150.0389,136.9587,7.567,Tab
+7,229.4672,136.9587,7.567,Control assign list
+7,99.26,52.243638,76.65042,Make sure that “Program Select” (program number and name) is selected. If this is not selected, use the ClickPoint [ Turn the [VALUE] dial to select the program you want to play. You can also press the center of the ClickPoint to highlight the ﬁeld, then use [ a program, and press the center to ﬁnalize your selection. Press one of the PROG BANK [A]–[GM] button to switch banks.
+7,257.995,107.110644,8.89002,π
+7,272.657,107.110644,8.89002,†
+7,397.906,79.510744,8.89002,π
+7,412.568,79.510744,8.89002,†
+7,406.719,76.843738,10.65042,][
+7,421.381,76.843738,10.65042,] to select
+7,266.808,104.443638,10.65042,][
+7,281.469,104.443638,10.65042,] to highlight the “Program Select” indication.
+7,87.921,118.331658,10.47438,2.
+7,87.921,90.731658,10.47438,3.
+8,355.0,726.471,10.89,
+8,360.0,726.471,10.89,
+8,364.0,726.471,10.89,
+8,367.0,726.471,10.89,
+8,374.0,726.471,13.365,
+8,381.0,726.471,10.89,
+8,390.0,726.471,10.89,
+8,398.0,726.471,10.89,
+8,403.0,726.471,10.89,
+8,412.0,726.471,10.89,
+8,416.0,726.471,10.89,
+8,420.0,726.471,10.89,
+8,309.422,692.259,11.01,Playing programs and combinations
+8,225.967,595.519,11.469006,→
+8,99.26,554.733658,10.47438,5.
+8,206.194,595.519,11.469006,→
+8,177.023,595.519,11.469006,→
+8,214.867,593.045638,10.65042,G
+8,185.696,593.045638,10.65042,g(d)
+8,234.641,593.045638,10.65042,g(d) ... etc.
+8,110.5978858,480.8468084,179.8492496,When you select a different Bank, that button’s LED will light, and the selected bank will  appear in the left side of the display. For example, to select bank B, press the PROG BANK [B] button. The [B] button will light,  and the name Bank B will appear in the left of the display. The [GM] button operates  differently from the other bank buttons. Each time you press this button, the bank will switch  in the order of G  The programs are organized into banks of 128 (except for g(d)). Select the desired bank, and  then select a program number within that bank. Play the keyboard to hear the program you selected. While playing the keyboard, use the [MOD] wheel, [PITCH] wheel, [SW1][SW2], and  realtime controllers to modify the sound. The result will differ depending on the program, so  play the keyboard while operating these controllers to hear what they do. For more about the controllers, see “Using controllers to modify the sound” ( You can also press the [AUDITION] button (it will light) and a riff (phrase) suitable for that  program will play automatically.
+8,417.058,505.446638,10.65042,p.5).
+8,408.805,507.92,8.476326,☞
+8,99.2598,444.046638,24.842562,electing programs by category S You can also select programs by their category, such as keyboard, organ, bass, or drums.
+8,235.044,425.2693198,12.3310899,31
+8,291.7783,425.2693198,12.3310899,2
+8,316.5584,425.2693198,12.3310899,4
+8,99.26,321.997658,10.47438,1.
+8,110.598,308.1098624,24.4501956,Press the [CATEGORY] button. The category menu will appear.
+8,194.70338741,293.4032198,7.7830919,Category No.
+8,267.2359,293.4032198,7.7830919,Sel (Select)
+8,118.147,208.948,7.567,Category
+8,215.6829,208.948,7.567,Program
+8,99.26,188.669658,10.47438,2.
+8,99.26,139.469658,10.47438,3.
+8,99.26,114.869658,10.47438,4.
+8,110.598,103.981584,95.250474,You can use the [PAGE+][PAGE–] buttons to step through the categories one by one. For example if you choose 00: Keyboard, you’ll be able to select only from programs that are  in the Keyboard category. The Keyboard category contains programs such as acoustic piano,  and electric piano etc. By using the [VALUE] dial or the ClickPoint [ the programs in the same category. Press the [MENU/OK] button to conﬁrm your selection. If you decide not to select a  program, press the [EXIT/CANCEL] button.
+8,307.807,139.381638,10.65042,] to select programs, you can step through
+8,284.332,142.048644,8.89002,π
+8,298.994,142.048644,8.89002,†
+8,293.145,139.381638,10.65042,][
+8,120.576,90.181738,10.65042,You can also switch categories by using the ClickPoint [
+8,99.2599084,79.381684,21.353652,Note:  the top line of the category menu and then turning the [VALUE] dial.
+8,344.484,90.181738,10.65042,][
+8,335.672,92.848744,8.89002,√
+8,350.334,92.848744,8.89002,®
+8,359.146,90.181738,10.65042,] to select “Category No.” in
+8,463.9392,20.8728,13.212,3
+8,492.9227,671.5823,1.5453,
+8,492.9227,651.9524,38.02356,t r a t S k c i u Q
+8,492.9227,600.43155,40.9275,n o i t c u d o r t n
+8,492.9227,598.2513,2.18025,I
+8,492.9227,558.6121,20.0736,p u t e S
+8,492.9227,502.6981,29.58255,m a r g o r P
+8,492.9227,445.4055,41.854425,n o i t a n b m o C
+8,492.9227,464.255525,1.97965,i
+8,492.9227,406.2065,17.93925,i t l u M
+8,492.9227,354.206,19.62225,t c e f f E
+8,492.9227,301.6306,22.4604,l a b o G
+8,492.9227,306.87085,2.0961,l
+8,492.9227,240.8893,41.62365,r o t a i g g e p r A
+8,492.9227,214.5961,1.5453,
+8,492.9227,195.3334,30.42405,t i K m u r D
+8,492.9227,178.9146,1.6303,l
+8,492.9227,138.2285,40.6861,o r t n o c   l a n r e t x E
+9,446.0,726.471,10.89,
+9,451.0,726.471,10.89,
+9,460.0,726.471,10.89,
+9,469.0,726.471,12.462,
+9,478.0,726.471,10.89,
+9,45.402,692.259,11.01,Quick Start
+9,87.9208,643.758,13.212,Selecting combinations by bank and number
+9,124.6643,617.3444396,12.3309798,1
+9,279.3814,614.4780396,12.3309798,3
+9,326.5175,614.4780396,12.3309798,2
+9,380.4253,614.4780396,12.3309798,4
+9,87.921,513.500658,10.47438,1.
+9,99.26,488.8128084,35.2502496,Press a [COMBI] button. (The button will light.) You will enter Combination mode. Notice that the upper line of the display indicates  “COMBI 0: Play” (mode name, page number and name).
+9,125.276,474.632,7.567,Mode name
+9,173.2757,456.0547,25.8944,Page number and name Category number  and name
+9,257.026,455.93,7.567,Tab name
+9,288.5252,474.3821,7.567,Parameter name
+9,328.0255,460.8049,7.567,Tempo
+9,92.2746,399.8041,50.3181,Bank  number Combi Select  (combination  number and  name)
+9,154.3471,383.555,7.567,Tab
+9,272.7752,383.555,7.567,Control assign list
+9,87.921,365.176658,10.47438,2.
+9,87.921,323.777658,24.27338,3. 4.
+9,87.921,236.177658,10.47438,5.
+9,273.045,353.955644,8.89002,†
+9,267.196,351.288638,10.65042,][
+9,258.383,353.955644,8.89002,π
+9,281.858,351.288638,10.65042,] to highlight the “Combi Select” indication.
+9,99.26,186.933648,188.80541,Make sure that “Combi Select” (combination number and name) is selected. If this is not selected, use the ClickPoint [ Turn the [VALUE] dial to select the combination you want to play. Press a COMBI BANK [A]–[C] button to switch banks. When you select a different Bank, the button’s LED will light, and the selected bank will  appear on the left side of the display. For example, to select bank B, press the COMBI BANK [B] button. The [B] button will light,  and the name Bank B will appear in the left of the display. Combinations are organized into banks of 128. Select the desired bank, and then select a  combination number within that bank. Play the keyboard to hear the combination you selected. While playing the keyboard, use the [MOD] wheel, [PITCH] wheel, [SW1][SW2], and  realtime controllers to modify the sound. The result will differ depending on the  combination, so play the keyboard while operating these controllers to hear what they do. Note:
+9,120.576,186.889638,10.65042,You can’t use the [AUDITION] button to play a riff (phrase) in Combination mode.
+9,87.9206,139.289584,34.739516,Selecting combinations by category In Combination mode you can select combinations by category just as in Program mode. For the  procedure, see “Selecting programs by category” (
+9,290.775,139.289638,10.65042,p.3).
+10,496.0,726.471,12.462,
+10,505.0,726.471,10.89,
+10,514.0,726.561,10.71,
+10,309.422,692.259,11.01,Playing programs and combinations
+10,99.26,617.993584,38.976416,Using controllers to modify the sound You can operate the X50’s [MOD] wheel, [PITCH] wheel, [SW1][SW2], and realtime controllers  to add expressive variation to your performances.
+10,99.2597,559.59353,45.54097,[PITCH] wheel, [MOD] wheel You can use the [PITCH] wheel and [MOD] wheel located at the upper left of the keyboard to  vary the pitch or adjust the depth of modulation. The actual result will depend on the program  and combination, but these controllers are normally used to apply the following effects.
+10,99.799,545.7311,7.567,Raise the pitch
+10,99.26,485.381,7.567,Lower the pitch
+10,252.799,512.2308,15.5673,Deepen the  vibrato
+10,99.26,419.55953,45.54057,REALTIME CONTROLS [1], [2], [3], [4], [SELECT] Use the [SELECT] button to select realtime controller mode A/B/C, and use knobs [1]–[4] to  control the tone, effects, MIDI control changes, and arpeggiator etc. while you perform. Use  these knobs when you want to modify the sound while performing, or to make simple edits.
+10,220.302,398.399,8.808,[SELECT] button
+10,304.139,279.399,8.808,Knobs [1]–[4]
+10,99.26,225.747658,38.1625852,Here we’ll explain how to use the realtime controllers in Program mode. 1. 2.
+10,110.598,190.2605642,59.8494938,Press the [PROG] button. (The button will light.) Choose “Program Select” (program number and name), and turn the [VALUE] dial to select  the program that you want to control using the realtime controllers. Press the REALTIME CONTROLS [SELECT] button to light the “A” LED located at the right  of the button.
+10,99.26,201.147758,10.47438,3.
+10,99.2601438,176.4607886,10.65042,4. Turn knob [1] (LPF CUTOFF) to adjust the cutoff frequency of the low pass ﬁlter.
+10,99.2601438,130.260851,46.0503036,When you adjust the cutoff frequency of the ﬁlter, the brightness of the sound will change.  The effect will depend on the settings of the program parameters, but normally, rotating the  knob toward the left will darken the sound, and rotating it toward the right will brighten it. 5. Turn knob [2] (RESONANCE/HPF) to adjust the resonance level of a low pass ﬁlter or the
+10,110.598,65.460527,64.65069,cutoff frequency of a high pass ﬁlter. The content that is controlled will depend on the ﬁlter type speciﬁed by the program. By adjusting the ﬁlter resonance level, you can increase or decrease the resonance level to add  a unique character to the sound. Adjusting the cutoff frequency of the high-pass ﬁlter will modify the thickness of the sound  from which the low frequency range has been ﬁltered out.
+10,463.9388,20.8728,13.212,5
+10,492.9227,671.5823,1.5453,
+10,492.9227,651.9524,38.02356,t r a t S k c i u Q
+10,492.9227,600.43155,40.9275,n o i t c u d o r t n
+10,492.9227,598.2513,2.18025,I
+10,492.9227,558.6121,20.0736,p u t e S
+10,492.9227,502.6981,29.58255,m a r g o r P
+10,492.9227,445.4055,41.854425,n o i t a n b m o C
+10,492.9227,464.255525,1.97965,i
+10,492.9227,406.2065,17.93925,i t l u M
+10,492.9227,354.206,19.62225,t c e f f E
+10,492.9227,301.6306,22.4604,l a b o G
+10,492.9227,306.87085,2.0961,l
+10,492.9227,240.8893,41.62365,r o t a i g g e p r A
+10,492.9227,214.5961,1.5453,
+10,492.9227,195.3334,30.42405,t i K m u r D
+10,492.9227,178.9146,1.6303,l
+10,492.9227,138.2285,40.6861,o r t n o c   l a n r e t x E
+11,99.2597364,585.245314,64.65069,is applied). Rotating the knob will affect the depth of the ﬁlter EG. Normally, rotating the knob toward  the left will make the ﬁlter EG apply less deeply, and rotating it toward the right will make  the ﬁlter EG apply more deeply. Since the ﬁlter EG will operate based on the cutoff frequency  of the ﬁlter, knobs [1] and [3] will work together to control the tonal changes produced by the  ﬁlter.
+11,87.921,571.4455384,10.65042,7. Turn knob [4] (EG-RELEASE) to adjust EG release times of the ﬁlter and amp. This will
+11,99.2597364,528.2462026,43.0497018,determine the time from note-off until the sound disappears. When you adjust the knob, the release times of the ﬁlter EG and the amp EG will change.  Normally, rotating the knob toward the left will shorten the release time, and rotating it  toward the right will lengthen the release time.
+11,87.921,514.446427,10.65042,8. Press the REALTIME CONTROLS [SELECT] button to light the “B” LED located at the right
+12,99.26,357.9949248,86.9390752,Using the realtime controllers to control the arpeggiator 1. Press the [PROG] button. (The button will light.) 2. Choose “Program Select” (program number and name), and turn the [VALUE] dial. You will  notice that the [ARP ON/OFF] button is lit for some programs. Select one of these programs,  and play the keyboard; the arpeggiator will start playing. Even for other programs, you can press the [ARP ON/OFF] button (the button will light) to  turn on the arpeggiator. Play the keyboard to make the arpeggio start.
+12,99.26,344.1951492,10.65042,3. Press the REALTIME CONTROLS [SELECT] button to light the “C” LED located at the right
+12,110.5978562,333.3950952,10.65042,of the button.
+12,99.26,305.795544,24.4501956,4. Turn the [4] (TEMPO) knob to change the tempo. 5. Turn the [1] (ARP-GATE) knob to change the duration of the arpeggiated notes.
+12,110.5978562,281.1957144,21.450474,Note: When knobs [1]–[3] are at their center position (12 o’clock), the parameters they control  will have the values speciﬁed within the program.
+12,99.26,253.5961632,24.4501956,6. Turn the [2] (ARP-VELOCITY) knob to change the level of the arpeggiated notes. 7. Turn the [3] (ARP-LENGTH) knob to change the length of the arpeggio pattern.
+12,110.5978562,228.9972138,21.4495938,Changing the length of the arpeggio pattern will change the character of the pattern. This  doesn’t work for the preset patterns (UP, DOWN, ALT1, ALT2, and RANDOM).
+12,99.26,167.5958084,48.5392916,Changing the arpeggio pattern The X50 contains preset arpeggio patterns Preset-0 through Preset-4, and user arpeggio patterns  U000–250. 1. Press the [PAGE+] button to access the PROG 0: Play, Arp. Play page.
+12,99.26,91.0685798,11.557026,2. Use the ClickPoint [√][®][π][†] to choose “Pattern,” and use the [VALUE] dial or the
+12,110.5960958,58.6684178,32.250528,[INC][DEC] buttons to select an arpeggio pattern. To select a user arpeggio pattern, you can  also use numeric buttons [0]–[9] to enter a pattern number and then press the [ENTER]  button.
+12,99.2582396,44.8686422,10.65042,3. Play the keyboard and try out various arpeggio patterns.
+12,463.939,20.8731,13.212,7
+12,492.9227,671.5823,1.5453,
+12,492.9227,651.9524,38.02356,t r a t S k c i u Q
+12,492.9227,600.43155,40.9275,n o i t c u d o r t n
+12,492.9227,598.2513,2.18025,I
+12,492.9227,558.6121,20.0736,p u t e S
+12,492.9227,502.6981,29.58255,m a r g o r P
+12,492.9227,445.4055,41.854425,n o i t a n b m o C
+12,492.9227,464.255525,1.97965,i
+12,492.9227,406.2065,17.93925,i t l u M
+12,492.9227,354.206,19.62225,t c e f f E
+12,492.9227,301.6306,22.4604,l a b o G
+12,492.9227,306.87085,2.0961,l
+12,492.9227,240.8893,41.62365,r o t a i g g e p r A
+12,492.9227,214.5961,1.5453,
+12,492.9227,195.3334,30.42405,t i K m u r D
+12,492.9227,178.9146,1.6303,l
+12,492.9227,138.2285,40.6861,o r t n o c   l a n r e t x E
+13,125.9171,573.9650396,12.3309798,1 2, 3
+13,124.0843,471.0449396,12.3309798,4.2
+13,151.6651,471.0449396,12.3309798,5
+13,170.3267,471.0449396,12.3309798,4.1
+13,87.921,448.3305058,10.65042,1. Hold down the [CATEGORY] button and press the [AUDITION] button.
+13,99.2597364,434.5307302,10.65042,The Demo Song Player page will appear.
+13,87.921,330.4039504,38.2499712,2. Press the [AUDITION] button to begin playback. 3. Press the [AUDITION] button once again to stop playback. 4. To select a song for playback, use the ClickPoint [π][†] to select the song name (“Demo
+13,99.2606166,319.6047766,10.65042,Song Select”) and use the [VALUE] dial to change songs.
+13,87.9218802,305.805001,10.65042,5. To exit the Demo Song Player page, press the [EXIT/CANCEL] button.
+13,99.2606166,281.2051714,21.450474,You can also exit by pressing one of the [COMBI], [PROG], [GLOBAL], or [MULTI] mode  buttons.
+13,87.921,164.3528708,98.9751292,Changing the play mode • You can play back the demo songs in succession or only one song at a time; use the Click- Point [√][®][π][†] to select “Play Mode” and use the [VALUE] dial etc. to change the set- ting. Continue to next song: When the currently selected demo song ﬁnishes playing, the next  demo song will play automatically. Stop at end of selected song: When the currently selected demo song ﬁnishes playing,  playback will stop.
+13,87.9192396,150.5530952,10.65042,• If you want all of the demo songs to continue playing repeatedly, use the ClickPoint
+13,99.257976,128.9529872,22.35708,[√][®][π][†] to select the “Repeat All” check box and then press the ClickPoint center to  add a check mark.
+13,87.9201198,115.1532116,10.65042,Note: This is available only if “Play Mode” is set to Continue to next song.
+14,56.74,456.1744186,120.7755814,High-quality sound featuring the HI  synthesis system The X50 Music Synthesizer features Korg’s  acclaimed HI (Hyper Integrated) synthesis sys- tem. The HI (Hyper Integrated) synthesis system is a  PCM tone generator system with extensive modu- lation and effect routing capabilities, as well as full  digital signal processing that guarantees a rich,  pristine sound.
+14,56.74,421.874638,24.325377,Tone generator section: • 64 MB of preset PCM ROM containing 470 mul-
+14,68.0787364,411.074584,10.65042,tisamples and 518 drumsamples.
+14,56.74,397.2748084,10.65042,• The sampling frequency is 48 kHz, and the
+14,68.0787364,386.4747544,10.65042,maximum polyphony is 62 voices.
+14,56.74,352.174638,24.326377,Filter/synthesis section: • 24 dB/oct Low Pass Resonance type or 12 dB/
+14,68.0787364,298.174368,53.850636,oct Low Pass & High Pass type ﬁlters can be  used. A wide variety of ﬁlter effects can be  achieved, from active sounds with aggressive  resonance to subtle tones using a high pass ﬁl- ter.
+14,56.74,284.3745924,10.65042,• A broad range of editing parameters gives you
+14,68.0796166,273.5745384,10.65042,control over every aspect of the sound.
+14,56.74,185.2752482,78.3257668,Effect section: • One insert effect (stereo-in/stereo-out), two  master effects (mono-in/stereo-out), and a  three-band master EQ (stereo-in/stereo-out)  can all be used simultaneously. You can select  from 89 types of effect algorithms, and edit  them.
+14,56.74,149.8753646,32.250528,• Highly ﬂexible effect routing is possible. Effects  can also be routed freely to the individual out- puts.
+14,56.74,103.075638,36.825377,Alternate Modulation and Effect Dynamic  Modulation: • The synthesis section (ﬁlter etc.) provides Alter-
+14,68.0787364,49.075368,53.850636,nate Modulation functionality, and the effect  section provides Effect Dynamic Modulation  functionality. This allows you to freely apply  modulation to parameters that affect the pitch,  ﬁlter, amp, EG, LFO, effects etc.
+14,275.007595,570.0252588,10.65042,• LFO and delay time parameters can be syn-
+14,286.3454512,537.625977,32.2496478,chronized to MIDI clock/tempo. You can syn- chronize sounds or effects to the tempo of the  sequencer or the arpeggiator.
+14,275.008,437.574368,82.175632,A great selection of 512 programs In the Program mode, the X50 provides 512 user  programs, plus 128 programs + 9 drum sets for  GM compatibility. When shipped from the factory, it is loaded with  high-quality programs that cover a wide range of  musical needs.
+14,275.008,322.974314,101.739686,Programs using multisamples that pro- vide a broad range of sounds Based on 470 different multisamples that deliver a  broad range of sounds ranging from acoustic  instruments such as piano, guitar, and trumpet, to  synthesizer sounds or sound effects (oscillator),  the preset programs provide a rich variety of edit- able parameters (ﬁlter and amp), effects, and  arpeggiators.
+14,275.008,151.3752026,158.7397974,Drum programs that support any style  of rhythm part Based on 40 user drum kits and nine GM2-com- patible ROM drum kits, and taking full advantage  of numerous editable parameters, effects, and  arpeggiators, the X50 provides a great selection of  preset programs for any style of music. The drum kits that are the basis of each drum pro- gram allow you to freely map any of the 518 drum  or percussion sounds to each note of the keyboard.  You can also create your own drum kits, and even  specify ﬁlter and amp settings, effect settings, and  individual audio output routings for each separate  key.
+14,463.939,20.8731,13.212,9
+14,492.9227,672.5823,1.5453,
+14,492.9227,652.9524,38.02356,t r a t S k c i u Q
+14,492.9227,601.433845,40.920615,n o i t c u d o r t n
+14,492.9227,599.2513,2.18025,I
+14,492.9227,559.6121,20.0736,p u t e S
+14,492.9227,503.6981,29.571075,m a r g o r P
+14,492.9227,446.4055,41.854425,n o i t a n b m o C
+14,492.9227,465.255525,1.97965,i
+14,492.9227,407.2066,17.93772,i t l u M
+14,492.9227,355.2061,19.62072,t c e f f E
+14,492.9227,302.6307,22.456575,l a b o G
+14,492.9227,307.851825,2.0961,l
+14,492.9227,241.8893,41.622885,r o t a i g g e p r A
+14,492.9227,215.60681,1.5453,
+14,492.9227,196.3334,30.42099,t i K m u r D
+14,492.9227,179.918865,1.6303,l
+14,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+15,263.669,232.3424844,131.5765156,X50 Plug-In Editor supports editing  from within your DAW software The “X50 Editor” is a stand-alone program that  lets you edit the X50 from your Macintosh or Win- dows computer.  On the other hand, the “X50 Plug-In Editor” lets  you edit the X50 as a plug-in instrument from  within a host application such as DAW (Digital  Audio Workstation) software. It supports VST,  Audio Units, and RTAS formats. Both editors are  included with your X50.
+15,45.402,692.259,11.01,Introduction
+15,45.402,514.5943106,142.3756894,384 different combinations let you  freely combine programs The X50 provides 384 user combinations. The fac- tory settings contain a wide variety of Preloaded  combinations. A combination allows you to use layers, splits, or  velocity switching etc. to combine up to eight pro- grams together with the effects and the two arpeg- giators, in order to create complex sounds that  could not be produced by a program. You can also  create combis that include external tone genera- tors.
+15,45.402,408.142476,88.575524,Effects that can creatively manipu- late the sound or generate subtle  ambience The X50’s effects can be used in many ways, rang- ing from manipulating the sound dramatically to  creating spacious reverberation. (☞p.9 “High- quality sound featuring the HI synthesis system”)
+15,45.402,308.090368,82.176632,4 channel audio outputs In addition to the (MAIN OUTPUT) L/MONO  and R main stereo audio outputs, X50 provides  two individual audio outputs, for a total of four  channels of audio output. The sound from each  oscillator, drum, timbre/track, or insert effect can  be routed freely to any output.
+15,45.402,137.0392566,153.1757434,Multi mode plays multiple tracks of  data from an external sequencer In Multi mode, the X50 can operate as a 16-track  MIDI multi-timbral sound module, receiving mul- tiple tracks of performance data from an external  sequencer or similar device. Since you can use the  effects and the two arpeggiators as well, the X50  will also function as a more advanced sound mod- ule. You can create, save and recall numerous Multi  sets in the X50 and it also supports GM (General  MIDI System Level 1), making it easy to use as a  sound module for a desktop music system.
+16,56.74,596.829,16.515,Front panel
+16,220.0359,554.7583,12.111,7
+16,74.0807,413.8872,12.111,14
+16,105.0368,391.1177,13.8726,1
+16,174.4122,391.1177,13.8726,3
+16,280.8952,391.1177,13.8726,4
+16,380.76784,391.1177,13.8726,6
+16,105.66176,259.61402,13.8726,2
+16,211.84806,259.61402,13.8726,5
+16,153.9386,243.0684,13.8726,8
+16,181.93832,243.0684,13.8726,9
+16,225.8236,243.0684,13.8726,11
+16,316.55116,243.0684,13.8726,12
+16,400.68766,243.0684,13.8726,13
+16,164.3895,110.7256,13.8726,10
+16,315.1292,110.7256,13.8726,10
+16,492.9227,672.5823,1.5453,
+16,492.9227,652.9524,38.02356,t r a t S k c i u Q
+16,492.9227,601.433845,40.920615,n o i t c u d o r t n
+16,492.9227,599.2513,2.18025,I
+16,492.9227,559.6121,20.0736,p u t e S
+16,492.9227,503.6981,29.571075,m a r g o r P
+16,492.9227,446.4055,41.854425,n o i t a n b m o C
+16,492.9227,465.255525,1.97965,i
+16,492.9227,407.2066,17.93772,i t l u M
+16,492.9227,355.2061,19.62072,t c e f f E
+16,492.9227,302.6307,22.456575,l a b o G
+16,492.9227,307.851825,2.0961,l
+16,492.9227,241.8893,41.622885,r o t a i g g e p r A
+16,492.9227,215.60681,1.5453,
+16,492.9227,196.3334,30.42099,t i K m u r D
+16,492.9227,179.918865,1.6303,l
+16,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+16,492.9227,86.8935,44.676,s n o i t c n u f   r e h t O
+17,45.402,497.0465266,80.9394734,2. [SW1], [SW2] These switches can perform a number of different  functions, such as modulating sounds or locking  the modulation values of [PITCH] wheel. The actual functions that are being controlled will  depend on various program and effect parame- ters.
+17,45.402,438.64653,45.53947,3. [VOLUME] slider This adjusts the volume of the (MAIN OUTPUT)  L/MONO, R jacks, as well as the volume of the  headphone jack.
+17,45.402,413.675,12.111,4. REALTIME CONTROLS
+17,45.402,322.646422,80.025593,[SELECT] button [1]–[4] knob Use the [SELECT] button to choose one of the real- time controller modes - A/B/C - and use knobs  [1]–[4] to control the tone, effects, MIDI control  changes, and arpeggiator etc. while you perform.  (☞p.43, 92)
+17,45.402,285.846638,23.939362,5. Arpeggiator The X50’s arpeggiator is a polyphonic arpeggiator.
+17,45.4011198,180.7468708,95.1261442,[ARP ON/OFF] button This button turns the arpeggiator on/off. When  on, the button will light. (☞p.91) The LED located above knob [4] blinks at quarter- note intervals of the tempo. In REALTIME CONTROLS C-mode, you can use  the [1], [2], [3], and [4] knobs to vary the arpeggio  pattern in realtime.
+17,45.402,108.5476346,59.3393654,6. MODE Use these buttons to enter modes. The X50 has  four modes. (☞p.19) Press a button (the LED will light) to enter the cor- responding mode.
+17,45.402,20.8731,13.212,12
+17,263.669,608.8060835,52.0659315,[COMBI] button [PROG] button [GLOBAL] button [MULTI] button
+17,263.669,560.245584,34.739416,7. Display You can select a page, tab, or parameter in the dis- play, and specify its value. (☞p.15)
+17,263.669,501.84563,45.54037,8. CATEGORY You can select programs, multisamples, combina- tions, timbre/track programs, effects, or drum  samples by category.
+17,263.6681198,424.3463022,67.5257128,[CATEGORY] button Press this button to access the category menu, and  choose a program etc. from the list. The category  menu will appear if you have selected an appro- priate mode, page, or parameter. (☞p.38, 45, 82,  109)
+17,263.669,399.375,12.111,9. AUDITION, Demo Song Player
+17,263.669,310.046368,78.325647,[AUDITION] button In Program mode when you press the [AUDI- TION] button (the button will light), a riff (phrase)  appropriate for the preloaded or preset program  will play. (This is called the Audition function.) To  stop auditioning, press the [AUDITION] button  once again.
+17,263.669,194.7324176,105.3405974,Demo song player When you hold down the [CATEGORY] button  and press the [AUDITION] button, the Demo  Song Player page will appear. Select a song and press the [AUDITION] button to  begin playback. Press the [AUDITION] button  once again to stop playback. To exit from this mode, press the [EXIT/CANCEL]  button. (☞p.8)
+18,56.7373594,300.245995,246.32612,ClickPoint The ClickPoint is a multi-function controller. You can move the ClickPoint in the  ([√][®][π][†]) direction to select parameters. In  addition, you can press directly down on the cen- ter of the ClickPoint (in toward the body of the  instrument) to select an item in the display. After selecting a parameter expressed as a numeri- cal value etc., press the center of the ClickPoint;  the value will be highlighted, and now you can  use [π][†] to increase or decrease the value. To  ﬁnalize the value, press the center once again. You can also press the ClickPoint center to access a  dialog box, to set the numerical value of an edit- able condition, or to turn a switch on/off. If you  press the ClickPoint on the utility menu, page  menu, or a text edit button (☞p.15), the selected  command or page will appear. Pressing the Click- Point center on a check box will switch the item  on/off. Pressing the ClickPoint center on a button  such as OK or CANCEL will conﬁrm the corre- sponding choice.
+18,56.74,113.5479298,176.7250852,[MENU/OK] button Press this button to access the page menu. (☞p.19) You can move to a speciﬁc page by pressing the  [MENU/OK] button simultaneously with another  button. (☞p.19) By holding down the [MENU/OK] button and  using the numeric buttons [0]–[9] to enter a page  number, you can move to the selected page. By holding down the [MENU/OK] button and  pressing the [PAGE+] button or [PAGE–] button,  you can move forward or backward in steps of one  page. If a dialog box is open, this button will conﬁrm the  settings in the dialog box and close it. (This is the  same function as the OK button.)
+18,56.74,43.8478544,59.7261606,[EXIT/CANCEL] button When you are in a page other than 0 of each mode,  you can press this button to move to page 0 of that  mode. When a dialog box is open, this button will cancel
+18,419.08,692.259,11.01,Front panel
+18,275.007595,617.6458334,43.050582,the settings made in the dialog box and close the  dialog box (corresponds to the “Cancel”). If a Util- ity menu or page menu is open, pressing [EXIT/ CANCEL] button will close the menu.
+18,275.008,592.675,12.111,12. BANK SELECT
+18,275.008,446.4471998,135.2248152,PROG BANK [A], [B], [C], [D], [GM] buttons COMBI BANK [A], [B], [C] buttons These buttons switch program or combination  banks. The button LED will light to indicate the  current bank. (☞p.38, 44) In Program mode, these buttons select program  banks. In Combination mode, these buttons have the fol- lowing two functions. • Select combination banks. • When the cursor is located at a timbre program
+18,286.3458562,424.8470918,21.450474,(highlighted), these buttons select program  banks. (☞p.57, 60)
+18,275.008,389.4472082,32.250528,In Multi mode, when the cursor is located at a  track program (highlighted), these buttons select  program banks. (☞p.71)
+18,275.008,364.475,12.111,13. UTILITY, COMPARE
+18,275.008,318.346584,35.126431,[UTILITY] button Press this button when you want to use the utility  functions. (☞p.21)
+18,275.008,251.646476,56.726539,[COMPARE] button Use this button when you wish to compare the  sound of the program, combination or multi set  that you are currently editing with the un-edited  sound that was written into memory. (☞p.21)
+18,275.008,179.4467544,59.3402456,14. Headphone jack This 1/8" mini-stereo phone jack carries the same  signal as the (MAIN OUTPUT) L/MONO, R jacks. The headphone volume is controlled by the [VOL- UME] slider.
+18,457.28,20.8731,13.212,13
+18,492.9227,672.5823,1.5453,
+18,492.9227,652.9524,38.02356,t r a t S k c i u Q
+18,492.9227,601.433845,40.920615,n o i t c u d o r t n
+18,492.9227,599.2513,2.18025,I
+18,492.9227,559.6121,20.0736,p u t e S
+18,492.9227,503.6981,29.571075,m a r g o r P
+18,492.9227,446.4055,41.854425,n o i t a n b m o C
+18,492.9227,465.255525,1.97965,i
+18,492.9227,407.2066,17.93772,i t l u M
+18,492.9227,355.2061,19.62072,t c e f f E
+18,492.9227,302.6307,22.456575,l a b o G
+18,492.9227,307.851825,2.0961,l
+18,492.9227,241.8893,41.622885,r o t a i g g e p r A
+18,492.9227,215.60681,1.5453,
+18,492.9227,196.3334,30.42099,t i K m u r D
+18,492.9227,179.918865,1.6303,l
+18,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+19,100.752,469.9831,12.3312,5
+19,235.438,469.9831,12.3312,4
+19,268.2378,469.9831,12.3312,3
+19,325.4791,469.6398,12.3312,2
+19,397.6065,469.9831,12.3312,1
+19,263.669,383.1617004,70.5263146,What is USB? USB stands for Universal Serial Bus, and is an  interface for transferring data between a com- puter, a keyboard and/or peripheral devices. Note: The USB connector of the X50 is only able to  transmit and receive MIDI data.
+19,263.669,335.561584,34.739416,5. Power supply Be sure to see “Turning the power on/off” (☞p.23)  and follow the correct procedure described there.
+19,263.669,301.261638,24.326377,Power switch This switch turns the power on/off.
+19,263.669,266.961638,24.326377,AC adapter connector Connect this to the included AC adapter.
+19,280.6771046,220.7617004,43.050582,Connections must be made with the power  turned off. Please be aware that careless  operation may damage your speaker system  or cause malfunctions.
+19,263.669,132.4622482,78.3258668,Cable hook Use this to secure the cable of the included AC  adapter. After connecting the AC adapter, fasten  the cable around the hook located on the X50’s  rear panel so that the cable will not be pulled out  inadvertently. Leave enough slack on the plug end  so that you can disconnect it if you want to.
+19,280.6771046,107.8624186,21.450474,Be careful not to bend the base of the plug any  more than necessary.
+19,45.402,397.46148,56.33952,1. AUDIO OUTPUT Connect these outputs to the input jacks of your  amp or mixer. In addition to the (MAIN OUTPUT)  L/MONO and R main stereo audio outputs, the X50  provides two individual audio outputs. (☞p.25)
+19,45.402,363.4221105,24.0659045,MAIN OUTPUT L/MONO, R jack INDIVIDUAL OUTPUT 1, 2 jack
+19,45.402,304.06153,45.53947,2. PEDALS You can connect a damper pedal, foot switch, and  foot pedal to these jacks. This gives you a broader  range of functions and effects to control. (☞p.26)
+19,45.402,257.522211,36.565804,ASSIGNABLE PEDAL jack ASSIGNABLE SWITCH jack DAMPER jack
+19,45.402,187.361476,56.340524,3. MIDI MIDI lets you connect X50 to computers or other  MIDI devices, for sending and receiving notes,  controller gestures, sound settings, and so on.  (☞p.34)
+19,45.402,153.3221105,24.0659045,MIDI IN connector MIDI OUT connector
+20,61.893,603.449,7.567,a: Current page
+20,139.9598,603.449,7.567,d: Edit cell
+20,199.2547,603.449,7.567,e: Check box
+20,275.008,648.874,12.111,* Utility menu
+20,59.8931,525.9492,7.567,c: Parameters
+20,107.6429,526.1991,7.567,b: Tab
+20,56.74,437.1177004,70.1392996,a: Current page This indicates the current page within the selected  mode. From the left, this area shows the mode name,  page number: name, tab name, and the parameter  name of the edit cell.
+20,59.035,414.508,7.567,Mode name
+20,102.5351,418.008,7.567,Page number:name
+20,136.5817,408.0078,7.567,Tab name
+20,187.3317,414.508,7.567,Parameter name
+20,56.74,320.58253,45.53947,b: Tab Most pages are divided into two or more tabs. Use the [PAGE+][PAGE–] buttons to select a tab  and view that page.
+20,56.7391198,262.18253,45.53947,c: Parameters The parameters for various settings are displayed  in the display. Use the ClickPoint [√][®][π][†]  to select the desired parameter.
+20,56.74,171.3832482,77.9397518,d: Edit cell When you use the ClickPoint [√][®][π][†], the  selected parameter will be highlighted in the dis- play. This area is called the edit cell, and your  editing will affect the highlighted area. For details  on how to edit the value, see “3. Selecting a  parameter and editing the value” (☞p.20).
+20,56.7382396,66.7836924,91.7394076,e: Check box Use the ClickPoint [√][®][π][†] to select a  check box, and use a VALUE controller such as the  [VALUE] dial, the center of the ClickPoint, or the  [INC][DEC] buttons to add or remove the check  mark. When checked, the parameter will function, when  unchecked, the parameter will not function.
+20,275.008,513.5735384,89.2505196,When you press the [UTILITY] button in a page,  the utility menu will appear. The utility menu con- tains commands that can be used in that page. The  utility menu that appears will differ depending on  the page that is selected. For details on selecting and executing a utility  command, see “4. Selecting and executing a Utility  function” (☞p.21).
+20,275.008,322.5740406,178.1389594,* Dialog boxes When you select a utility menu command etc., a  dialog box will open. Use the ClickPoint [√][®][π][†] to select param- eters. To enter a parameter value, use a VALUE  controller (☞p.12) such as the [VALUE] dial, the  ClickPoint [π][†], or the [INC][DEC] buttons.  When selecting a program or combination number  in a dialog box, you can also use the PROG  BANK/COMBI BANK buttons to make a selection  instead of the VALUE controllers.  To execute the utility command, press the  [MENU/OK] button. If you decide not to execute,  press the [EXIT/CANCEL] button. The [EXIT/ CANCEL] button is equivalent to “Cancel,”  “Done,” or “Exit.”
+20,275.0071198,175.9856266,80.9393734,* Text dialog box Use the ClickPoint [√][®][π][†] to select a text  button such as  , and press the center to open the  text dialog box. In this dialog box you can rename text (e.g., the  name of a program, combination, or multi set).  (☞p.112)
+20,275.0071198,58.54953,45.53957,* Function buttons Use the ClickPoint [√][®][π][†] to select one of  these buttons and press the center to execute the  following functions.
+20,457.28,20.8731,13.212,15
+20,492.9227,672.5823,1.5453,
+20,492.9227,652.9524,38.02356,t r a t S k c i u Q
+20,492.9227,601.433845,40.920615,n o i t c u d o r t n
+20,492.9227,599.2513,2.18025,I
+20,492.9227,559.6121,20.0736,p u t e S
+20,492.9227,503.6981,29.571075,m a r g o r P
+20,492.9227,446.4055,41.854425,n o i t a n b m o C
+20,492.9227,465.255525,1.97965,i
+20,492.9227,407.2066,17.93772,i t l u M
+20,492.9227,355.2061,19.62072,t c e f f E
+20,492.9227,302.6307,22.456575,l a b o G
+20,492.9227,307.851825,2.0961,l
+20,492.9227,241.8893,41.622885,r o t a i g g e p r A
+20,492.9227,215.60681,1.5453,
+20,492.9227,196.3334,30.42099,t i K m u r D
+20,492.9227,179.918865,1.6303,l
+20,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+21,212.445,589.563,7.567,Scroll bar
+21,45.4002396,425.5458708,94.7401292,* Page menu In Combination, Program, Global, or Multi modes,  pressing the [MENU/OK] button will display a  list of the pages in that mode. To select a page, use the ClickPoint [√][®][π][†]  to select the desired page and press the center.  (☞p.19 “Using the page menu to move”) When “Page Menu Style” = Icon
+21,45.4002396,355.0594548,10.65042,When “Page Menu Style” = List
+21,45.4002396,270.6500352,21.450474,Note: You can set “Page Menu Style” in the  GLOBAL 0: System, Preference page.
+21,45.4011198,164.474,93.316,* Other objects To use slider- or knob-shaped objects, use the  ClickPoint [√][®][π][†] to select the desired  item, and use the VALUE controllers to adjust the  value. Other types of objects are shown in the effect rout- ing screen. Slider
+21,157.1937,164.474,8.648,Knob
+22,56.74,504.85926,108.48474,About the X50’ modes The X50 has a wide range of capabilities; it lets  you play programs/combinations, edit them, play  the X50’s sound generator using musical perfor- mance data from an external MIDI sequencer, and  make settings that affect the entire X50, such as  transposition and tuning. The largest unit used to  organize these features is called a mode. The X50  has four modes.
+22,56.74,429.6600328,62.3389672,Program mode Programs are the basic sounds of X50. In Program  mode, you can: • Select and play Programs • Edit Programs
+22,68.0787364,405.0602032,21.450474,Make detailed settings for oscillators, ﬁlters,  amps, EGs, LFOs, effects, arpeggiator, etc.
+22,286.3454512,551.5462972,67.6504116,You can use the Tone Adjust function to make  simple edits for the program of a track. Assign Programs to each of the 16 MIDI Tracks,  each with separate volume, pan, EQ, and  keyboard and velocity zones; make settings for  effects, and two Arpeggiator (☞p.69)
+22,275.008,479.3466346,59.3394654,Global mode Global mode lets you make overall settings for the  entire X50, and edit arpeggiators and drum kits.  For instance, you can: • Make settings that affect the entire X50, such as
+22,286.3458562,468.5465806,10.65042,master tune and global MIDI channel
+22,275.008,454.746805,10.65042,• Create user drum kits, arpeggiators and user
+22,286.3458562,443.946751,10.65042,scales
+22,275.008,416.3471998,24.4501956,• Rename program, and combination categories • Set the function of the assignable pedals and
+22,286.3458562,405.5471458,10.65042,assignable switches
+22,56.74,391.2604276,10.65042,• Create drum programs using drum kits (as cre-
+22,275.008,391.7473702,10.65042,• Transmit MIDI System Exclusive data dumps
+22,68.0787364,380.4603736,10.65042,ated in Global mode)
+22,56.74,366.660598,10.949688,• Play and control one Arpeggiator (☞p.43)
+22,56.74,269.860805,83.939195,Combination mode Combinations are sets of up to 8 Programs that  can be played simultaneously, letting you create  sounds more complex than a single Program. In  Combination mode, you can: • Select and play Combinations • Use X50 as a 8-track multitimbral tone genera-
+22,68.0787364,259.060751,10.65042,tor
+22,56.74,245.2609754,10.65042,• Edit Combinations
+22,68.0787364,174.4612082,67.6504116,You can use the Tone Adjust function to make  simple edits for the program of a timbre. Assign Programs to each of the 8 Timbres, each  with separate volume, pan, EQ, and keyboard  and velocity zones; make settings for effects,  and Arpeggiator. (☞p.60)
+22,56.74,160.6614326,10.65042,• Control and play up to two Arpeggiator
+22,56.74,50.0611492,97.7389508,Multi mode You can use the X50 as a 16-track multi-timbral  sound generator. The X50 will receive GM or other performance  data from an external MIDI sequencer, and play  back this data. • Select and playback Multi sets • Edit Multi sets
+22,457.28,20.8731,13.212,17
+22,492.9227,672.5823,1.5453,
+22,492.9227,652.9524,38.02356,t r a t S k c i u Q
+22,492.9227,601.433845,40.920615,n o i t c u d o r t n
+22,492.9227,599.2513,2.18025,I
+22,492.9227,559.6121,20.0736,p u t e S
+22,492.9227,503.6981,29.571075,m a r g o r P
+22,492.9227,446.4055,41.854425,n o i t a n b m o C
+22,492.9227,465.255525,1.97965,i
+22,492.9227,407.2066,17.93772,i t l u M
+22,492.9227,355.2061,19.62072,t c e f f E
+22,492.9227,302.6307,22.456575,l a b o G
+22,492.9227,307.851825,2.0961,l
+22,492.9227,241.8893,41.622885,r o t a i g g e p r A
+22,492.9227,215.60681,1.5453,
+22,492.9227,196.3334,30.42099,t i K m u r D
+22,492.9227,179.918865,1.6303,l
+22,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+23,293.1226821,620.1143044,5.4193422,Drum Kit
+23,285.2149,610.4304044,5.4193422,Multi Sample - L
+23,274.3406,596.2465044,5.4320422,PITCH1 FILTER1 AMP1
+23,257.82038412,581.65552922,5.4193422,OSC 2
+23,285.305,578.0139044,5.4193422,Multi Sample - H
+23,285.2754,565.1119044,5.4193422,Multi Sample - L
+23,274.4011,550.9276044,5.4325422,PITCH2 FILTER2 AMP2
+23,255.4166,517.21934364,8.5660002,COMBINATION MODE
+23,257.1277,506.0216044,5.4193422,TIMBRE 1
+23,286.0414,505.8917044,5.4193422,PROGRAM
+23,257.06662624,495.55257722,5.4193422,TIMBRE 2
+23,286.0414,495.3889044,5.4193422,PROGRAM
+23,256.94170264,485.04909464,5.4193422,TIMBRE 3
+23,286.0105,484.5337044,5.4193422,PROGRAM
+23,256.87970352,474.42058818,5.4193422,TIMBRE 4
+23,286.0414,473.8664044,5.4193422,PROGRAM
+23,256.99676156,463.9171056,5.4193422,TIMBRE 5
+23,286.0414,463.5116044,5.4193422,PROGRAM
+23,256.74645168,453.22657942,5.4193422,TIMBRE 6
+23,285.9158,452.7506044,5.4193422,PROGRAM
+23,256.87970352,442.53605324,5.4193422,TIMBRE 7
+23,286.0352,442.1423044,5.4193422,PROGRAM
+23,256.05335704,431.81008722,5.4193422,TIMBRE 8
+23,286.0414,431.2680044,5.4193422,PROGRAM
+23,255.4166,401.24068026,8.5660002,MULTI MODE
+23,255.3415,390.0435044,5.4193422,TRACK 1
+23,276.05370095,389.91456992,5.4193422,PROGRAM
+23,295.6301,390.2575044,5.4193422,TRACK 9
+23,318.09362465,390.1281934,5.4193422,PROGRAM
+23,255.28054363,379.57447722,5.4193422,TRACK 2
+23,276.05370095,379.41059512,5.4193422,PROGRAM
+23,295.56948892,379.78896944,5.4193422,TRACK 10
+23,318.09362465,379.62471082,5.4193422,PROGRAM
+23,255.15579571,369.07099464,5.4193422,TRACK 3
+23,276.0381962,368.55566746,5.4193422,PROGRAM
+23,295.44456532,369.28597908,5.4193422,TRACK 11
+23,318.07708625,368.76978316,5.4193422,PROGRAM
+23,255.09389428,358.44248818,5.4193422,TRACK 4
+23,276.05370095,357.88827562,5.4193422,PROGRAM
+23,295.38164084,358.65796484,5.4193422,TRACK 12
+23,318.09362465,358.1018991,5.4193422,PROGRAM
+23,255.21108172,347.93949782,5.4193422,TRACK 5
+23,276.05370095,347.53344348,5.4193422,PROGRAM
+23,295.49869888,348.15448226,5.4193422,TRACK 13
+23,318.09362465,347.7480514,5.4193422,PROGRAM
+23,254.96064082,337.24897164,5.4193422,TRACK 6
+23,275.9906483,336.77252984,5.4193422,PROGRAM
+23,295.24885168,337.46395608,5.4193422,TRACK 14
+23,318.03091655,336.98713776,5.4193422,PROGRAM
+23,255.09389428,326.55746102,5.4193422,TRACK 7
+23,276.0506,326.1642044,5.4193422,PROGRAM
+23,295.38117816,326.77244546,5.4193422,TRACK 15
+23,318.0905237,326.37881232,5.4193422,PROGRAM
+23,254.90440975,315.83198722,5.4193422,TRACK 8
+23,276.05370095,315.28909572,5.4193422,PROGRAM
+23,295.44317728,316.04697166,5.4193422,TRACK 16
+23,318.09362465,315.50370364,5.4193422,PROGRAM
+23,349.9118,617.5340044,13.4843422,Insert / Master Effect MFX 1
+23,352.861,617.3840044,5.4193422,IFX
+23,381.4615,609.0818044,5.4193422,MFX 2
+23,383.0854,592.2076044,5.4193422,MEQ
+23,358.5381,567.7921044,5.4193422,Arpeggiator
+23,349.988,500.4573044,13.4843422,Insert /Master Effect MFX 1
+23,352.4393,500.3069044,5.4193422,IFX
+23,381.0398,492.0047044,5.4193422,MFX 2
+23,382.6637,475.1309044,5.4193422,MEQ
+23,355.2123,450.7154044,5.4193422,Arpeggiator - A
+23,355.2731,435.7422044,5.4193422,Arpeggiatpr - B
+23,350.2299,384.4793044,13.4839422,Insert /Master Effect MFX 1
+23,352.6819,384.3288044,5.4193422,IFX
+23,381.2824,376.0270044,5.4193422,MFX 2
+23,382.9063,359.1520044,5.4193422,MEQ
+23,355.455,334.7366044,5.4193422,Arpeggiator - A
+23,355.515,319.7634044,5.4193422,Arpeggiatpr - B
+23,45.402,692.259,11.01,Introduction
+23,88.77094016,513.69491304,8.5660002,GLOBAL MODE
+23,101.1667,493.8526729,18.7628737,DRUM KIT Key Assign
+23,118.7679,495.4893044,5.4193422,Drum Sample / Sample - H
+23,119.9527,482.5559044,5.4193422,Drum Sample / Sample - L
+23,103.4057138,455.92761412,5.4193422,ARPEGGIATOR PATTERN
+23,121.0821,443.7750044,5.4193422,User Pattern: Preset-0 - 4
+24,275.008,578.1457544,59.7262606,Using the page menu to move In Combination, Program, Global, and Multi  modes, you can press the [MENU/OK] button to  view a list of the pages that make up that mode. 1. Press the [MENU/OK] button.
+24,286.3458562,531.9458168,43.050582,The page menu will appear. The page in which you were when you pressed  the [MENU/OK] button will be highlighted as  an indication.
+24,275.008,458.7078956,11.557026,2. Use the ClickPoint [√][®][π][†] to select the
+24,286.344976,447.9078416,10.65042,page you want to view.
+24,275.0071198,434.108066,10.65042,3. When you’ve made your selection, press the
+24,286.344976,374.1083528,59.8500792,center of the ClickPoint. You will jump to the selected page, and that  page will appear. As an example here, try selecting “Key Zone.”  The 5: Ed–Key Zone page will appear.
+24,275.0071198,233.0695058,78.4504656,Note: The page that appears will be the page of the  tab you selected most recently. Note: If you set the Global mode setting “Page  Menu Style” to List, you can move by selecting  pages and tabs as shown in the following  illustration. (The display shown in step 2 is for  when “Page Menu Style” = Icon.)
+24,56.74,600.35953,54.48457,Basic operations After you’ve powered-on the X50, here’s how to  perform basic operations such as selecting modes  and pages.
+24,56.74,554.307638,28.175362,1. Selecting modes • In order to use a particular function on the X50,
+24,68.0787364,463.708652,90.449352,you must ﬁrst select the appropriate mode. Press one of the front panel mode buttons to  enter the corresponding mode. [COMBI] button: Combination mode [PROG] button: Program mode [GLOBAL] button: Global mode [MULTI] button: Multi mode
+24,56.74,262.9327544,63.5752456,2. Selecting pages Each mode has a large number of parameters,  which are grouped into pages. These are further  subdivided by tabs into up to eight tab pages. • Make sure that the desired mode is selected.
+24,68.0787364,199.9333196,59.8500792,For details on selecting a mode, see “1.  Selecting modes,” above. In this explanation we’ll use Combination  mode as an example. Press the [COMBI] button.
+24,56.74,40.2949664,97.0499718,Note: The COMBI 0: Play page will appear. (This is  shown in the upper left of the display.) In Combination, Program, or Multi modes (i.e., in  other than Global mode), you will normally  perform in this 0: Play page. You can also make  simple adjustments (edits) to the sound while  you’re in this page. To make more detailed  adjustments, use page 1 (COMBI 1: Ed–Tone  Adjust, etc.) and following.
+24,275.008,126.459638,36.826377,Using the [MENU/OK] button +  [PAGE+][PAGE–] buttons to move • Hold down the [MENU/OK] button and press
+24,286.3458562,115.659584,10.65042,the [PAGE+] ([PAGE–] button.
+24,275.0062396,58.6595924,53.850636,In Combination mode, you will move between  pages in the order of 0: Play ↔ 1: Ed–Tone Adjust  ↔ 2: Ed–Track Parameter ↔ 3: Ed–MIDI Filter1 ↔  ... etc. The page that appears will be the page of  the tab you selected most recently.
+24,457.28,20.8731,13.212,19
+24,492.9227,672.5823,1.5453,
+24,492.9227,652.9524,38.02356,t r a t S k c i u Q
+24,492.9227,601.433845,40.920615,n o i t c u d o r t n
+24,492.9227,599.2513,2.18025,I
+24,492.9227,559.6121,20.0736,p u t e S
+24,492.9227,503.6981,29.571075,m a r g o r P
+24,492.9227,446.4055,41.854425,n o i t a n b m o C
+24,492.9227,465.255525,1.97965,i
+24,492.9227,407.2066,17.93772,i t l u M
+24,492.9227,355.2061,19.62072,t c e f f E
+24,492.9227,302.6307,22.456575,l a b o G
+24,492.9227,307.851825,2.0961,l
+24,492.9227,241.8893,41.622885,r o t a i g g e p r A
+24,492.9227,215.60681,1.5453,
+24,492.9227,196.3334,30.42099,t i K m u r D
+24,492.9227,179.918865,1.6303,l
+24,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+25,56.7398562,567.0456464,56.8503576,numeric buttons [0]–[9] to specify the page  number you want to view. The speciﬁed page number will appear. The  page that appears will be the page of the tab  you selected most recently.
+25,45.402,532.745638,24.326477,[EXIT/CANCEL] button • You can press the [EXIT/CANCEL] button to
+25,56.7398562,521.945584,10.65042,return to page 0 from any page.
+25,45.402,496.975,12.111,Selecting tabs
+25,45.402,437.0468084,48.9252066,[PAGE+][PAGE–] buttons You can press these buttons to move forward or  backward in steps of one tab. 1. Press the [PAGE+] button to access the page for
+25,56.7398562,390.8468708,46.0503036,the next (right) tab. (Press [PAGE–] button to  access the page for the previous (left) tab.) This example shows the Combination page  through Prog page of COMBI 0: Play.
+25,45.402,252.8077454,75.450744,2. As you repeatedly press the [PAGE+] button or  [PAGE–] button, you will move consecutively  through the tabs. As you page up past the last  tab of a page, you will then move to the ﬁrst tab  of the next page. Likewise, as you page down  past the ﬁrst tab of a page, you will then move  to the last tab of the preceding page.
+25,45.402,192.755638,42.176362,3. Selecting a parameter and editing  the value 1. Use the ClickPoint [√][®][π][†] to select the
+25,56.7380958,146.5565806,46.0494234,parameter you want to edit. The value will be highlighted, and the  parameter name is displayed in the upper right  of the display. (We call this the “edit cell.”)
+25,45.4002396,132.756805,10.65042,2. To modify the value of the edit cell, use one of
+25,56.7380958,43.3566514,89.2505196,the VALUE controllers ([VALUE] dial,  [INC][DEC] button, numeric buttons [0]–[9], [–]  button, [./HOLD] button, [ENTER] button) or  the ClickPoint. For some parameters, you can use the PROG  BANK buttons to specify the bank of a program  etc. or to specify the parameter value. In some  cases you can also use the musical keyboard to
+25,45.402,20.8731,13.212,20
+25,275.0056908,628.445836,32.250528,enter a note number or velocity value by  holding down the [ENTER] button and  pressing a note.
+25,263.6669544,593.0459524,32.250528,Note: You can use the [COMPARE] button to  compare the sound you’re editing with the  original unedited sound.
+25,263.669,568.0751,12.111,VALUE controllers
+25,263.669,511.14553,45.926585,[VALUE] dial Use this dial to edit the selected parameter’s  value. This control is convenient when you want  to scroll through a very long list of selections.
+25,263.669,455.24653,45.925485,[INC], [DEC] buttons These are used to increase or decrease the parame- ter value by individual steps. They’re convenient  for making ﬁne parameter adjustments.
+26,56.74,275.447328,32.250528,In Multi mode when the cursor is located at the  track program (highlighted), these buttons switch  the program bank.
+26,56.74,73.147265,192.32575,[COMPARE] button Use this when you wish to compare the edits you  have made to a program or combination’s sound  with the un-edited original (i.e., the sound that is  written into memory). When editing a program or combination, press  this switch. The LED will light, and the last-writ- ten settings for that program number or combina- tion number will be recalled. When you press the  [COMPARE] button once again, the LED will go  dark and you will return to the settings that you  were editing. If you edit the settings that are recalled by press- ing the [COMPARE] button (i.e., the settings that  are written into memory), the LED will go dark,  and it will not be possible to return to the previous  edits by pressing the [COMPARE] button again.
+26,73.7481046,48.5474354,21.450474,The Compare function is not available in  Global mode.
+26,397.198,692.259,11.01,Basic operations
+26,275.008,629.7576,27.2124,4. Selecting and executing a Utility  function
+26,275.008,452.0529332,127.6501248,The utility functions provide commands that are  speciﬁc to each page, such Write (save) or Copy.  The available utility functions will depend on the  page you select. For example, the utility functions in Program  mode let you write (save) the settings, or let you  perform convenient editing operations such as  copying settings between oscillators or effects, or a  Sync function that lets you edit two EGs together. 1. Press the [UTILITY] button. The utility menu will appear.
+26,275.008,438.2531576,11.557026,2. Use the ClickPoint [π][†] to select a
+26,286.3458562,427.4531036,10.65042,command.
+26,275.008,413.653328,10.65042,3. Press the ClickPoint center.
+26,286.3458562,282.8547278,127.6492446,A dialog box for the selected utility will appear. (Alternatively, you can access the dialog box by  pressing the [UTILITY] button once again or  pressing the [MENU/OK] button.) For check-type commands, the status of the  command will simply change without any  dialog box appearing. Note: By holding down the [ENTER] button  and pressing a numeric button [0]–[9] you can  access the dialog box for the ﬁrst ten utility  functions without going through the menu.
+26,275.008,269.0549522,11.557026,4. Use the ClickPoint [√][®][π][†] to select a
+26,286.344976,258.2548982,10.65042,parameter in the dialog box.
+26,275.0071198,244.4551226,10.65042,5. To set the parameter value, use a VALUE
+26,286.344976,158.0546906,86.550066,controller (☞p.12) such as the [VALUE] dial,  the ClickPoint (press the center and then use  [π][†]), or [INC][DEC] button. When  selecting a program or combination number in  a dialog box, you can also use the PROG  BANK/COMBI BANK buttons to enter the  bank as an alternative to using the VALUE  controllers.
+26,275.0071198,144.254915,10.65042,6. To execute the utility command, press the
+26,286.344976,73.4551478,70.6501332,[MENU/OK] button. If you decide not to execute, press the [EXIT/ CANCEL] button. The [EXIT/CANCEL]  button is the same as “Cancel,” “Done,” or  “Exit.” The dialog box will close.
+26,275.0071198,59.6553722,10.65042,• If the utility menu is displayed, press the
+26,286.344976,48.8561984,10.65042,[EXIT/CANCEL] button to close the menu.
+26,457.28,20.8731,13.212,21
+26,492.9227,672.5823,1.5453,
+26,492.9227,652.9524,38.02356,t r a t S k c i u Q
+26,492.9227,601.433845,40.920615,n o i t c u d o r t n
+26,492.9227,599.2513,2.18025,I
+26,492.9227,559.6121,20.0736,p u t e S
+26,492.9227,503.6981,29.571075,m a r g o r P
+26,492.9227,446.4055,41.854425,n o i t a n b m o C
+26,492.9227,465.255525,1.97965,i
+26,492.9227,407.2066,17.93772,i t l u M
+26,492.9227,355.2061,19.62072,t c e f f E
+26,492.9227,302.6307,22.456575,l a b o G
+26,492.9227,307.851825,2.0961,l
+26,492.9227,241.8893,41.622885,r o t a i g g e p r A
+26,492.9227,215.60681,1.5453,
+26,492.9227,196.3334,30.42099,t i K m u r D
+26,492.9227,179.918865,1.6303,l
+26,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+28,56.74,554.3091,16.515,Connecting the AC adapter
+28,73.748,516.33953,32.250528,You must use only the included AC adapter.  Using any other AC adapter may cause  malfunctions.
+28,56.7398954,477.9399248,35.2502496,Note: Make sure that the X50’s power switch is set  to STANDBY (the outward position). 1. Connect the plug of the included AC adapter to
+28,56.7398954,425.740544,52.0497468,the power connector on the X50’s rear panel. 2. Connect the power cable to the AC adapter. 3. Plug the power cable into an AC outlet. 4. To prevent the plug from being pulled out
+28,68.0786318,382.540328,43.050582,accidentally, wrap the AC adapter cable  through the cable hook located on the rear of  the X50. Be careful not to bend the base of the  plug unnecessarily.
+28,65.638,366.135,8.808,Connecting the AC adapter
+28,67.2781,341.9975,7.707,4 Cable hook
+28,207.2774,339.4985,7.567,Power switch
+28,183.2772,313.4984,7.707,1 Power connector
+28,185.2778,258.4973,47.5685,Be careful not to  bend this portion  excessively when you  wrap the cable  through the cable  hook.
+28,71.777,297.999,7.567,AC adapter
+28,134.2779,274.4972,7.707,2
+28,71.777,256.9986,15.5673,Plug into an AC  outlet
+28,81.7772,230.4987,7.707,3 Power cable
+28,275.008,537.939638,32.884462,Turning the power on 1. Lower the X50’s [VOLUME] slider.
+28,286.3458562,502.5397544,32.250528,If you have connected powered monitor  speakers or a stereo amp, turn down the  volume of these devices.
+28,275.008,488.7399788,10.65042,2. Press the rear panel Power switch to turn on
+28,286.3458562,417.9402116,70.6501332,the power. The display will show the model name,  software version. (The following graphic shows the factory-set  display. The version number is subject to  change without notice.)
+28,275.008,330.9025148,24.4493154,3. Turn on your powered monitors or stereo amp. 4. Raise the X50’s [VOLUME] slider to an
+28,286.3458562,309.3024068,21.450474,appropriate position, and adjust the volume of  your powered monitor speakers or stereo amp.
+28,275.008,263.1024692,43.050582,Note: The state of X50 when the power is turned  on will depend on the setting of “Power On  Mode” (GLOBAL 0: System, Preference page).  (☞p.88)
+28,457.28,20.8731,13.212,23
+28,492.9227,672.5823,1.5453,
+28,492.9227,652.9524,38.02356,t r a t S k c i u Q
+28,492.9227,601.433845,40.920615,n o i t c u d o r t n
+28,492.9227,599.2513,2.18025,I
+28,492.9227,559.6121,20.0736,p u t e S
+28,492.9227,503.6981,29.571075,m a r g o r P
+28,492.9227,446.4055,41.854425,n o i t a n b m o C
+28,492.9227,465.255525,1.97965,i
+28,492.9227,407.2066,17.93772,i t l u M
+28,492.9227,355.2061,19.62072,t c e f f E
+28,492.9227,302.6307,22.456575,l a b o G
+28,492.9227,307.851825,2.0961,l
+28,492.9227,241.8893,41.622885,r o t a i g g e p r A
+28,492.9227,215.60681,1.5453,
+28,492.9227,196.3334,30.42099,t i K m u r D
+28,492.9227,179.918865,1.6303,l
+28,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+29,62.409,535.559206,97.050852,After you’ve ﬁnished editing, be sure to write  (save) your changes. If you edit a program and then select a  different program or turn off the power, the  changes you made will be lost. The same is  true for a combination or multi set. The settings you edit in Global mode are  remembered as long as the power is on, but  will be lost when you turn off the power.
+29,45.4017756,521.7594304,10.65042,1. Lower the X50’s [VOLUME] slider.
+29,56.7396318,497.1596008,21.450474,Also turn the volume of your powered monitor  speakers or stereo amp down to zero.
+29,45.4017756,483.3598252,10.65042,2. Turn off the power of your powered monitor or
+29,56.7396318,472.5597712,10.65042,stereo amp.
+29,45.4017756,458.7599956,10.65042,3. Press the rear panel Power switch to turn off
+29,56.7396318,447.9599416,10.65042,the power.
+29,62.409,315.3604522,129.4501338,Never turn off the power while data is being  written into internal memory. If the power is turned off while processing is  being performed, memory write operations  will not be completed correctly. If this occurs,  X50 will automatically initialize its internal  memory so that it will operate correctly. This  is not a malfunction. While data is being written, the display will  indicate “Now writing into internal memory.”  Data is written into internal memory by the  following operations.
+29,45.4017756,279.9605686,32.250528,• Writing (updating) a Program, Combination,  Multi, Global Setting, Drum Kit, or Arpeggio  Patterns
+29,45.4026558,244.560685,32.250528,• Loading a Preload data for Program, Combina- tion, Multi, Global Setting, Drum Kit, or Arpeg- gio Patterns
+29,45.4026558,230.7609094,10.65042,• Receiving a MIDI data dump for Program,
+30,292.0156996,450.5461742,43.050582,If you playback X50 through your stereo  audio system, be aware that high volumes  may damage your speakers. Be careful not to  raise the volume excessively.
+30,275.008,321.3467628,116.3392372,Connecting INDIVIDUAL OUTPUT 1 and 2 If desired, you can connect these two individual  (independent) outputs. They are unbalanced  phone output jacks. These jacks allow you to send the X50’s sounds to  external equipment independent of the (MAIN  OUTPUT) L/MONO and R jacks. This can be con- venient when recording, or when using a complex  live performance setup. 1. Connect the (INDIVIDUAL OUTPUT) 1 and 2
+30,286.3458562,310.5467088,10.65042,jacks to the input jacks of your mixer etc.
+30,275.008,285.9468792,21.450474,Note: The [VOLUME] slider does not affect the  volume of jacks 1 and 2.
+30,56.74,641.525,21.4695,Connections
+30,73.748,586.145476,43.050582,Connections must be made with the power  turned off. Please be aware that careless  operation may damage your speaker system  or cause malfunctions.
+30,56.74,518.459584,43.684416,Basic connections Connect the audio cables as shown in the connec- tion diagram below.
+30,56.74,450.80753,49.77547,Connecting audio output devices Here, you can connect a set of ampliﬁed monitor  speakers or your audio system to output X50’s  sound.
+30,56.74,287.0076548,150.9393452,Connecting the MAIN OUTPUT L/MONO  and R These are the main outputs. They are unbalanced  phone jacks. These are the main stereo outputs; their volume is  controlled by the [VOLUME] slider. All of the fac- tory Programs and Combis are programmed to  play through these outputs. If you’re editing a program or combination, or  playing back from an external MIDI sequencer in  Multi mode, you can set “BUS Select” to “L/R” so  that the sound will be sent from these jacks. 1. Connect the (MAIN OUTPUT) L/MONO and
+30,68.0787364,265.408427,21.4495938,R jacks to the INPUT jacks of your powered  monitor system, mixer etc.
+30,82.464,227.8911,8.808,Audio output device connections
+30,151.8352,212.1735,8.648,Powered monitors
+30,207.98785303,188.5319,8.3237,INPUT
+30,263.3791,188.5319,8.3237,INPUT
+30,201.01955326,161.4895,8.3237,L/MONO
+30,249.0238,161.4895,8.3237,R
+30,381.8984,174.2263,8.648,Power switch
+30,67.2696,124.0423,8.648,Headphones
+30,131.0602,58.9069,8.3237,PHONES
+30,457.28,20.8731,13.212,25
+30,492.9227,672.5823,1.5453,
+30,492.9227,652.9524,38.02356,t r a t S k c i u Q
+30,492.9227,601.433845,40.920615,n o i t c u d o r t n
+30,492.9227,599.2513,2.18025,I
+30,492.9227,559.6121,20.0736,p u t e S
+30,492.9227,503.6981,29.571075,m a r g o r P
+30,492.9227,446.4055,41.854425,n o i t a n b m o C
+30,492.9227,465.255525,1.97965,i
+30,492.9227,407.2066,17.93772,i t l u M
+30,492.9227,355.2061,19.62072,t c e f f E
+30,492.9227,302.6307,22.456575,l a b o G
+30,492.9227,307.851825,2.0961,l
+30,492.9227,241.8893,41.622885,r o t a i g g e p r A
+30,492.9227,215.60681,1.5453,
+30,492.9227,196.3334,30.42099,t i K m u r D
+30,492.9227,179.918865,1.6303,l
+30,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+31,92.955,619.551,8.648,Headphones
+31,166.7046,617.051,8.648,Powered monitors
+31,81.7038,592.551,8.648,Mixer
+31,126.2165,596.6105,7.567,PHONES
+31,130.176,569.7634132,0.562156,
+31,173.3007,569.8062,7.567,INPUT
+31,205.3397,569.8062,7.567,INPUT
+31,263.669,583.35953,71.48457,Connecting a damper pedal,  foot switch, or foot pedal By connecting an optional damper pedal, foot  switch, or foot pedal, you can control even more  functions and effects.
+31,59.7117,500.7813,7.567,L/MONO
+31,102.5419,507.474,7.567,1
+31,98.5722,500.9661,7.567,R
+31,119.5267,500.5041,7.567,2
+31,306.6008,512.9582,7.567,PEDAL
+31,353.1921,512.4584,7.567,SWITCH
+31,389.7839,512.4584,7.567,DAMPER
+31,45.402,412.036638,26.325377,Headphones 1. When using headphones, plug them into the
+31,56.7398562,355.0366464,56.8503576,headphones jack located on the front panel. Use the [VOLUME] slider to adjust the volume  of the headphones. The X50’s headphone jack  carries the same signal as the (MAIN OUTPUT)  L/MONO and R output jacks.
+31,45.402,319.6367628,32.250528,Note: If you want to monitor the (INDIVIDUAL  OUTPUT) 1 and 2 jacks in addition to the main  outputs, an external mixer may be required.
+31,45.402,20.8731,13.212,26
+31,263.669,381.6656464,85.1753536,Connecting a damper pedal This pedal can provide a damper effect as you  play. This instrument also supports half-damping.  Here’s how to connect an optional Korg DS-1H  damper pedal to the DAMPER jack and use it to  control the half-damper effect. 1. Connect an separately sold DS-1H damper
+31,275.0077364,324.6656548,56.8503576,pedal to the DAMPER jack. You’ll be able to control the half-damper effect  if you’ve connected the DS-1H. If you’ve  connected a different switch-type pedal, it will  function as a damper switch.
+31,263.669,310.8658792,10.65042,2. After you turn on the power, set the switch
+31,275.0077364,278.4657172,32.250528,polarity and adjust the half-damper response to  ensure that the half-damper pedal works  correctly. (☞PG p.77, 80)
+32,56.74,500.9947594,10.65042,2. After turning the power on, use GLOBAL 0:
+32,68.0787364,468.5945974,32.250528,System, Foot page “Foot Pedal Assign” to  assign the function controlled by the foot pedal.  (☞p.88)
+32,366.509,692.259,11.01,Connecting a computer
+32,275.008,537.3600952,117.4840048,Connecting a computer You can connect the X50 to your computer and use  it as both an input keyboard and a MIDI sound  module. You can also use the included editor to edit the  X50 from your computer. You can connect the X50 to your computer in  either of the following ways. • Use a USB cable
+32,286.3458562,480.3601036,53.850636,Note: Use the KORG USB-MIDI Driver if you’re  connecting the X50 via USB to a computer that  meets the requirements described in “KORG  USB-MIDI Driver operating requirements,”  below.
+32,275.008,455.760274,21.450474,• Use a commercially available MIDI interface,  and connect the X50 via its MIDI connectors.
+32,275.008,396.6712,41.2128,Operating requirements for the  KORG USB-MIDI Driver and the edi- tor software
+32,275.008,281.9084276,100.7395724,Contents of the CD-ROM X50 Editor/Plug-In Editor  (for Windows XP / Mac OS X) KORG USB-MIDI Driver  (for Windows XP / Mac OS X) Parameter Guide (PDF) Editor/Plug-In Editor Manual (PDF) Software License Agreement (PDF)
+32,275.008,247.608638,24.325377,Please note before use • Copyright to all software included in this prod-
+32,286.3458562,236.808584,10.65042,uct is the property of Korg Inc.
+32,275.008,223.0088084,10.65042,• The license agreement for this software is pro-
+32,286.3458562,179.8085924,43.050582,vided separately. You must read this license  agreement before you install this software.  Your installation of this software will be taken  to indicate your acceptance of this agreement.
+32,275.008,141.8372,25.1108,KORG USB-MIDI Driver operating  requirements
+32,275.008,106.508638,24.326377,Windows: • Computer
+32,286.3458562,81.9088084,21.450474,A computer with a USB port, that satisﬁes the  requirements of Microsoft Windows XP
+32,457.28,20.8731,13.212,27
+32,492.9227,672.5823,1.5453,
+32,492.9227,652.9524,38.02356,t r a t S k c i u Q
+32,492.9227,601.433845,40.920615,n o i t c u d o r t n
+32,492.9227,599.2513,2.18025,I
+32,492.9227,559.6121,20.0736,p u t e S
+32,492.9227,503.6981,29.571075,m a r g o r P
+32,492.9227,446.4055,41.854425,n o i t a n b m o C
+32,492.9227,465.255525,1.97965,i
+32,492.9227,407.2066,17.93772,i t l u M
+32,492.9227,355.2061,19.62072,t c e f f E
+32,492.9227,302.6307,22.456575,l a b o G
+32,492.9227,307.851825,2.0961,l
+32,492.9227,241.8893,41.622885,r o t a i g g e p r A
+32,492.9227,215.60681,1.5453,
+32,492.9227,196.3334,30.42099,t i K m u r D
+32,492.9227,179.918865,1.6303,l
+32,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+33,56.7398562,614.6457544,32.250528,Microsoft Windows XP Home Edition,  Professional or x64 Edition (The driver for x64  Edition is a Beta version.)
+33,263.669,615.7572,41.2128,Windows XP:  Installing the KORG USB-MIDI Driver  and the editor software
+33,45.402,580.345638,24.326377,Macintosh: • Computer
+33,56.7398562,555.7458084,21.450474,An Apple Macintosh with a USB port that  satisﬁes the requirements of Mac OS X
+33,45.402,541.9460328,10.65042,• Operating system
+33,56.7398562,528.1462572,10.65042,Mac OS X version 10.3 or later
+33,62.4092244,481.9471998,43.050582,Please be aware that in the case of some  computers, the system may not function  correctly even if your computer meets the  above requirements.
+33,45.402,443.9752,25.1108,X50 Editor/Plug-In Editor operating  requirements
+33,62.409,339.7464844,100.0505736,You must install the KORG USB-MIDI Driver  if you want to connect the X50 to your  computer via USB and use the X50 Editor/ Plug-In Editor.  It is not possible to run multiple instances of  X50 Editor/Plug-In Editor on the operating  system. This means that it is not possible to  use these editors to edit two or more X50 units  simultaneously.
+33,45.402,305.446638,24.326377,Windows: • Computer
+33,56.7398562,234.6468708,67.6504116,CPU: Pentium III/1 GHz or better Memory: 256 MB or more Monitor: 1,024 × 768 pixels, 16-bit color or  better A computer with a USB port, that satisﬁes the  requirements of Microsoft Windows XP
+33,45.402,220.8470952,10.65042,• Operating system
+33,56.7398562,196.2481458,21.4495938,Microsoft Windows XP Home Edition or  Professional, Service Pack 1 or later
+33,45.402,161.947638,24.325377,Macintosh: • Computer
+33,56.7398562,91.1478708,67.6504116,CPU: Apple G4/400 MHz or better Memory: 256 MB or more Monitor: 1,024 × 768 pixels, 32,000 colors or  better An Apple Macintosh with a USB port that  satisﬁes the requirements of Mac OS X
+33,45.402,77.3480952,10.65042,• Operating system
+33,56.7398562,63.5483196,10.65042,Mac OS X version 10.3.9 or later
+33,45.402,20.8731,13.212,28
+33,263.669,496.194697,105.539303,microX/X50 application installation The X50 application installer automatically installs  the KORG USB-MIDI Driver Tools and X50 Edi- tor/Plug-In Editor that are provided on the  included CD-ROM. Note: You must install the KORG USB-MIDI  Driver Tools before you connect the X50 to your  computer via USB. 1. Insert the included CD-ROM into your CD-
+33,275.0077364,425.3949298,70.6501332,ROM drive. Normally the “microX/X50 Application  Installer” will start up automatically. If your computer is set so the installer does not  run automatically, double-click  “KorgSetup.exe” on the CD-ROM.
+33,263.669,411.5951542,10.65042,2. From the list, select [KORG X50 MUSIC
+33,275.0077364,400.7951002,10.65042,SYNTHSIER], and click [Next >].
+33,263.669,279.4243222,10.65042,3. From the list, select the applications that you
+33,275.0077364,268.6242682,10.65042,want to install, and click [Install].
+33,275.0077364,138.2120758,21.450474,The applications you selected will be  successively installed.
+33,263.669,124.4123002,10.65042,4. Follow the on-screen instructions to install each
+34,68.0793878,493.6244158,10.65042,• Specify the installation destination. The
+34,76.583,450.4241998,43.050582,screen will show the installation destination  folder. If you want to change this, click  [Change] and select the desired installation  destination.
+34,68.0793878,422.8255288,24.4493154,• Click [Next >] to begin the installation. • When the installation is complete, click [Fin-
+34,76.583,412.0254748,10.65042,ish] to exit the installer.
+34,56.7406514,349.02604,59.8500792,Install the next application in the same way. 5. If you selected X50 Editor/Plug-In Editor in  step 2, choose the application(s) you want to  install. • Successively select and install the Editor
+34,76.583,213.4259488,135.4504572,(Standalone), Plug-In Editor (VST), and/or  Plug-In Editor (RTAS) as desired. For example if you want to install the stand- alone version, click [Install Stand-alone  version]. Then follow the on-screen  directions to perform the installation, and  click [Close] when the installation has been  successfully completed. If you want to install a plug-in version, click  in the Installer screen to select the format of  plug-in that you want to install, and perform  the installation.
+34,275.0073662,548.3702152,10.65042,7. The ﬁrst time you connect the X50 to the USB
+34,286.3452224,480.5701696,67.6504116,port of your computer, the standard USB-MIDI  driver provided by Windows will be installed  automatically. If you want to use the KORG USB-MIDI Driver  for Windows XP, please re-install the driver  manually using the procedure described below.
+34,275.008,326.771535,140.939465,Setting up the KORG USB-MIDI Driver 1. Before you perform the procedure below, you  must ﬁnish installing KORG USB-MIDI Driver  Tools into your computer. Then restart the operating system of your  computer, and power-on the X50. (☞p.23) Note: The driver must be installed for each USB  port. If you connect the X50 to a different USB  port than the one you used when installing  KORG USB-MIDI Driver for Windows, you  will need to use the same procedure to install  the driver again.
+34,275.0071198,312.9717594,10.65042,2. Using a USB cable, connect the USB connector
+34,286.344976,242.1719922,70.6501332,of the X50 to the USB connector of your  computer. Make sure that the plug is oriented correctly,  and push it all the way into the connector. Windows will detect that the X50 has been  connected.
+34,286.344976,162.6388806,21.450474,Then the standard driver will be installed  automatically.
+34,68.0793878,63.339526,32.250528,• When you’ve ﬁnished installing the applica- tion(s) you want, click [Exit installer] to exit  the installer.
+34,56.7397712,49.5397504,10.65042,6. When all the selected applications have been
+34,68.0785076,38.7396964,10.65042,installed, click [Finish] to exit the installer.
+34,275.0071198,20.8731,86.975091,3. In the task bar, choose [Start] → [All Programs]  → [KORG] → [KORG USB-MIDI Driver Tools]  → [Install KORG USB-MIDI Device] to start up  the setup utility.  The KORG USB-MIDI devices currently  connected to your computer will be shown in  29
+34,492.9227,672.5823,1.5453,
+34,492.9227,652.9524,38.02356,t r a t S k c i u Q
+34,492.9227,601.433845,40.920615,n o i t c u d o r t n
+34,492.9227,599.2513,2.18025,I
+34,492.9227,559.6121,20.0736,p u t e S
+34,492.9227,503.6981,29.571075,m a r g o r P
+34,492.9227,446.4055,41.854425,n o i t a n b m o C
+34,492.9227,465.255525,1.97965,i
+34,492.9227,407.2066,17.93772,i t l u M
+34,492.9227,355.2061,19.62072,t c e f f E
+34,492.9227,302.6307,22.456575,l a b o G
+34,492.9227,307.851825,2.0961,l
+34,492.9227,241.8893,41.622885,r o t a i g g e p r A
+34,492.9227,215.60681,1.5453,
+34,492.9227,196.3334,30.42099,t i K m u r D
+34,492.9227,179.918865,1.6303,l
+34,492.9227,139.2286,40.690265,o r t n o c   l a n r e t x E
+35,45.4021438,475.9781662,10.65042,4. If a warning dialog box regarding digital
+35,56.74,443.5780042,32.250528,signature authentication appears during the  installation, click [Continue] to continue the  installation.
+35,263.669,615.7572,41.2128,Mac OS X: Installing the KORG USB-MIDI driver  and editor software
+35,263.6681198,528.5937004,73.1402996,Installing the KORG USB-MIDI Driver Note: Use the KORG USB-MIDI Driver if you are  connecting the X50 via USB to a computer that  satisﬁes the conditions listed in “KORG USB-MIDI  Driver operating requirements” (☞p.27). 1. Insert the included CD-ROM into your CD-
+35,275.0068562,517.7936464,10.65042,ROM drive.
+35,263.6681198,482.394643,32.2496478,2. In the CD-ROM, navigate to the “KORG USB- MIDI Driver” folder, and double-click “KORG  USB-MIDI Driver.pkg” to start up the installer.
+35,263.6681198,468.5948674,10.65042,3. Depending on the version of your operating
+35,275.0068562,425.3946514,43.050582,system, a conﬁrmation dialog box may appear  at this point. If so, enter your password and  click [OK]. When the installer starts up, the  following screen will appear. Click [Continue].
+35,263.6681198,281.9123692,10.65042,4. “Import information” will appear. Read the
+35,275.0068562,271.1131954,10.65042,contents, and click [Continue].
+35,263.6681198,257.3134198,10.65042,5. The “License agreement” will appear. Carefully
+35,275.0068562,211.1134822,46.0503036,read the contents, and click [Continue].  A dialog box will ask whether you accept the  terms of the license agreement. If you accept,  click [Agree].
+35,263.6681198,197.3137066,10.65042,6. A screen where you can choose the
+35,275.0068562,164.9135446,32.250528,“Installation destination” will appear. Choose  the installation destination and click  [Continue].
+35,45.4021438,318.8061334,10.65042,5. Driver installation has been completed. Click
+35,56.74,286.4059714,32.250528,[Finish] to exit the installer. If you are asked  whether you want to restart Windows now,  choose [Yes] to restart.
+35,45.4021438,218.6059258,64.65069,Note: For details on installation and setup, and on  uninstallation, see the “Installation manual”  (HTML) on your computer. To view the  “Installation manual,” click from your taskbar’s  [Start] → [All Programs] → [KORG] → [KORG  USB-MIDI Driver Tools] → [Installation manual].
+35,45.402,100.2065384,105.5394616,About the X50 and driver ports KEYBOARD port Applications on your computer use this port to  receive MIDI messages from the X50 (data from  the keyboard and controllers). SOUND port Applications on your computer use this port to  send MIDI messages to the X50’s internal sound  generator, making it produce sound.

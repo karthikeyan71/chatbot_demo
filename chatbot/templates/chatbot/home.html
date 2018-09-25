@@ -1,0 +1,105 @@
+
+{% load staticfiles %}
+{% load mathfilters %}
+
+<html>
+
+    <head>
+        <title> client Page </title>
+
+        <link rel="stylesheet" href=" {% static 'css/index.css' %} ">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+        <script src="{% static 'js/index.js' %}" ></script>
+
+    </head>
+
+    <body>
+
+        <div class="header">  
+          <!-- <br> <br> -->
+          <div id="logo">
+            <a>
+              <img src="static/img/logo.png" alt="logo"  />
+              <div class="caption">Plato eLearning</div>
+            </a>
+          </div>
+          <!-- <img src="static/img/logo.png" alt="logo" /> -->
+          <h1><I> Welcome to Search-Bot  </I></h1>
+        </div>
+
+<!--         <div class="home_middle">
+          <center>
+          <br><br>
+          <br><br>
+          <br><br>
+          <center> <a href="{% url 'user' %}">User Search Page</a></center>
+          <br><br>
+          <br><br>
+          <br><br>
+          <center> <a href="{% url 'admin' %}">Admin Sign In</a></center>
+          </center>
+        </div> -->
+
+        <div class="logout">
+          {% if user.is_authenticated %}
+            <br>
+            <a href="{% url 'logout' %}">logout</a>
+          {% endif %}
+        </div>
+
+
+        <div class="home_middle">
+          {% if user.is_authenticated %}
+            <div class="option_box">
+              <br><br>
+              <br><br>
+
+              <center>{% if user.is_authenticated %}
+
+                {% if user.is_superuser %}
+                  <center><h1 style="color:#550000;">Choose operation</h1></center>
+                  <br><br>
+                  <br><br>
+                  <br><br>
+                  <center> <a href="{% url 'admin' %}">Test System</a></center>
+                  <br><br>
+                  <br><br>
+                  <br><br>
+                  <center> <a href="{% url 'signup' %}">Add client</a></center>
+                {% else %}
+                  <br><br>
+                  <br><br>
+                  <br><br>
+                  <center><h1 style="color:#550000;">Let's find solutions</h1> </center>
+                  <br><br>
+                  <br><br>
+
+                  <center> <a href="{% url 'user' %}">User Search Page</a>
+                {% endif %}
+              </center>
+
+              {% endif %}
+            </div>
+
+          {% else %}
+            <div class="login">
+                <br><br>
+                <br><br>
+                <br><br>
+                <center><h1 style="color:#550000;">Go to login Page </h1> 
+                <br>
+                <a href="{% url 'login' %}">LOGIN</a>    
+                </center>
+            </div>
+          {% endif %}  
+        <br><br>
+        <br><br>
+        <br><br>
+
+        </div>
+      
+
+
+      </body>
+  </html>

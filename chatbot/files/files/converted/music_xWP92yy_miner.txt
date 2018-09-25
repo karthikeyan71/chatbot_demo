@@ -1,0 +1,981 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Precautions
+Location Using the unit in the following locations can result in a mal- function.
+• In direct sunlight • Locations of extreme temperature or humidity • Excessively dusty or dirty locations • Locations of excessive vibration • Close to magnetic ﬁelds
+Power supply  Please connect the designated AC adapter to an AC outlet  of the correct voltage. Do not connect it to an AC outlet of  voltage other than that for which your unit is intended.
+Interference with other electrical devices Radios and televisions placed nearby may experience  reception interference. Operate this unit at a suitable dis- tance from radios and televisions.
+Handling To avoid breakage, do not apply excessive force to the  switches or controls.
+Care If the exterior becomes dirty, wipe it with a clean, dry cloth.  Do not use liquid cleaners such as benzene or thinner, or  cleaning compounds or flammable polishes.
+Keep this manual After reading this manual, please keep it for later refer- ence.
+Keeping foreign matter out of your equipment Never set any container with liquid in it near this equip- ment. If liquid gets into the equipment, it could cause a  breakdown, fire, or electrical shock. Be careful not to let metal objects get into the equipment. If  something does slip into the equipment, unplug the AC  adapter from the wall outlet. Then contact your nearest  Korg dealer or the store where the equipment was pur- chased.
+THE FCC REGULATION WARNING (for U.S.A.) This equipment has been tested and found to comply with  the limits for a Class B digital device, pursuant to Part 15 of  the FCC Rules. These limits are designed to provide rea- sonable protection against harmful interference in a resi- dential installation. This equipment generates, uses, and  can radiate radio frequency energy and, if not installed and  used in accordance with the instructions, may cause harm- ful interference to radio communications. However, there is  no guarantee that interference will not occur in a particular  installation. If this equipment does cause harmful interfer- ence to radio or television reception, which can be deter- mined by turning the equipment off and on, the user is  encouraged to try to correct the interference by one or more  of the following measures: • Reorient or relocate the receiving antenna. • Increase the separation between the equipment and
+receiver.
+• Connect the equipment into an outlet on a circuit differ-
+ent from that to which the receiver is connected.
+• Consult the dealer or an experienced radio/TV technician
+for help.
+Unauthorized changes or modiﬁcation to this system can  void the user’s authority to operate this equipment.
+CE mark for European Harmonized Standards CE mark which is attached to our company’s products of  AC mains operated apparatus until December 31, 1996  means it conforms to EMC Directive (89/336/EEC) and CE  mark Directive (93/68/EEC). And, CE mark which is attached after January 1, 1997  means it conforms to EMC Directive (89/336/EEC), CE  mark Directive (93/68/EEC) and Low Voltage Directive (73/ 23/EEC). Also, CE mark which is attached to our company’s products  of Battery operated apparatus means it conforms to EMC  Directive (89/336/EEC) and CE mark Directive (93/68/ EEC).
+• Apple, Mac and Audio Units are trademarks of Apple  Computer, Inc., registered in the US. and other coun- tries.
+• Windows XP is a registered trademark of Microsoft Cor-
+poration in the U.S. and other counties.
+• VST is a trademark of Steinberg Media Technologies
+GmbH.
+• RTAS is a registered trademark of Avid Technology, Inc.,
+or its subsidiaries or divisions.
+• All other product and company names are trademarks or
+
+
+
+
+
+Thank you for purchasing the Korg X50 Music Synthesizer. To help you get the most out of your new  instrument, please read this manual carefully.
+About this manual
+The owner’s manuals and how to use  them The X50 come with the following owner’s manu- als. • Operation Guide • Parameter Guide (included in the CD-ROM)
+Operation Guide Please read this ﬁrst. It explains the names and  functions of each part of the X50, how to make  connections, basic operation, an overview of each  mode, and how to edit sounds. This guide also  explains the arpeggiator function, effects, and  drum kits. The Operation Guide also contains troubleshoot- ing information, and supplemental information  such as specifications.
+Parameter Guide The Parameter Guide contains explanations and  other information regarding the operations of the  parameters and settings on the X50. The explanations are organized by mode, and  page. Explanations and other information on the  effects and their parameters are also provided for  teach effect. Refer to this guide when an unfamiliar parame- ter appears in the display, or when you need to  know more about a particular function.
+Conventions in this manual
+Abbreviations for the manuals   OG, PG In the documentation, references to the manuals  are abbreviated as follows. OG: PG:
+Operation Guide  Parameter Guide
+Procedure steps 1. 2. 3. … This indicates the steps of a procedure.
+,
+,
+Symbols  These symbols respectively indicate a caution, a  MIDI-related explanation, a supplementary note.
+Note
+Example screen displays The values of the parameters shown in the exam- ple screens of this manual are only for explana- tory purposes, and may not necessary match the  values that appear in the LCD display of your  instrument.
+is an abbreviation for Control Change Num-
+MIDI-related explanations CC# ber. In explanations of MIDI messages,  square brackets [  ] numbers.
+numbers in
+
+
+
+
+
+
+Table of Contents
+Precautions............................................................... ii
+About this manual ....................................... iii
+Quick Start.........................................1 Setup ......................................................................1 Playing programs and combinations ................2 Listening to the demo songs...............................8
+Introduction ......................................9
+Main features ................................................ 9
+Front and rear panel ................................... 11 Front panel ..........................................................11 Rear panel............................................................14 Objects in the Display and their functions .....15
+Basic Information........................................ 17 About the X50’ modes .......................................17 Basic operations..................................................19
+Setup................................................23
+Turning the power on/off........................... 23 Connecting the AC adapter ..............................23 Turning the power on........................................23 Turning the power off .......................................24
+Connections................................................. 25 Basic connections................................................25 Connecting a damper pedal, foot switch,  or foot pedal........................................................26 Connecting a computer .....................................27 Connecting MIDI devices .................................34
+Playing and Editing Programs .......37
+Playing programs........................................ 37 Selecting programs ............................................37 Using Controllers ...............................................40
+iv
+Simple program editing ............................. 43 Performance Edit................................................43 REALTIME CONTROLS [1], [2], [3], [4],  [SELECT] .............................................................43 Saving your edits................................................45
+Detailed Editing with Programs ................ 46 Before you begin editing ...................................46 Basic oscillator settings......................................47 Using LFOs and Envelopes (EGs)....................50 Using Alternate Modulation ............................51 Controlling Pitch ................................................51 Using Filters ........................................................52 Using the Amp section ......................................55 Effects...................................................................56
+Playing and Editing Combinations.57
+Playing combinations................................. 57 Selecting combinations......................................57 Using Controllers ...............................................59
+Simple combination editing ...................... 60
+
+
+
+
+Using and Editing Multi sets.......... 69
+Synchronizing the arpeggiator.......................105
+MIDI considerations ................................... 69 Selecting a multi set ...........................................69 Assigning a program to a track, and setting  the volume and pan ...........................................70 Copying the settings of a combination to a  multi set ...............................................................72 What you can do in Multi mode......................73 Using Controllers ...............................................74 Altering Programs to fit within a Multi set....74 Layers, Splits, and Velocity Switches..............75 Effects...................................................................75 Saving your edits................................................75 Control via MIDI................................................76
+Effects settings ............................... 79 Effects in each mode ..........................................79 Effect types..........................................................79 Effect settings for a program ............................81 Effect settings in combination, and Multi.......84 Dynamic modulation and BPM/MIDI Sync. ..85 Saving edited effect settings .............................86 Bypassing the insert effect or the master  effects ...................................................................86
+Global Mode ................................... 87 How Global mode is structured.......................87 System setup   0: System ...................................87 MIDI-related settings   1: MIDI ........................89 Creating user scales   2: User Scale ..................89 Setting category names    3: Category Name ..............................................90 Saving the global settings .................................90 Drum kit   4: DKit, Arpeggiator   5: Arp.Pattern settings ..............90
+Arpeggiator settings...................... 91
+Arpeggiator features in  Program mode....................................................91 The arpeggiator in Combination and Multi  modes...................................................................95 Creating a user arpeggio pattern .....................99 Saving a user arpeggio ....................................104
+Using Drum Kits............................ 107 What is a Drum Kit? ........................................107 Before you start editing…...............................107 Editing Drum Kits............................................108 Saving a drum kit.............................................110
+Other functions ............................ 111
+Restoring the factory settings (Loading the  preloaded data) ................................................111 Assigning a name (Rename)...........................112 Setting the functions of [SW1] and [SW2] .....113 Assigning functions to REALTIME  CONTROLS B-mode knobs [1]–[4]................113 Adjusting the display contrast .......................114 Tap tempo control............................................114 Shortcuts............................................................114
+Appendices ................................... 115
+Saving data ............................................... 115 Types of data that can be saved .....................115 About the Edit Buffer ......................................116
+Troubleshooting....................................... 117
+Specifications and options ...................... 120 Specifications ....................................................120 Operating requirements for connection to a  computer ...........................................................121 Options ..............................................................121
+MIDI Implementation Chart..................... 122
+
+
+Quick Start
+This Quick Start is provided for those who just want to get started trying out the sounds right  away. It explains how to set up the X50, how to select programs and control the sound, and how to lis- ten to the demo songs. After you’ve ﬁnished reading this Quick Start section, please also take a look at the full explana- tions that follow.
+Setup
+Make all your connections with the power off (on all units!). If you don’t, you may damage  your speaker system or damage your X50 and/or other equipment. Please use caution.
+1.
+2.
+Connect the included AC adapter. Use only the AC adapter included with  the X50. Do not use any other AC  adapter. Connect the X50 to your audio  monitoring system. Using standard audio cables with 1/4"  phone plugs, connect the X50’ (MAIN  OUTPUT) L/MONO and R output jacks  to the input jacks of your mixer,  ampliﬁed monitor speakers, or audio  recording device. If you’re listening through headphones,  connect them to the headphone jack  located on the left front of the X50. The headphones produce the same signal  as the (MAIN OUTPUT) L/MONO and R jacks.
+4 Cable hook
+AC adapter
+Plug into an AC  outlet
+3 Power cable
+Connecting the AC adapter
+Power switch
+1 Power connector
+Be careful not to  bend this portion  excessively when you  wrap the cable  through the cable  hook.
+2
+Audio output device connections
+Powered monitors
+Adjust the  [VOLUME] slider
+INPUT
+INPUT
+L/MONO
+R
+Power switch
+Headphones
+PHONES
+1
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+
+
+
+
+
+
+
+
+3.
+4. 5.
+Lower the X50’s [VOLUME] slider. Turn on your audio monitor system and set the volume to a normal level. Turn on the X50 by pressing the power switch located on the rear panel. Slowly raise the X50’s [VOLUME] slider to an appropriate volume.
+Playing programs and combinations By default, Combination mode will be selected when you turn on the power. Play the keyboard, and you will hear the sound of bank A combination number 000. A combination consists of up to eight programs that are split, zoned, layered or velocity- switched across the keyboard. A combination can also use up to two Arpeggiators simulta- neously (a program can use only one Arpeggiator), letting you produce far more complex  sounds than a single program. Although you could simply continue selecting and playing different combinations, let’s start by  selecting and listening to the “basic” sounds of the X50 – programs. If you don’t hear any sound when you play the keyboard: Check the connections once  Note:  again. Also make sure that the X50’s VOLUME and the volume of your powered speakers or  stereo amp are turned up appropriately.
+Selecting programs by bank and number
+1
+3 5
+2
+4
+1.
+Press the [PROG] button. (The button will light.) This is the Program mode. Notice that the upper line of the display indicates “PROG 0: Play”  (mode name, page number and name).
+Mode name
+Page number and name
+Parameter name
+Category number  and name
+Tab name
+Tempo
+Bank  number Program  Select  (program  number  and name)
+Tab
+Control assign list
+Make sure that “Program Select” (program number and name) is selected. If this is not selected, use the ClickPoint [ Turn the [VALUE] dial to select the program you want to play. You can also press the center of the ClickPoint to highlight the ﬁeld, then use [ a program, and press the center to ﬁnalize your selection. Press one of the PROG BANK [A]–[GM] button to switch banks.
+π
+†
+π
+†
+][
+] to select
+][
+] to highlight the “Program Select” indication.
+2.
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+Playing programs and combinations
+→
+5.
+→
+→
+G
+g(d)
+g(d) ... etc.
+When you select a different Bank, that button’s LED will light, and the selected bank will  appear in the left side of the display. For example, to select bank B, press the PROG BANK [B] button. The [B] button will light,  and the name Bank B will appear in the left of the display. The [GM] button operates  differently from the other bank buttons. Each time you press this button, the bank will switch  in the order of G  The programs are organized into banks of 128 (except for g(d)). Select the desired bank, and  then select a program number within that bank. Play the keyboard to hear the program you selected. While playing the keyboard, use the [MOD] wheel, [PITCH] wheel, [SW1][SW2], and  realtime controllers to modify the sound. The result will differ depending on the program, so  play the keyboard while operating these controllers to hear what they do. For more about the controllers, see “Using controllers to modify the sound” ( You can also press the [AUDITION] button (it will light) and a riff (phrase) suitable for that  program will play automatically.
+p.5).
+☞
+electing programs by category S You can also select programs by their category, such as keyboard, organ, bass, or drums.
+31
+2
+4
+1.
+Press the [CATEGORY] button. The category menu will appear.
+Category No.
+Sel (Select)
+Category
+Program
+2.
+3.
+4.
+You can use the [PAGE+][PAGE–] buttons to step through the categories one by one. For example if you choose 00: Keyboard, you’ll be able to select only from programs that are  in the Keyboard category. The Keyboard category contains programs such as acoustic piano,  and electric piano etc. By using the [VALUE] dial or the ClickPoint [ the programs in the same category. Press the [MENU/OK] button to conﬁrm your selection. If you decide not to select a  program, press the [EXIT/CANCEL] button.
+] to select programs, you can step through
+π
+†
+][
+You can also switch categories by using the ClickPoint [
+Note:  the top line of the category menu and then turning the [VALUE] dial.
+][
+√
+®
+] to select “Category No.” in
+3
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+
+
+
+
+
+Quick Start
+Selecting combinations by bank and number
+1
+3
+2
+4
+1.
+Press a [COMBI] button. (The button will light.) You will enter Combination mode. Notice that the upper line of the display indicates  “COMBI 0: Play” (mode name, page number and name).
+Mode name
+Page number and name Category number  and name
+Tab name
+Parameter name
+Tempo
+Bank  number Combi Select  (combination  number and  name)
+Tab
+Control assign list
+2.
+3. 4.
+5.
+†
+][
+π
+] to highlight the “Combi Select” indication.
+Make sure that “Combi Select” (combination number and name) is selected. If this is not selected, use the ClickPoint [ Turn the [VALUE] dial to select the combination you want to play. Press a COMBI BANK [A]–[C] button to switch banks. When you select a different Bank, the button’s LED will light, and the selected bank will  appear on the left side of the display. For example, to select bank B, press the COMBI BANK [B] button. The [B] button will light,  and the name Bank B will appear in the left of the display. Combinations are organized into banks of 128. Select the desired bank, and then select a  combination number within that bank. Play the keyboard to hear the combination you selected. While playing the keyboard, use the [MOD] wheel, [PITCH] wheel, [SW1][SW2], and  realtime controllers to modify the sound. The result will differ depending on the  combination, so play the keyboard while operating these controllers to hear what they do. Note:
+You can’t use the [AUDITION] button to play a riff (phrase) in Combination mode.
+Selecting combinations by category In Combination mode you can select combinations by category just as in Program mode. For the  procedure, see “Selecting programs by category” (
+p.3).
+
+
+
+Playing programs and combinations
+Using controllers to modify the sound You can operate the X50’s [MOD] wheel, [PITCH] wheel, [SW1][SW2], and realtime controllers  to add expressive variation to your performances.
+[PITCH] wheel, [MOD] wheel You can use the [PITCH] wheel and [MOD] wheel located at the upper left of the keyboard to  vary the pitch or adjust the depth of modulation. The actual result will depend on the program  and combination, but these controllers are normally used to apply the following effects.
+Raise the pitch
+Lower the pitch
+Deepen the  vibrato
+REALTIME CONTROLS [1], [2], [3], [4], [SELECT] Use the [SELECT] button to select realtime controller mode A/B/C, and use knobs [1]–[4] to  control the tone, effects, MIDI control changes, and arpeggiator etc. while you perform. Use  these knobs when you want to modify the sound while performing, or to make simple edits.
+[SELECT] button
+Knobs [1]–[4]
+Here we’ll explain how to use the realtime controllers in Program mode. 1. 2.
+Press the [PROG] button. (The button will light.) Choose “Program Select” (program number and name), and turn the [VALUE] dial to select  the program that you want to control using the realtime controllers. Press the REALTIME CONTROLS [SELECT] button to light the “A” LED located at the right  of the button.
+3.
+4. Turn knob [1] (LPF CUTOFF) to adjust the cutoff frequency of the low pass ﬁlter.
+When you adjust the cutoff frequency of the ﬁlter, the brightness of the sound will change.  The effect will depend on the settings of the program parameters, but normally, rotating the  knob toward the left will darken the sound, and rotating it toward the right will brighten it. 5. Turn knob [2] (RESONANCE/HPF) to adjust the resonance level of a low pass ﬁlter or the
+cutoff frequency of a high pass ﬁlter. The content that is controlled will depend on the ﬁlter type speciﬁed by the program. By adjusting the ﬁlter resonance level, you can increase or decrease the resonance level to add  a unique character to the sound. Adjusting the cutoff frequency of the high-pass ﬁlter will modify the thickness of the sound  from which the low frequency range has been ﬁltered out.
+5
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+is applied). Rotating the knob will affect the depth of the ﬁlter EG. Normally, rotating the knob toward  the left will make the ﬁlter EG apply less deeply, and rotating it toward the right will make  the ﬁlter EG apply more deeply. Since the ﬁlter EG will operate based on the cutoff frequency  of the ﬁlter, knobs [1] and [3] will work together to control the tonal changes produced by the  ﬁlter.
+7. Turn knob [4] (EG-RELEASE) to adjust EG release times of the ﬁlter and amp. This will
+determine the time from note-off until the sound disappears. When you adjust the knob, the release times of the ﬁlter EG and the amp EG will change.  Normally, rotating the knob toward the left will shorten the release time, and rotating it  toward the right will lengthen the release time.
+8. Press the REALTIME CONTROLS [SELECT] button to light the “B” LED located at the right
+Using the realtime controllers to control the arpeggiator 1. Press the [PROG] button. (The button will light.) 2. Choose “Program Select” (program number and name), and turn the [VALUE] dial. You will  notice that the [ARP ON/OFF] button is lit for some programs. Select one of these programs,  and play the keyboard; the arpeggiator will start playing. Even for other programs, you can press the [ARP ON/OFF] button (the button will light) to  turn on the arpeggiator. Play the keyboard to make the arpeggio start.
+3. Press the REALTIME CONTROLS [SELECT] button to light the “C” LED located at the right
+of the button.
+4. Turn the [4] (TEMPO) knob to change the tempo. 5. Turn the [1] (ARP-GATE) knob to change the duration of the arpeggiated notes.
+Note: When knobs [1]–[3] are at their center position (12 o’clock), the parameters they control  will have the values speciﬁed within the program.
+6. Turn the [2] (ARP-VELOCITY) knob to change the level of the arpeggiated notes. 7. Turn the [3] (ARP-LENGTH) knob to change the length of the arpeggio pattern.
+Changing the length of the arpeggio pattern will change the character of the pattern. This  doesn’t work for the preset patterns (UP, DOWN, ALT1, ALT2, and RANDOM).
+Changing the arpeggio pattern The X50 contains preset arpeggio patterns Preset-0 through Preset-4, and user arpeggio patterns  U000–250. 1. Press the [PAGE+] button to access the PROG 0: Play, Arp. Play page.
+2. Use the ClickPoint [√][®][π][†] to choose “Pattern,” and use the [VALUE] dial or the
+[INC][DEC] buttons to select an arpeggio pattern. To select a user arpeggio pattern, you can  also use numeric buttons [0]–[9] to enter a pattern number and then press the [ENTER]  button.
+3. Play the keyboard and try out various arpeggio patterns.
+7
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+1 2, 3
+4.2
+5
+4.1
+1. Hold down the [CATEGORY] button and press the [AUDITION] button.
+The Demo Song Player page will appear.
+2. Press the [AUDITION] button to begin playback. 3. Press the [AUDITION] button once again to stop playback. 4. To select a song for playback, use the ClickPoint [π][†] to select the song name (“Demo
+Song Select”) and use the [VALUE] dial to change songs.
+5. To exit the Demo Song Player page, press the [EXIT/CANCEL] button.
+You can also exit by pressing one of the [COMBI], [PROG], [GLOBAL], or [MULTI] mode  buttons.
+Changing the play mode • You can play back the demo songs in succession or only one song at a time; use the Click- Point [√][®][π][†] to select “Play Mode” and use the [VALUE] dial etc. to change the set- ting. Continue to next song: When the currently selected demo song ﬁnishes playing, the next  demo song will play automatically. Stop at end of selected song: When the currently selected demo song ﬁnishes playing,  playback will stop.
+• If you want all of the demo songs to continue playing repeatedly, use the ClickPoint
+[√][®][π][†] to select the “Repeat All” check box and then press the ClickPoint center to  add a check mark.
+Note: This is available only if “Play Mode” is set to Continue to next song.
+High-quality sound featuring the HI  synthesis system The X50 Music Synthesizer features Korg’s  acclaimed HI (Hyper Integrated) synthesis sys- tem. The HI (Hyper Integrated) synthesis system is a  PCM tone generator system with extensive modu- lation and effect routing capabilities, as well as full  digital signal processing that guarantees a rich,  pristine sound.
+Tone generator section: • 64 MB of preset PCM ROM containing 470 mul-
+tisamples and 518 drumsamples.
+• The sampling frequency is 48 kHz, and the
+maximum polyphony is 62 voices.
+Filter/synthesis section: • 24 dB/oct Low Pass Resonance type or 12 dB/
+oct Low Pass & High Pass type ﬁlters can be  used. A wide variety of ﬁlter effects can be  achieved, from active sounds with aggressive  resonance to subtle tones using a high pass ﬁl- ter.
+• A broad range of editing parameters gives you
+control over every aspect of the sound.
+Effect section: • One insert effect (stereo-in/stereo-out), two  master effects (mono-in/stereo-out), and a  three-band master EQ (stereo-in/stereo-out)  can all be used simultaneously. You can select  from 89 types of effect algorithms, and edit  them.
+• Highly ﬂexible effect routing is possible. Effects  can also be routed freely to the individual out- puts.
+Alternate Modulation and Effect Dynamic  Modulation: • The synthesis section (ﬁlter etc.) provides Alter-
+nate Modulation functionality, and the effect  section provides Effect Dynamic Modulation  functionality. This allows you to freely apply  modulation to parameters that affect the pitch,  ﬁlter, amp, EG, LFO, effects etc.
+• LFO and delay time parameters can be syn-
+chronized to MIDI clock/tempo. You can syn- chronize sounds or effects to the tempo of the  sequencer or the arpeggiator.
+A great selection of 512 programs In the Program mode, the X50 provides 512 user  programs, plus 128 programs + 9 drum sets for  GM compatibility. When shipped from the factory, it is loaded with  high-quality programs that cover a wide range of  musical needs.
+Programs using multisamples that pro- vide a broad range of sounds Based on 470 different multisamples that deliver a  broad range of sounds ranging from acoustic  instruments such as piano, guitar, and trumpet, to  synthesizer sounds or sound effects (oscillator),  the preset programs provide a rich variety of edit- able parameters (ﬁlter and amp), effects, and  arpeggiators.
+Drum programs that support any style  of rhythm part Based on 40 user drum kits and nine GM2-com- patible ROM drum kits, and taking full advantage  of numerous editable parameters, effects, and  arpeggiators, the X50 provides a great selection of  preset programs for any style of music. The drum kits that are the basis of each drum pro- gram allow you to freely map any of the 518 drum  or percussion sounds to each note of the keyboard.  You can also create your own drum kits, and even  specify ﬁlter and amp settings, effect settings, and  individual audio output routings for each separate  key.
+9
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+X50 Plug-In Editor supports editing  from within your DAW software The “X50 Editor” is a stand-alone program that  lets you edit the X50 from your Macintosh or Win- dows computer.  On the other hand, the “X50 Plug-In Editor” lets  you edit the X50 as a plug-in instrument from  within a host application such as DAW (Digital  Audio Workstation) software. It supports VST,  Audio Units, and RTAS formats. Both editors are  included with your X50.
+Introduction
+384 different combinations let you  freely combine programs The X50 provides 384 user combinations. The fac- tory settings contain a wide variety of Preloaded  combinations. A combination allows you to use layers, splits, or  velocity switching etc. to combine up to eight pro- grams together with the effects and the two arpeg- giators, in order to create complex sounds that  could not be produced by a program. You can also  create combis that include external tone genera- tors.
+Effects that can creatively manipu- late the sound or generate subtle  ambience The X50’s effects can be used in many ways, rang- ing from manipulating the sound dramatically to  creating spacious reverberation. (☞p.9 “High- quality sound featuring the HI synthesis system”)
+4 channel audio outputs In addition to the (MAIN OUTPUT) L/MONO  and R main stereo audio outputs, X50 provides  two individual audio outputs, for a total of four  channels of audio output. The sound from each  oscillator, drum, timbre/track, or insert effect can  be routed freely to any output.
+Multi mode plays multiple tracks of  data from an external sequencer In Multi mode, the X50 can operate as a 16-track  MIDI multi-timbral sound module, receiving mul- tiple tracks of performance data from an external  sequencer or similar device. Since you can use the  effects and the two arpeggiators as well, the X50  will also function as a more advanced sound mod- ule. You can create, save and recall numerous Multi  sets in the X50 and it also supports GM (General  MIDI System Level 1), making it easy to use as a  sound module for a desktop music system.
+Front panel
+7
+14
+1
+3
+4
+6
+2
+5
+8
+9
+11
+12
+13
+10
+10
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+s n o i t c n u f   r e h t O
+2. [SW1], [SW2] These switches can perform a number of different  functions, such as modulating sounds or locking  the modulation values of [PITCH] wheel. The actual functions that are being controlled will  depend on various program and effect parame- ters.
+3. [VOLUME] slider This adjusts the volume of the (MAIN OUTPUT)  L/MONO, R jacks, as well as the volume of the  headphone jack.
+4. REALTIME CONTROLS
+[SELECT] button [1]–[4] knob Use the [SELECT] button to choose one of the real- time controller modes - A/B/C - and use knobs  [1]–[4] to control the tone, effects, MIDI control  changes, and arpeggiator etc. while you perform.  (☞p.43, 92)
+5. Arpeggiator The X50’s arpeggiator is a polyphonic arpeggiator.
+[ARP ON/OFF] button This button turns the arpeggiator on/off. When  on, the button will light. (☞p.91) The LED located above knob [4] blinks at quarter- note intervals of the tempo. In REALTIME CONTROLS C-mode, you can use  the [1], [2], [3], and [4] knobs to vary the arpeggio  pattern in realtime.
+6. MODE Use these buttons to enter modes. The X50 has  four modes. (☞p.19) Press a button (the LED will light) to enter the cor- responding mode.
+12
+[COMBI] button [PROG] button [GLOBAL] button [MULTI] button
+7. Display You can select a page, tab, or parameter in the dis- play, and specify its value. (☞p.15)
+8. CATEGORY You can select programs, multisamples, combina- tions, timbre/track programs, effects, or drum  samples by category.
+[CATEGORY] button Press this button to access the category menu, and  choose a program etc. from the list. The category  menu will appear if you have selected an appro- priate mode, page, or parameter. (☞p.38, 45, 82,  109)
+9. AUDITION, Demo Song Player
+[AUDITION] button In Program mode when you press the [AUDI- TION] button (the button will light), a riff (phrase)  appropriate for the preloaded or preset program  will play. (This is called the Audition function.) To  stop auditioning, press the [AUDITION] button  once again.
+Demo song player When you hold down the [CATEGORY] button  and press the [AUDITION] button, the Demo  Song Player page will appear. Select a song and press the [AUDITION] button to  begin playback. Press the [AUDITION] button  once again to stop playback. To exit from this mode, press the [EXIT/CANCEL]  button. (☞p.8)
+ClickPoint The ClickPoint is a multi-function controller. You can move the ClickPoint in the  ([√][®][π][†]) direction to select parameters. In  addition, you can press directly down on the cen- ter of the ClickPoint (in toward the body of the  instrument) to select an item in the display. After selecting a parameter expressed as a numeri- cal value etc., press the center of the ClickPoint;  the value will be highlighted, and now you can  use [π][†] to increase or decrease the value. To  ﬁnalize the value, press the center once again. You can also press the ClickPoint center to access a  dialog box, to set the numerical value of an edit- able condition, or to turn a switch on/off. If you  press the ClickPoint on the utility menu, page  menu, or a text edit button (☞p.15), the selected  command or page will appear. Pressing the Click- Point center on a check box will switch the item  on/off. Pressing the ClickPoint center on a button  such as OK or CANCEL will conﬁrm the corre- sponding choice.
+[MENU/OK] button Press this button to access the page menu. (☞p.19) You can move to a speciﬁc page by pressing the  [MENU/OK] button simultaneously with another  button. (☞p.19) By holding down the [MENU/OK] button and  using the numeric buttons [0]–[9] to enter a page  number, you can move to the selected page. By holding down the [MENU/OK] button and  pressing the [PAGE+] button or [PAGE–] button,  you can move forward or backward in steps of one  page. If a dialog box is open, this button will conﬁrm the  settings in the dialog box and close it. (This is the  same function as the OK button.)
+[EXIT/CANCEL] button When you are in a page other than 0 of each mode,  you can press this button to move to page 0 of that  mode. When a dialog box is open, this button will cancel
+Front panel
+the settings made in the dialog box and close the  dialog box (corresponds to the “Cancel”). If a Util- ity menu or page menu is open, pressing [EXIT/ CANCEL] button will close the menu.
+12. BANK SELECT
+PROG BANK [A], [B], [C], [D], [GM] buttons COMBI BANK [A], [B], [C] buttons These buttons switch program or combination  banks. The button LED will light to indicate the  current bank. (☞p.38, 44) In Program mode, these buttons select program  banks. In Combination mode, these buttons have the fol- lowing two functions. • Select combination banks. • When the cursor is located at a timbre program
+(highlighted), these buttons select program  banks. (☞p.57, 60)
+In Multi mode, when the cursor is located at a  track program (highlighted), these buttons select  program banks. (☞p.71)
+13. UTILITY, COMPARE
+[UTILITY] button Press this button when you want to use the utility  functions. (☞p.21)
+[COMPARE] button Use this button when you wish to compare the  sound of the program, combination or multi set  that you are currently editing with the un-edited  sound that was written into memory. (☞p.21)
+14. Headphone jack This 1/8" mini-stereo phone jack carries the same  signal as the (MAIN OUTPUT) L/MONO, R jacks. The headphone volume is controlled by the [VOL- UME] slider.
+13
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+5
+4
+3
+2
+1
+What is USB? USB stands for Universal Serial Bus, and is an  interface for transferring data between a com- puter, a keyboard and/or peripheral devices. Note: The USB connector of the X50 is only able to  transmit and receive MIDI data.
+5. Power supply Be sure to see “Turning the power on/off” (☞p.23)  and follow the correct procedure described there.
+Power switch This switch turns the power on/off.
+AC adapter connector Connect this to the included AC adapter.
+Connections must be made with the power  turned off. Please be aware that careless  operation may damage your speaker system  or cause malfunctions.
+Cable hook Use this to secure the cable of the included AC  adapter. After connecting the AC adapter, fasten  the cable around the hook located on the X50’s  rear panel so that the cable will not be pulled out  inadvertently. Leave enough slack on the plug end  so that you can disconnect it if you want to.
+Be careful not to bend the base of the plug any  more than necessary.
+1. AUDIO OUTPUT Connect these outputs to the input jacks of your  amp or mixer. In addition to the (MAIN OUTPUT)  L/MONO and R main stereo audio outputs, the X50  provides two individual audio outputs. (☞p.25)
+MAIN OUTPUT L/MONO, R jack INDIVIDUAL OUTPUT 1, 2 jack
+2. PEDALS You can connect a damper pedal, foot switch, and  foot pedal to these jacks. This gives you a broader  range of functions and effects to control. (☞p.26)
+ASSIGNABLE PEDAL jack ASSIGNABLE SWITCH jack DAMPER jack
+3. MIDI MIDI lets you connect X50 to computers or other  MIDI devices, for sending and receiving notes,  controller gestures, sound settings, and so on.  (☞p.34)
+MIDI IN connector MIDI OUT connector
+a: Current page
+d: Edit cell
+e: Check box
+* Utility menu
+c: Parameters
+b: Tab
+a: Current page This indicates the current page within the selected  mode. From the left, this area shows the mode name,  page number: name, tab name, and the parameter  name of the edit cell.
+Mode name
+Page number:name
+Tab name
+Parameter name
+b: Tab Most pages are divided into two or more tabs. Use the [PAGE+][PAGE–] buttons to select a tab  and view that page.
+c: Parameters The parameters for various settings are displayed  in the display. Use the ClickPoint [√][®][π][†]  to select the desired parameter.
+d: Edit cell When you use the ClickPoint [√][®][π][†], the  selected parameter will be highlighted in the dis- play. This area is called the edit cell, and your  editing will affect the highlighted area. For details  on how to edit the value, see “3. Selecting a  parameter and editing the value” (☞p.20).
+e: Check box Use the ClickPoint [√][®][π][†] to select a  check box, and use a VALUE controller such as the  [VALUE] dial, the center of the ClickPoint, or the  [INC][DEC] buttons to add or remove the check  mark. When checked, the parameter will function, when  unchecked, the parameter will not function.
+When you press the [UTILITY] button in a page,  the utility menu will appear. The utility menu con- tains commands that can be used in that page. The  utility menu that appears will differ depending on  the page that is selected. For details on selecting and executing a utility  command, see “4. Selecting and executing a Utility  function” (☞p.21).
+* Dialog boxes When you select a utility menu command etc., a  dialog box will open. Use the ClickPoint [√][®][π][†] to select param- eters. To enter a parameter value, use a VALUE  controller (☞p.12) such as the [VALUE] dial, the  ClickPoint [π][†], or the [INC][DEC] buttons.  When selecting a program or combination number  in a dialog box, you can also use the PROG  BANK/COMBI BANK buttons to make a selection  instead of the VALUE controllers.  To execute the utility command, press the  [MENU/OK] button. If you decide not to execute,  press the [EXIT/CANCEL] button. The [EXIT/ CANCEL] button is equivalent to “Cancel,”  “Done,” or “Exit.”
+* Text dialog box Use the ClickPoint [√][®][π][†] to select a text  button such as  , and press the center to open the  text dialog box. In this dialog box you can rename text (e.g., the  name of a program, combination, or multi set).  (☞p.112)
+* Function buttons Use the ClickPoint [√][®][π][†] to select one of  these buttons and press the center to execute the  following functions.
+15
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+Scroll bar
+* Page menu In Combination, Program, Global, or Multi modes,  pressing the [MENU/OK] button will display a  list of the pages in that mode. To select a page, use the ClickPoint [√][®][π][†]  to select the desired page and press the center.  (☞p.19 “Using the page menu to move”) When “Page Menu Style” = Icon
+When “Page Menu Style” = List
+Note: You can set “Page Menu Style” in the  GLOBAL 0: System, Preference page.
+* Other objects To use slider- or knob-shaped objects, use the  ClickPoint [√][®][π][†] to select the desired  item, and use the VALUE controllers to adjust the  value. Other types of objects are shown in the effect rout- ing screen. Slider
+Knob
+About the X50’ modes The X50 has a wide range of capabilities; it lets  you play programs/combinations, edit them, play  the X50’s sound generator using musical perfor- mance data from an external MIDI sequencer, and  make settings that affect the entire X50, such as  transposition and tuning. The largest unit used to  organize these features is called a mode. The X50  has four modes.
+Program mode Programs are the basic sounds of X50. In Program  mode, you can: • Select and play Programs • Edit Programs
+Make detailed settings for oscillators, ﬁlters,  amps, EGs, LFOs, effects, arpeggiator, etc.
+You can use the Tone Adjust function to make  simple edits for the program of a track. Assign Programs to each of the 16 MIDI Tracks,  each with separate volume, pan, EQ, and  keyboard and velocity zones; make settings for  effects, and two Arpeggiator (☞p.69)
+Global mode Global mode lets you make overall settings for the  entire X50, and edit arpeggiators and drum kits.  For instance, you can: • Make settings that affect the entire X50, such as
+master tune and global MIDI channel
+• Create user drum kits, arpeggiators and user
+scales
+• Rename program, and combination categories • Set the function of the assignable pedals and
+assignable switches
+• Create drum programs using drum kits (as cre-
+• Transmit MIDI System Exclusive data dumps
+ated in Global mode)
+• Play and control one Arpeggiator (☞p.43)
+Combination mode Combinations are sets of up to 8 Programs that  can be played simultaneously, letting you create  sounds more complex than a single Program. In  Combination mode, you can: • Select and play Combinations • Use X50 as a 8-track multitimbral tone genera-
+tor
+• Edit Combinations
+You can use the Tone Adjust function to make  simple edits for the program of a timbre. Assign Programs to each of the 8 Timbres, each  with separate volume, pan, EQ, and keyboard  and velocity zones; make settings for effects,  and Arpeggiator. (☞p.60)
+• Control and play up to two Arpeggiator
+Multi mode You can use the X50 as a 16-track multi-timbral  sound generator. The X50 will receive GM or other performance  data from an external MIDI sequencer, and play  back this data. • Select and playback Multi sets • Edit Multi sets
+17
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+Drum Kit
+Multi Sample - L
+PITCH1 FILTER1 AMP1
+OSC 2
+Multi Sample - H
+Multi Sample - L
+PITCH2 FILTER2 AMP2
+COMBINATION MODE
+TIMBRE 1
+PROGRAM
+TIMBRE 2
+PROGRAM
+TIMBRE 3
+PROGRAM
+TIMBRE 4
+PROGRAM
+TIMBRE 5
+PROGRAM
+TIMBRE 6
+PROGRAM
+TIMBRE 7
+PROGRAM
+TIMBRE 8
+PROGRAM
+MULTI MODE
+TRACK 1
+PROGRAM
+TRACK 9
+PROGRAM
+TRACK 2
+PROGRAM
+TRACK 10
+PROGRAM
+TRACK 3
+PROGRAM
+TRACK 11
+PROGRAM
+TRACK 4
+PROGRAM
+TRACK 12
+PROGRAM
+TRACK 5
+PROGRAM
+TRACK 13
+PROGRAM
+TRACK 6
+PROGRAM
+TRACK 14
+PROGRAM
+TRACK 7
+PROGRAM
+TRACK 15
+PROGRAM
+TRACK 8
+PROGRAM
+TRACK 16
+PROGRAM
+Insert / Master Effect MFX 1
+IFX
+MFX 2
+MEQ
+Arpeggiator
+Insert /Master Effect MFX 1
+IFX
+MFX 2
+MEQ
+Arpeggiator - A
+Arpeggiatpr - B
+Insert /Master Effect MFX 1
+IFX
+MFX 2
+MEQ
+Arpeggiator - A
+Arpeggiatpr - B
+Introduction
+GLOBAL MODE
+DRUM KIT Key Assign
+Drum Sample / Sample - H
+Drum Sample / Sample - L
+ARPEGGIATOR PATTERN
+User Pattern: Preset-0 - 4
+Using the page menu to move In Combination, Program, Global, and Multi  modes, you can press the [MENU/OK] button to  view a list of the pages that make up that mode. 1. Press the [MENU/OK] button.
+The page menu will appear. The page in which you were when you pressed  the [MENU/OK] button will be highlighted as  an indication.
+2. Use the ClickPoint [√][®][π][†] to select the
+page you want to view.
+3. When you’ve made your selection, press the
+center of the ClickPoint. You will jump to the selected page, and that  page will appear. As an example here, try selecting “Key Zone.”  The 5: Ed–Key Zone page will appear.
+Note: The page that appears will be the page of the  tab you selected most recently. Note: If you set the Global mode setting “Page  Menu Style” to List, you can move by selecting  pages and tabs as shown in the following  illustration. (The display shown in step 2 is for  when “Page Menu Style” = Icon.)
+Basic operations After you’ve powered-on the X50, here’s how to  perform basic operations such as selecting modes  and pages.
+1. Selecting modes • In order to use a particular function on the X50,
+you must ﬁrst select the appropriate mode. Press one of the front panel mode buttons to  enter the corresponding mode. [COMBI] button: Combination mode [PROG] button: Program mode [GLOBAL] button: Global mode [MULTI] button: Multi mode
+2. Selecting pages Each mode has a large number of parameters,  which are grouped into pages. These are further  subdivided by tabs into up to eight tab pages. • Make sure that the desired mode is selected.
+For details on selecting a mode, see “1.  Selecting modes,” above. In this explanation we’ll use Combination  mode as an example. Press the [COMBI] button.
+Note: The COMBI 0: Play page will appear. (This is  shown in the upper left of the display.) In Combination, Program, or Multi modes (i.e., in  other than Global mode), you will normally  perform in this 0: Play page. You can also make  simple adjustments (edits) to the sound while  you’re in this page. To make more detailed  adjustments, use page 1 (COMBI 1: Ed–Tone  Adjust, etc.) and following.
+Using the [MENU/OK] button +  [PAGE+][PAGE–] buttons to move • Hold down the [MENU/OK] button and press
+the [PAGE+] ([PAGE–] button.
+In Combination mode, you will move between  pages in the order of 0: Play ↔ 1: Ed–Tone Adjust  ↔ 2: Ed–Track Parameter ↔ 3: Ed–MIDI Filter1 ↔  ... etc. The page that appears will be the page of  the tab you selected most recently.
+19
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+numeric buttons [0]–[9] to specify the page  number you want to view. The speciﬁed page number will appear. The  page that appears will be the page of the tab  you selected most recently.
+[EXIT/CANCEL] button • You can press the [EXIT/CANCEL] button to
+return to page 0 from any page.
+Selecting tabs
+[PAGE+][PAGE–] buttons You can press these buttons to move forward or  backward in steps of one tab. 1. Press the [PAGE+] button to access the page for
+the next (right) tab. (Press [PAGE–] button to  access the page for the previous (left) tab.) This example shows the Combination page  through Prog page of COMBI 0: Play.
+2. As you repeatedly press the [PAGE+] button or  [PAGE–] button, you will move consecutively  through the tabs. As you page up past the last  tab of a page, you will then move to the ﬁrst tab  of the next page. Likewise, as you page down  past the ﬁrst tab of a page, you will then move  to the last tab of the preceding page.
+3. Selecting a parameter and editing  the value 1. Use the ClickPoint [√][®][π][†] to select the
+parameter you want to edit. The value will be highlighted, and the  parameter name is displayed in the upper right  of the display. (We call this the “edit cell.”)
+2. To modify the value of the edit cell, use one of
+the VALUE controllers ([VALUE] dial,  [INC][DEC] button, numeric buttons [0]–[9], [–]  button, [./HOLD] button, [ENTER] button) or  the ClickPoint. For some parameters, you can use the PROG  BANK buttons to specify the bank of a program  etc. or to specify the parameter value. In some  cases you can also use the musical keyboard to
+20
+enter a note number or velocity value by  holding down the [ENTER] button and  pressing a note.
+Note: You can use the [COMPARE] button to  compare the sound you’re editing with the  original unedited sound.
+VALUE controllers
+[VALUE] dial Use this dial to edit the selected parameter’s  value. This control is convenient when you want  to scroll through a very long list of selections.
+[INC], [DEC] buttons These are used to increase or decrease the parame- ter value by individual steps. They’re convenient  for making ﬁne parameter adjustments.
+In Multi mode when the cursor is located at the  track program (highlighted), these buttons switch  the program bank.
+[COMPARE] button Use this when you wish to compare the edits you  have made to a program or combination’s sound  with the un-edited original (i.e., the sound that is  written into memory). When editing a program or combination, press  this switch. The LED will light, and the last-writ- ten settings for that program number or combina- tion number will be recalled. When you press the  [COMPARE] button once again, the LED will go  dark and you will return to the settings that you  were editing. If you edit the settings that are recalled by press- ing the [COMPARE] button (i.e., the settings that  are written into memory), the LED will go dark,  and it will not be possible to return to the previous  edits by pressing the [COMPARE] button again.
+The Compare function is not available in  Global mode.
+Basic operations
+4. Selecting and executing a Utility  function
+The utility functions provide commands that are  speciﬁc to each page, such Write (save) or Copy.  The available utility functions will depend on the  page you select. For example, the utility functions in Program  mode let you write (save) the settings, or let you  perform convenient editing operations such as  copying settings between oscillators or effects, or a  Sync function that lets you edit two EGs together. 1. Press the [UTILITY] button. The utility menu will appear.
+2. Use the ClickPoint [π][†] to select a
+command.
+3. Press the ClickPoint center.
+A dialog box for the selected utility will appear. (Alternatively, you can access the dialog box by  pressing the [UTILITY] button once again or  pressing the [MENU/OK] button.) For check-type commands, the status of the  command will simply change without any  dialog box appearing. Note: By holding down the [ENTER] button  and pressing a numeric button [0]–[9] you can  access the dialog box for the ﬁrst ten utility  functions without going through the menu.
+4. Use the ClickPoint [√][®][π][†] to select a
+parameter in the dialog box.
+5. To set the parameter value, use a VALUE
+controller (☞p.12) such as the [VALUE] dial,  the ClickPoint (press the center and then use  [π][†]), or [INC][DEC] button. When  selecting a program or combination number in  a dialog box, you can also use the PROG  BANK/COMBI BANK buttons to enter the  bank as an alternative to using the VALUE  controllers.
+6. To execute the utility command, press the
+[MENU/OK] button. If you decide not to execute, press the [EXIT/ CANCEL] button. The [EXIT/CANCEL]  button is the same as “Cancel,” “Done,” or  “Exit.” The dialog box will close.
+• If the utility menu is displayed, press the
+[EXIT/CANCEL] button to close the menu.
+21
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+Connecting the AC adapter
+You must use only the included AC adapter.  Using any other AC adapter may cause  malfunctions.
+Note: Make sure that the X50’s power switch is set  to STANDBY (the outward position). 1. Connect the plug of the included AC adapter to
+the power connector on the X50’s rear panel. 2. Connect the power cable to the AC adapter. 3. Plug the power cable into an AC outlet. 4. To prevent the plug from being pulled out
+accidentally, wrap the AC adapter cable  through the cable hook located on the rear of  the X50. Be careful not to bend the base of the  plug unnecessarily.
+Connecting the AC adapter
+4 Cable hook
+Power switch
+1 Power connector
+Be careful not to  bend this portion  excessively when you  wrap the cable  through the cable  hook.
+AC adapter
+2
+Plug into an AC  outlet
+3 Power cable
+Turning the power on 1. Lower the X50’s [VOLUME] slider.
+If you have connected powered monitor  speakers or a stereo amp, turn down the  volume of these devices.
+2. Press the rear panel Power switch to turn on
+the power. The display will show the model name,  software version. (The following graphic shows the factory-set  display. The version number is subject to  change without notice.)
+3. Turn on your powered monitors or stereo amp. 4. Raise the X50’s [VOLUME] slider to an
+appropriate position, and adjust the volume of  your powered monitor speakers or stereo amp.
+Note: The state of X50 when the power is turned  on will depend on the setting of “Power On  Mode” (GLOBAL 0: System, Preference page).  (☞p.88)
+23
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+After you’ve ﬁnished editing, be sure to write  (save) your changes. If you edit a program and then select a  different program or turn off the power, the  changes you made will be lost. The same is  true for a combination or multi set. The settings you edit in Global mode are  remembered as long as the power is on, but  will be lost when you turn off the power.
+1. Lower the X50’s [VOLUME] slider.
+Also turn the volume of your powered monitor  speakers or stereo amp down to zero.
+2. Turn off the power of your powered monitor or
+stereo amp.
+3. Press the rear panel Power switch to turn off
+the power.
+Never turn off the power while data is being  written into internal memory. If the power is turned off while processing is  being performed, memory write operations  will not be completed correctly. If this occurs,  X50 will automatically initialize its internal  memory so that it will operate correctly. This  is not a malfunction. While data is being written, the display will  indicate “Now writing into internal memory.”  Data is written into internal memory by the  following operations.
+• Writing (updating) a Program, Combination,  Multi, Global Setting, Drum Kit, or Arpeggio  Patterns
+• Loading a Preload data for Program, Combina- tion, Multi, Global Setting, Drum Kit, or Arpeg- gio Patterns
+• Receiving a MIDI data dump for Program,
+If you playback X50 through your stereo  audio system, be aware that high volumes  may damage your speakers. Be careful not to  raise the volume excessively.
+Connecting INDIVIDUAL OUTPUT 1 and 2 If desired, you can connect these two individual  (independent) outputs. They are unbalanced  phone output jacks. These jacks allow you to send the X50’s sounds to  external equipment independent of the (MAIN  OUTPUT) L/MONO and R jacks. This can be con- venient when recording, or when using a complex  live performance setup. 1. Connect the (INDIVIDUAL OUTPUT) 1 and 2
+jacks to the input jacks of your mixer etc.
+Note: The [VOLUME] slider does not affect the  volume of jacks 1 and 2.
+Connections
+Connections must be made with the power  turned off. Please be aware that careless  operation may damage your speaker system  or cause malfunctions.
+Basic connections Connect the audio cables as shown in the connec- tion diagram below.
+Connecting audio output devices Here, you can connect a set of ampliﬁed monitor  speakers or your audio system to output X50’s  sound.
+Connecting the MAIN OUTPUT L/MONO  and R These are the main outputs. They are unbalanced  phone jacks. These are the main stereo outputs; their volume is  controlled by the [VOLUME] slider. All of the fac- tory Programs and Combis are programmed to  play through these outputs. If you’re editing a program or combination, or  playing back from an external MIDI sequencer in  Multi mode, you can set “BUS Select” to “L/R” so  that the sound will be sent from these jacks. 1. Connect the (MAIN OUTPUT) L/MONO and
+R jacks to the INPUT jacks of your powered  monitor system, mixer etc.
+Audio output device connections
+Powered monitors
+INPUT
+INPUT
+L/MONO
+R
+Power switch
+Headphones
+PHONES
+25
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+Headphones
+Powered monitors
+Mixer
+PHONES
+
+INPUT
+INPUT
+Connecting a damper pedal,  foot switch, or foot pedal By connecting an optional damper pedal, foot  switch, or foot pedal, you can control even more  functions and effects.
+L/MONO
+1
+R
+2
+PEDAL
+SWITCH
+DAMPER
+Headphones 1. When using headphones, plug them into the
+headphones jack located on the front panel. Use the [VOLUME] slider to adjust the volume  of the headphones. The X50’s headphone jack  carries the same signal as the (MAIN OUTPUT)  L/MONO and R output jacks.
+Note: If you want to monitor the (INDIVIDUAL  OUTPUT) 1 and 2 jacks in addition to the main  outputs, an external mixer may be required.
+26
+Connecting a damper pedal This pedal can provide a damper effect as you  play. This instrument also supports half-damping.  Here’s how to connect an optional Korg DS-1H  damper pedal to the DAMPER jack and use it to  control the half-damper effect. 1. Connect an separately sold DS-1H damper
+pedal to the DAMPER jack. You’ll be able to control the half-damper effect  if you’ve connected the DS-1H. If you’ve  connected a different switch-type pedal, it will  function as a damper switch.
+2. After you turn on the power, set the switch
+polarity and adjust the half-damper response to  ensure that the half-damper pedal works  correctly. (☞PG p.77, 80)
+2. After turning the power on, use GLOBAL 0:
+System, Foot page “Foot Pedal Assign” to  assign the function controlled by the foot pedal.  (☞p.88)
+Connecting a computer
+Connecting a computer You can connect the X50 to your computer and use  it as both an input keyboard and a MIDI sound  module. You can also use the included editor to edit the  X50 from your computer. You can connect the X50 to your computer in  either of the following ways. • Use a USB cable
+Note: Use the KORG USB-MIDI Driver if you’re  connecting the X50 via USB to a computer that  meets the requirements described in “KORG  USB-MIDI Driver operating requirements,”  below.
+• Use a commercially available MIDI interface,  and connect the X50 via its MIDI connectors.
+Operating requirements for the  KORG USB-MIDI Driver and the edi- tor software
+Contents of the CD-ROM X50 Editor/Plug-In Editor  (for Windows XP / Mac OS X) KORG USB-MIDI Driver  (for Windows XP / Mac OS X) Parameter Guide (PDF) Editor/Plug-In Editor Manual (PDF) Software License Agreement (PDF)
+Please note before use • Copyright to all software included in this prod-
+uct is the property of Korg Inc.
+• The license agreement for this software is pro-
+vided separately. You must read this license  agreement before you install this software.  Your installation of this software will be taken  to indicate your acceptance of this agreement.
+KORG USB-MIDI Driver operating  requirements
+Windows: • Computer
+A computer with a USB port, that satisﬁes the  requirements of Microsoft Windows XP
+27
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+Microsoft Windows XP Home Edition,  Professional or x64 Edition (The driver for x64  Edition is a Beta version.)
+Windows XP:  Installing the KORG USB-MIDI Driver  and the editor software
+Macintosh: • Computer
+An Apple Macintosh with a USB port that  satisﬁes the requirements of Mac OS X
+• Operating system
+Mac OS X version 10.3 or later
+Please be aware that in the case of some  computers, the system may not function  correctly even if your computer meets the  above requirements.
+X50 Editor/Plug-In Editor operating  requirements
+You must install the KORG USB-MIDI Driver  if you want to connect the X50 to your  computer via USB and use the X50 Editor/ Plug-In Editor.  It is not possible to run multiple instances of  X50 Editor/Plug-In Editor on the operating  system. This means that it is not possible to  use these editors to edit two or more X50 units  simultaneously.
+Windows: • Computer
+CPU: Pentium III/1 GHz or better Memory: 256 MB or more Monitor: 1,024 × 768 pixels, 16-bit color or  better A computer with a USB port, that satisﬁes the  requirements of Microsoft Windows XP
+• Operating system
+Microsoft Windows XP Home Edition or  Professional, Service Pack 1 or later
+Macintosh: • Computer
+CPU: Apple G4/400 MHz or better Memory: 256 MB or more Monitor: 1,024 × 768 pixels, 32,000 colors or  better An Apple Macintosh with a USB port that  satisﬁes the requirements of Mac OS X
+• Operating system
+Mac OS X version 10.3.9 or later
+28
+microX/X50 application installation The X50 application installer automatically installs  the KORG USB-MIDI Driver Tools and X50 Edi- tor/Plug-In Editor that are provided on the  included CD-ROM. Note: You must install the KORG USB-MIDI  Driver Tools before you connect the X50 to your  computer via USB. 1. Insert the included CD-ROM into your CD-
+ROM drive. Normally the “microX/X50 Application  Installer” will start up automatically. If your computer is set so the installer does not  run automatically, double-click  “KorgSetup.exe” on the CD-ROM.
+2. From the list, select [KORG X50 MUSIC
+SYNTHSIER], and click [Next >].
+3. From the list, select the applications that you
+want to install, and click [Install].
+The applications you selected will be  successively installed.
+4. Follow the on-screen instructions to install each
+• Specify the installation destination. The
+screen will show the installation destination  folder. If you want to change this, click  [Change] and select the desired installation  destination.
+• Click [Next >] to begin the installation. • When the installation is complete, click [Fin-
+ish] to exit the installer.
+Install the next application in the same way. 5. If you selected X50 Editor/Plug-In Editor in  step 2, choose the application(s) you want to  install. • Successively select and install the Editor
+(Standalone), Plug-In Editor (VST), and/or  Plug-In Editor (RTAS) as desired. For example if you want to install the stand- alone version, click [Install Stand-alone  version]. Then follow the on-screen  directions to perform the installation, and  click [Close] when the installation has been  successfully completed. If you want to install a plug-in version, click  in the Installer screen to select the format of  plug-in that you want to install, and perform  the installation.
+7. The ﬁrst time you connect the X50 to the USB
+port of your computer, the standard USB-MIDI  driver provided by Windows will be installed  automatically. If you want to use the KORG USB-MIDI Driver  for Windows XP, please re-install the driver  manually using the procedure described below.
+Setting up the KORG USB-MIDI Driver 1. Before you perform the procedure below, you  must ﬁnish installing KORG USB-MIDI Driver  Tools into your computer. Then restart the operating system of your  computer, and power-on the X50. (☞p.23) Note: The driver must be installed for each USB  port. If you connect the X50 to a different USB  port than the one you used when installing  KORG USB-MIDI Driver for Windows, you  will need to use the same procedure to install  the driver again.
+2. Using a USB cable, connect the USB connector
+of the X50 to the USB connector of your  computer. Make sure that the plug is oriented correctly,  and push it all the way into the connector. Windows will detect that the X50 has been  connected.
+Then the standard driver will be installed  automatically.
+• When you’ve ﬁnished installing the applica- tion(s) you want, click [Exit installer] to exit  the installer.
+6. When all the selected applications have been
+installed, click [Finish] to exit the installer.
+3. In the task bar, choose [Start] → [All Programs]  → [KORG] → [KORG USB-MIDI Driver Tools]  → [Install KORG USB-MIDI Device] to start up  the setup utility.  The KORG USB-MIDI devices currently  connected to your computer will be shown in  29
+
+t r a t S k c i u Q
+n o i t c u d o r t n
+I
+p u t e S
+m a r g o r P
+n o i t a n b m o C
+i
+i t l u M
+t c e f f E
+l a b o G
+l
+r o t a i g g e p r A
+
+t i K m u r D
+l
+o r t n o c   l a n r e t x E
+4. If a warning dialog box regarding digital
+signature authentication appears during the  installation, click [Continue] to continue the  installation.
+Mac OS X: Installing the KORG USB-MIDI driver  and editor software
+Installing the KORG USB-MIDI Driver Note: Use the KORG USB-MIDI Driver if you are  connecting the X50 via USB to a computer that  satisﬁes the conditions listed in “KORG USB-MIDI  Driver operating requirements” (☞p.27). 1. Insert the included CD-ROM into your CD-
+ROM drive.
+2. In the CD-ROM, navigate to the “KORG USB- MIDI Driver” folder, and double-click “KORG  USB-MIDI Driver.pkg” to start up the installer.
+3. Depending on the version of your operating
+system, a conﬁrmation dialog box may appear  at this point. If so, enter your password and  click [OK]. When the installer starts up, the  following screen will appear. Click [Continue].
+4. “Import information” will appear. Read the
+contents, and click [Continue].
+5. The “License agreement” will appear. Carefully
+read the contents, and click [Continue].  A dialog box will ask whether you accept the  terms of the license agreement. If you accept,  click [Agree].
+6. A screen where you can choose the
+“Installation destination” will appear. Choose  the installation destination and click  [Continue].
+5. Driver installation has been completed. Click
+[Finish] to exit the installer. If you are asked  whether you want to restart Windows now,  choose [Yes] to restart.
+Note: For details on installation and setup, and on  uninstallation, see the “Installation manual”  (HTML) on your computer. To view the  “Installation manual,” click from your taskbar’s  [Start] → [All Programs] → [KORG] → [KORG  USB-MIDI Driver Tools] → [Installation manual].
+About the X50 and driver ports KEYBOARD port Applications on your computer use this port to  receive MIDI messages from the X50 (data from  the keyboard and controllers). SOUND port Applications on your computer use this port to  send MIDI messages to the X50’s internal sound  generator, making it produce sound.

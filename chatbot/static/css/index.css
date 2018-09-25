@@ -1,0 +1,184 @@
+
+body
+{
+    /*background-color: #f9f9f9;*/
+    /*background-color:  #fef9e7  ;*/
+    /*background-color:   #ebdef0  /*white*/  ;*/
+    background-color:   #ebdef0  /*white*/  ;
+    /*background-color:  #ffffff  ;*/
+    font-family: 'Roboto', sans-serif;
+    font-size:14px;
+    margin:5px;
+    /*vertical-align: middle;*/
+}
+
+.textarea_style
+{
+    height:100px;
+    overflow:auto;
+    resize: none;
+    width:400px;
+}
+
+.header
+{
+  /*background-image: url("/home/quant/AL/chatbot_demo-master/chatbot/static/img/space.png");*/
+  /*background-color: #ff9400;*/
+  background-image: linear-gradient(to right, #0000bb, #bb0000);
+  margin-top: 0;
+  padding: 20px 20px 20px 60px;
+}
+
+
+#logo{
+    text-align:center;
+    /*margin:50px auto;*/
+    float: left;
+    width: 100px;
+    height: 100px;
+    /*background: #555;*/
+
+}
+#logo a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:white;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+.header h1 {
+    margin-left:200px;
+    float: center;
+    /*position: relative;*/
+    color: #ffffff;
+    font-size: 30pt;
+    text-decoration: none;
+}
+
+
+
+/*h1  {
+  font-family: 'Lobster', cursive;
+}*/
+
+
+.middle_parter
+{
+  /*margin: 0 auto;*/
+  margin-left: 220px;
+  margin-top: 120px;
+  min-width:400px;
+  width: 70%;
+}
+
+.question_part
+{
+  border: 2px solid grey;
+  height: 300px;
+  overflow: auto;
+  width: 500px;
+}
+
+li
+{
+  list-style: none;
+  width:80%;
+}
+
+.client
+{
+  box-sizing: border-box;
+  float:left;
+  padding:10px;
+  color: green;
+}
+
+.machine
+{
+  box-sizing: border-box;
+  float:right;
+  padding:10px;
+  text-align: right;
+  color: teal;
+}
+
+.asker
+{
+  box-sizing: border-box;
+  padding:10px;
+  width:400px;
+}
+
+
+.home_middle a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 3px solid mediumvioletred;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.home_middle a:hover, a:active {
+    background-color: #ab006e;
+    color: white;
+}
+
+.logout a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 3px solid mediumvioletred;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    float:right;
+}
+
+.logout a:hover, a:active {
+    background-color: #ab006e;
+    color: white;
+
+}
+
+.option_box{
+  border: 3px solid mediumvioletred;
+  padding: 15px 20px;
+}
+
+.login a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 3px solid mediumvioletred;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /*float:center;*/
+}
+
+.login a:hover, a:active {
+    background-color: #ab006e;
+    color: white;
+
+}
+
+
+/* New Code */
+
+#container
+{
+  border: 1px solid grey;
+}
+
+#container canvas
+{
+  /* width: 100%; */
+}
